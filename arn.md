@@ -7,7 +7,6 @@ layout: default
 
 # KIIS Network
 
-
 <!--Simplest syntax-->
 This is a page of all HD (High Definition) streams that are not easily found. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/).
 
@@ -39,12 +38,22 @@ This is a page of all HD (High Definition) streams that are not easily found. Th
 
 [Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC)
 
-## Nova 969 - Brisbane 128Kbps
+# Gold Network
+
+## WSFM 1017 - Sydney 128Kbps
 
 <!--Simplest syntax-->
-<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC" type="audio/mpeg" controls>
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-[Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC)
+[Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC)
 
+## Gold 1043 - Melbourne 128Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+[Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043_SC)
