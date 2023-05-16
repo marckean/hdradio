@@ -10,16 +10,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Kiis 1065 - Sydney
+# HD Streams
 
 <!--Simplest syntax-->
-<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>
-  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
-</audio>
-
-Trouble with the embedded player? Take **eJukebox Hits** wherever you go. Listen anywhere/anytime with the free iHeartRadio app, you can listen to **eJukebox Hits** on [iHeart Radio](https://www.iheart.com/live/ejukebox-9243).
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a page of all HD (High Definition) streams that are not easily found.
 
 ## Kiis 1065 - Sydney
 
@@ -28,9 +22,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-Trouble with the embedded player? Take **eJukebox Hits** wherever you go. Listen anywhere/anytime with the free iHeartRadio app, you can listen to **eJukebox Hits** on [iHeart Radio](https://www.iheart.com/live/ejukebox-9243).
+You can also take this stream and listen to this on another device, as example **Sonos** - [Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ### Header 3
 
