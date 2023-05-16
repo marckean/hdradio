@@ -4,8 +4,9 @@ layout: default
 
 - [Home](./index.html)
 - [Australian Radio Network](./arn.html)
+- [Austereo](./austereo.html)
 
-# Nova Entertainment
+# Nova
 
 ## Nova 969 - Sydney 128Kbps
 
@@ -100,3 +101,41 @@ layout: default
 </audio>
 
 [Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320_SC)
+
+# Smooth Network
+
+## Smooth 95.3 - Sydney 128Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+[Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC)
+
+## Smooth 95.3 - Sydney 320Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+[Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320_SC)
+
+## Smooth 91.5 - Melbourne 128Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+[Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC)
+
+## Smooth 91.5 - Melbourne 320Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+[Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320_SC)
