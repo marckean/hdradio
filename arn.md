@@ -2,6 +2,9 @@
 layout: default
 ---
 
+- [Home](./index.html)
+- [Nova Entertainment](./nova.html)
+
 # KIIS Network
 
 
