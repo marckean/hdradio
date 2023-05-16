@@ -9,7 +9,11 @@ layout: default
 # HD Streams
 
 <!--Simplest syntax-->
-This is a page of all HD (High Definition) streams that are not easily found. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/).
+This is a page of all HD (High Definition) streams that are not easily found or advertised. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/) or [Listnr](https://www.listnr.com/), so they are all listed here so that you can listen to radio with all its glory, the way radio is meant to sound. 
+
+These streams are way better than DAB+ digital radio. They think you're dumb, packing so much data down limited pipes over the digital airwaves, using the codec HE-AAC (AAC+) thinking you won't notice the difference of the reduction of quality.
+
+These streams are also better than FM, as FM is analog and it the equivalent of 96Kbps in digital.
 
 ## Kiis 1065 - Sydney 128Kbps
 
