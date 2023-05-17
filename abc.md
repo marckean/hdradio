@@ -24,12 +24,14 @@ title: Australian Broadcasting Corporation
 
     }
   </script>
-
+</body>
 
 
 ## ABC Classic 1 - Sydney 128Kbps
 
 
+<body>
+  <audio id="audioPlayer" controls></audio> <!-- Create an audio element with controls -->
 
   <script>
     if (Hls.isSupported()) {
@@ -41,13 +43,15 @@ title: Australian Broadcasting Corporation
 
     }
   </script>
-
+</body>
 
 
 ## ABC Classic 2 - Sydney 128Kbps
 
 
-
+<body>
+  <audio id="audioPlayer" controls></audio> <!-- Create an audio element with controls -->
+  
   <script>
     if (Hls.isSupported()) {
       var audio = document.getElementById('audioPlayer');
