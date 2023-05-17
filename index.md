@@ -16,8 +16,8 @@ These streams are also better than FM, as FM is analog and it the equivalent of 
 
 ## Kiis 1065 - Sydney 128Kbps
 
-<p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
-<img style="vertical-align:middle;margin:10px 0px 5px 0px" width="50" src="/assets/img/stations/kiis1065.png">
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065.png">
 </a></p>
 
 <!--Simplest syntax-->
