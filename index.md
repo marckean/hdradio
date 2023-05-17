@@ -14,9 +14,9 @@ So all the radio listen live streams are all listed here so that you can listen 
 
 These streams are also better than FM, as FM is analog and is the equivalent of 96Kbps in digital.
 
-<p align="center"><a href="https://www.iheart.com/live/ejukebox-hits-9243">
+<p align="center">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="450" src="/assets/img/shutterstock_204979480.jpg">
-</a></p>
+</p>
 
 # eJukebox
 
@@ -30,9 +30,9 @@ Both are 128Kbps MP3 streams. To compare to the rest.
 
 ## eJukebox Hits
 
-<p align="left">
+<p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Hits_72dpi.png">
-</p>
+</a></p>
 
 <!--Simplest syntax-->
 <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls>
