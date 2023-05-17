@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
+title: Australian Radio Network
 ---
 
 [//]: # (margin:top right bottom left)
 
-# Australian Radio Network
+# Kiis Network
 
 <!--Simplest syntax-->
 This is a page of all HD (High Definition) streams that are not easily found. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/).
@@ -42,6 +43,8 @@ This is a page of all HD (High Definition) streams that are not easily found. Th
 <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
+
+# Gold Network
 
 ## WSFM 1017 - Sydney 128Kbps
 

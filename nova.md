@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: Nova Entertainment
 ---
-
-# Nova Entertainment
 
 ## Nova 969 - Sydney 128Kbps
 

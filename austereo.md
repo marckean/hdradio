@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: Austereo
 ---
-
-# Austereo
 
 ## Triple M CLassic Rock Digital - Sydney 128Kbps
 
