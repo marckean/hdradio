@@ -3,34 +3,72 @@ layout: page
 title: Austereo
 ---
 
-## Triple M Classic Rock Digital - Sydney 128Kbps
-
-<!--Simplest syntax-->
-<audio src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" type="audio/mpeg" controls>
-  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
-</audio>
-
-[Stream URL](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8)
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
 
 <script>
-    if (Hls.isSupported()) {
-      var audio = document.getElementById('audioPlayer');
-      var hls = new Hls();
-      
-      hls.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to your .m3u8 file
-      hls.attachMedia(audio);
-      hls.on(Hls.Events.MANIFEST_PARSED, function() {
-        audio.play(); // Start playback once the manifest is parsed
-      });
-    }
-    else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
-      audio.src = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'; // Fallback for Safari
-      audio.addEventListener('loadedmetadata', function() {
-        audio.play(); // Start playback once metadata is loaded
-      });
-    }
-  </script>
+  if (Hls.isSupported()) {
+    var audio1 = document.getElementById('audioPlayer1');
+          // Initialize more audio variables as needed
 
-  <audio controls>
-    <source src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" type="application/x-mpegURL">
-  </audio>
+    var hls1 = new Hls();
+    // Initialize more Hls instances as needed
+
+    hls1.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls1.attachMedia(audio1);
+  }
+</script>
+
+<script>
+  if (Hls.isSupported()) {
+    var audio1 = document.getElementById('audioPlayer2');
+          // Initialize more audio variables as needed
+
+    var hls1 = new Hls();
+    // Initialize more Hls instances as needed
+
+    hls1.loadSource('https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls1.attachMedia(audio1);
+  }
+</script>
+
+<script>
+  if (Hls.isSupported()) {
+    var audio1 = document.getElementById('audioPlayer3');
+          // Initialize more audio variables as needed
+
+    var hls1 = new Hls();
+    // Initialize more Hls instances as needed
+
+    hls1.loadSource('https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls1.attachMedia(audio1);
+  }
+</script>
+
+<script>
+  if (Hls.isSupported()) {
+    var audio1 = document.getElementById('audioPlayer4');
+          // Initialize more audio variables as needed
+
+    var hls1 = new Hls();
+    // Initialize more Hls instances as needed
+
+    hls1.loadSource('https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls1.attachMedia(audio1);
+  }
+</script>
+
+## Triple M Classic Rock Digital - Sydney 128Kbps
+
+<audio id="audioPlayer1" controls></audio>
+
+## Triple M Classic Rock Digital - Melbourne 128Kbps
+
+<audio id="audioPlayer2" controls></audio>
+
+## Triple M Classic Rock Digital - Brisbane 128Kbps
+
+<audio id="audioPlayer3" controls></audio>
+
+## Triple M Classic Rock Digital - Perth 128Kbps
+
+<audio id="audioPlayer4" controls></audio>
