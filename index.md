@@ -24,15 +24,15 @@ I have listed [eJukebox](https://ejukebox.com.au) here as the sponsor of this we
 
 Both are 128Kbps MP3 streams. To compare to the rest.
 
-<p align="center"><a href="https://www.iheart.com/live/ejukebox-hits-9243">
+<p align="center">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="450" src="/assets/img/hire-dance1.jpg">
-</a></p>
+</p>
 
 ## eJukebox Hits
 
-<p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243">
+<p align="left">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Hits_72dpi.png">
-</a></p>
+</p>
 
 <!--Simplest syntax-->
 <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls>
