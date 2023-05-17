@@ -3,10 +3,7 @@ layout: page
 title: Australian Broadcasting Corporation
 ---
 
-
-
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
-
 
 <audio id="audioPlayer1" controls></audio> <!-- Create the first audio player -->
 <audio id="audioPlayer2" controls></audio> <!-- Create the second audio player -->
