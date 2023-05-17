@@ -3,7 +3,7 @@ layout: page
 title: Austereo
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script> <!-- Include the HLS.js library -->
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
@@ -126,28 +126,3 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
 
 
-
-
-  <script src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
-
-
-<div id="player1"></div>
-<div id="player2"></div>
-<!-- Add more player divs as needed -->
-
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var player1 = new MediaChrome(document.getElementById('player1'));
-    var player2 = new MediaChrome(document.getElementById('player2'));
-    // Initialize more players as needed
-
-    player1.src = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
-    player1.controls = true;
-
-    player2.src = 'https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'; // Provide the path to the second .m3u8 file
-    player2.controls = true;
-
-    // Set additional player properties and load more media files as needed
-  });
-</script>
