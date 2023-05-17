@@ -2,11 +2,7 @@
 layout: default
 ---
 
-- [Home](./index.html)
-- [Nova Entertainment](./nova.html)
-- [Austereo](./austereo.html)
-
-# KIIS Network
+# Australian Radio Network
 
 <!--Simplest syntax-->
 This is a page of all HD (High Definition) streams that are not easily found. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/).
@@ -38,8 +34,6 @@ This is a page of all HD (High Definition) streams that are not easily found. Th
 </audio>
 
 [Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC)
-
-# Gold Network
 
 ## WSFM 1017 - Sydney 128Kbps
 

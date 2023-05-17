@@ -2,14 +2,7 @@
 layout: default
 ---
 
-- [Home](./index.html)
-- [Nova Entertainment](./nova.html)
-- [Australian Radio Network](./arn.html)
-
-# Triple M Network
-
-<!--Simplest syntax-->
-This is a page of all HD (High Definition) streams that are not easily found. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/).
+# Austereo
 
 ## Triple M CLassic Rock Digital - Sydney 128Kbps
 

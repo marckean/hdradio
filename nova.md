@@ -2,11 +2,7 @@
 layout: default
 ---
 
-- [Home](./index.html)
-- [Australian Radio Network](./arn.html)
-- [Austereo](./austereo.html)
-
-# Nova
+# Nova Entertainment
 
 ## Nova 969 - Sydney 128Kbps
 
