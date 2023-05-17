@@ -45,41 +45,50 @@ Triple M Classic Rock Digital - Perth 128Kbps
 <!------------------------------------------->
 
 <script>
-  if (Hls.isSupported()) {
-    var audio1 = document.getElementById('2classicrock');
-          // Initialize more audio variables as needed
+  var audio1 = document.getElementById('2classicrock');
+  // Initialize more audio variables as needed
 
+  if (audio1.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio1.src = 'path/to/audio1.m3u8'; // Provide the path to the first .m3u8 file
+    audio1.addEventListener('loadedmetadata', function() {
+      audio1.play(); // Start playback once metadata is loaded
+    });
+
+    // Provide fallback sources and initialize more audio players as needed
+  } else {
     var hls1 = new Hls();
     // Initialize more Hls instances as needed
 
     hls1.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
     hls1.attachMedia(audio1);
+
+    // Load and initialize more audio players using HLS.js as needed
   }
 </script>
 
 <script>
   if (Hls.isSupported()) {
-    var audio1 = document.getElementById('3classicrock');
+    var audio2 = document.getElementById('3classicrock');
           // Initialize more audio variables as needed
 
-    var hls1 = new Hls();
+    var hls2 = new Hls();
     // Initialize more Hls instances as needed
 
-    hls1.loadSource('https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
-    hls1.attachMedia(audio1);
+    hls2.loadSource('https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls2.attachMedia(audio2);
   }
 </script>
 
 <script>
   if (Hls.isSupported()) {
-    var audio1 = document.getElementById('4classicrock');
+    var audio3 = document.getElementById('4classicrock');
           // Initialize more audio variables as needed
 
-    var hls1 = new Hls();
+    var hls3 = new Hls();
     // Initialize more Hls instances as needed
 
-    hls1.loadSource('https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
-    hls1.attachMedia(audio1);
+    hls3.loadSource('https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls3.attachMedia(audio3);
   }
 </script>
 
@@ -95,3 +104,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
     hls1.attachMedia(audio1);
   }
 </script>
+
+
+
+
