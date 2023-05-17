@@ -1,19 +1,24 @@
 ---
 layout: home
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: HD Streams
+subtitle: Giving you what you deserve
 ---
 
 # HD Streams
 
-<!--Simplest syntax-->
-This is a page of all HD (High Definition) streams that are not easily found or advertised. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/) or [Listnr](https://www.listnr.com/), so they are all listed here so that you can listen to radio with all its glory, the way radio is meant to sound. 
+This is a site listing all HD (High Definition) **listen live** radio streams that are not easily found or advertised. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/) or [Listnr](https://www.listnr.com/) as the radio stations are money hungry and like to save as much money as possible by packing as much audio into a tiny little stream to save on data. Similar to DAB+ digital radio, packing so much data (more stations) down limited pipes over the digital airwaves.
 
-These streams are way better than DAB+ digital radio. They think you're dumb, packing so much data down limited pipes over the digital airwaves, using the codec HE-AAC (AAC+) thinking you won't notice the difference of the reduction of quality.
+They think we're dumb, all thanks (or not thanks) to the audio codec HE-AAC (AAC+), to the **average** ear, **48Kbps HE-AAC** is similar to **128Kbps MP3**, they think that you won't notice the difference of the reduction of quality, meanwhile saving dollars on data costs. However with great audio devices these days, there's a huge difference in quality. 
+
+So all the radio listen live streams are all listed here so that you can listen to radio online with all its glory, the way radio is meant to sound. 
 
 These streams are also better than FM, as FM is analog and it the equivalent of 96Kbps in digital.
 
 ## Kiis 1065 - Sydney 128Kbps
+
+<p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
+<img style="vertical-align:middle;margin:10px 0px 5px 0px" width="50" src="/assets/img/stations/kiis1065.png">
+</a></p>
 
 <!--Simplest syntax-->
 <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>

@@ -23,8 +23,8 @@ navbar-links:
   Stations:
     - ABC: "abc"
     - Austereo: "austereo"
-    - Australian Radio Network: "arn"
-    - Nova Entertainment: "nova"
+    - ARN: "arn"
+    - Nova: "nova"
   eJukebox: "https://ejukebox.com.au"
 
 ################
