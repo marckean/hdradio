@@ -20,13 +20,12 @@ author: Marc
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Stations:
     - ABC: "abc"
     - Austereo: "austereo"
     - Australian Radio Network: "arn"
     - Nova Entertainment: "nova"
-  Author's home: "https://deanattali.com"
+  eJukebox: "https://ejukebox.com.au"
 
 ################
 # --- Logo --- #
