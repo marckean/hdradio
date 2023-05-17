@@ -5,7 +5,7 @@ title: Australian Broadcasting Corporation
 
 
 
-<script src="[path/to/hls.js](https://cdn.jsdelivr.net/npm/hls.js@1)"></script> <!-- Include the HLS.js library -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
 
 
 <audio id="audioPlayer1" controls></audio> <!-- Create the first audio player -->
