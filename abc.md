@@ -10,7 +10,7 @@ title: Australian Broadcasting Corporation
 
 Triple J - Sydney 128Kbps
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome/+esm"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 <media-controller audio>
   <audio
     slot="media"
@@ -31,7 +31,7 @@ Triple J - Sydney 128Kbps
 
 Double J - Sydney 128Kbps
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome/+esm"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 <media-controller audio>
   <audio
     slot="media"
@@ -52,7 +52,7 @@ Double J - Sydney 128Kbps
 
 ABC Classic 1 - Sydney 128Kbps
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome/+esm"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 <media-controller audio>
   <audio
     slot="media"
@@ -74,7 +74,7 @@ ABC Classic 1 - Sydney 128Kbps
 
 ABC Classic 2 - Sydney 128Kbps
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome/+esm"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 <media-controller audio>
   <audio
     slot="media"
