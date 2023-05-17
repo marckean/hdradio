@@ -25,7 +25,7 @@ Triple J - Sydney 128Kbps
 </media-controller>
 
 <!--Sydney-->
-<p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038316/doublejnsw/masterhq.m3u8">
+<p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/masterhq.m3u8">
 <img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/doublej.png">
 </a></p>
 
@@ -35,7 +35,7 @@ Double J - Sydney 128Kbps
 <media-controller audio>
   <audio
     slot="media"
-    src="https://mediaserviceslive.akamaized.net/hls/live/2038316/doublejnsw/masterhq.m3u8"
+    src="https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/masterhq.m3u8"
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
@@ -46,7 +46,7 @@ Double J - Sydney 128Kbps
 </media-controller>
 
 <!--Sydney-->
-<p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038315/classicfmnsw/masterhq.m3u8">
+<p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8">
 <img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/abcclassic1.png">
 </a></p>
 
@@ -56,7 +56,7 @@ ABC Classic 1 - Sydney 128Kbps
 <media-controller audio>
   <audio
     slot="media"
-    src="https://mediaserviceslive.akamaized.net/hls/live/2038315/classicfmnsw/masterhq.m3u8"
+    src="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8"
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
