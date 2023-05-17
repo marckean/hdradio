@@ -42,9 +42,9 @@ Both are 128Kbps MP3 streams.
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream
-
 ## [KIIS 1065](https://www.kiis1065.com.au) - Sydney 128Kbps
+
+The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream:
 
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065.png">
@@ -55,7 +55,7 @@ The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.k
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-
+As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn)
 
 # Take streams with you
 
