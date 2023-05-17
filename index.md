@@ -23,7 +23,7 @@ Both are 128Kbps MP3 streams.
 ## eJukebox Hits
 
 <p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243">
-<img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/eJukebox%20Hits_72dpi.png">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Hits_72dpi.png">
 </a></p>
 
 <!--Simplest syntax-->
@@ -34,7 +34,7 @@ Both are 128Kbps MP3 streams.
 ## eJukebox Smooth
 
 <p align="left"><a href="https://www.iheart.com/live/ejukebox-smooth-9750">
-<img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png">
 </a></p>
 
 <!--Simplest syntax-->
