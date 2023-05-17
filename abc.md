@@ -52,15 +52,31 @@ title: Australian Broadcasting Corporation
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>HLS Demo</title>
-    <link rel="stylesheet" href="https://cdn.plyr.io/1.8.2/plyr.css">
-  </head>
-  <body>
-    <audio preload="true" id="player" controls crossorigin>
-    <script src="https://cdn.plyr.io/1.8.2/plyr.js"></script>
-    <script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>
-  </body>
+<head>
+  <title>HLS Audio Player</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
+</head>
+<body>
+  <audio id="audioPlayer" controls></audio> <!-- Create an audio element with controls -->
+
+  <script>
+    if (Hls.isSupported()) {
+      var audio = document.getElementById('audioPlayer');
+      var hls = new Hls();
+      
+      hls.loadSource('https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8'); // Provide the path to your .m3u8 file
+      hls.attachMedia(audio);
+      hls.on(Hls.Events.MANIFEST_PARSED, function() {
+        audio.play(); // Start playback once the manifest is parsed
+      });
+    }
+    else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+      audio.src = 'https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8'; // Fallback for Safari
+      audio.addEventListener('loadedmetadata', function() {
+        audio.play(); // Start playback once metadata is loaded
+      });
+    }
+  </script>
+</body>
 </html>
 
