@@ -4,7 +4,7 @@ title: Austereo
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
-
+<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
@@ -110,7 +110,18 @@ Triple M Classic Rock Digital - Perth 128Kbps
   var audioSrc4 = 'https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8';
 
   if (audio4.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
-    audio4.src = audioSrc4; 
+    <media-controller audio>
+  <audio
+    slot="media"
+    src="https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8"
+  ></audio>
+      <media-control-bar>
+        <media-play-button></media-play-button>
+        <media-time-display show-duration></media-time-display>
+        <media-mute-button></media-mute-button>
+        <media-volume-range></media-volume-range>
+      </media-control-bar>
+        </media-controller> 
 
   } else {
     var hls4 = new Hls();
@@ -125,17 +136,5 @@ Triple M Classic Rock Digital - Perth 128Kbps
   }
 </script>
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 
-<media-controller audio>
-  <audio
-    slot="media"
-    src="https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8"
-  ></audio>
-  <media-control-bar>
-    <media-play-button></media-play-button>
-    <media-time-display show-duration></media-time-display>
-    <media-mute-button></media-mute-button>
-    <media-volume-range></media-volume-range>
-  </media-control-bar>
-</media-controller>
+
