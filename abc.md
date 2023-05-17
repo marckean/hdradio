@@ -12,6 +12,30 @@ title: Australian Broadcasting Corporation
 
 Triple J - Sydney 128Kbps
 
+<audio id="audioPlayer1" controls></audio> <!-- Create the first audio player -->
+
+<!--Sydney-->
+<p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8">
+<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/abcclassic1.png">
+</a></p>
+
+ABC Classic 1 - Sydney 128Kbps
+
+<audio id="audioPlayer2" controls></audio>
+
+
+<!--Sydney-->
+<p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8">
+<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/abcclassic2.png">
+</a></p>
+
+ABC Classic 2 - Sydney 128Kbps
+
+<audio id="audioPlayer3" controls></audio>
+
+
+<!--SCRIPTS-->
+
 <script>
   if (Hls.isSupported()) {
     var audio1 = document.getElementById('audioPlayer1');
@@ -24,15 +48,6 @@ Triple J - Sydney 128Kbps
     hls1.attachMedia(audio1);
   }
 </script>
-
-<audio id="audioPlayer1" controls></audio> <!-- Create the first audio player -->
-
-<!--Sydney-->
-<p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8">
-<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/abcclassic1.png">
-</a></p>
-
-ABC Classic 1 - Sydney 128Kbps
 
 <script>
   if (Hls.isSupported()) {
@@ -47,15 +62,6 @@ ABC Classic 1 - Sydney 128Kbps
   }
 </script>
 
-<audio id="audioPlayer2" controls></audio>
-
-<!--Sydney-->
-<p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8">
-<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/abcclassic2.png">
-</a></p>
-
-ABC Classic 2 - Sydney 128Kbps
-
 <script>
   if (Hls.isSupported()) {
     var audio3 = document.getElementById('audioPlayer3');
@@ -69,4 +75,6 @@ ABC Classic 2 - Sydney 128Kbps
   }
 </script>
 
-<audio id="audioPlayer3" controls></audio>
+
+
+
