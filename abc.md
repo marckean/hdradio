@@ -8,9 +8,9 @@ title: Australian Broadcasting Corporation
 
 <html>
 <head>
-  <title>HLS Audio Player</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
 </head>
+
 <body>
   <audio id="audioPlayer" controls></audio> <!-- Create an audio element with controls -->
 
@@ -24,19 +24,12 @@ title: Australian Broadcasting Corporation
 
     }
   </script>
-</body>
-</html>
+
 
 
 ## ABC Classic 1 - Sydney 128Kbps
 
-<html>
-<head>
-  <title>HLS Audio Player</title>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
-</head>
-<body>
-  <audio id="audioPlayer" controls></audio> <!-- Create an audio element with controls -->
+
 
   <script>
     if (Hls.isSupported()) {
@@ -48,19 +41,12 @@ title: Australian Broadcasting Corporation
 
     }
   </script>
-</body>
-</html>
+
 
 
 ## ABC Classic 2 - Sydney 128Kbps
 
-<html>
-<head>
-  <title>HLS Audio Player</title>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
-</head>
-<body>
-  <audio id="audioPlayer" controls></audio> <!-- Create an audio element with controls -->
+
 
   <script>
     if (Hls.isSupported()) {
@@ -73,5 +59,6 @@ title: Australian Broadcasting Corporation
     }
   </script>
 </body>
+
 </html>
 
