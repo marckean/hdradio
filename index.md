@@ -48,6 +48,7 @@ You can also take the streams and listen to this on another device, as example *
 | Triple J | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8) |
 | ABC Classic 1 | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8) |
 | ABC Classic 2 | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8) |
+
 | Kiis 1011 | Melbourne | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC) |
 | Nova 100 | Melbourne | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC) |
 | Nova 100 | Melbourne | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320_SC) |
@@ -55,11 +56,16 @@ You can also take the streams and listen to this on another device, as example *
 | Gold 1043 | Melbourne | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043_SC) |
 | Smooth 91.5 | Melbourne | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC) |
 | Smooth 91.5 | Melbourne | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320_SC) |
+
 | Kiis 973 | Brisbane | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC) |
 | Nova 1069 | Brisbane | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128_SC) |
 | Nova 1069 | Brisbane | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC320_SC) |
 | Triple M Classic Rock | Brisbane | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8) |
+
+| 96FM | Perth | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM_SC) |
 | Nova 937 | Perth | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128_SC) |
 | Nova 937 | Perth | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320_SC) |
+| Mix 1023 | Perth | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023_SC) |
+
 | Nova 919 | Adelaide | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128_SC) |
 | Nova 919 | Adelaide | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320_SC) |
