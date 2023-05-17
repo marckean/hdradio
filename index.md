@@ -14,6 +14,34 @@ So all the radio listen live streams are all listed here so that you can listen 
 
 These streams are also better than FM, as FM is analog and is the equivalent of 96Kbps in digital.
 
+# eJukebox
+
+I have listed [eJukebox](https://ejukebox.com.au) here as the sponsor of this website. [eJukebox](https://ejukebox.com.au) is a leader of impressive sounding radio streams and really set the standard for good quality online radio. It's hard to beat the sound quality of these two eJukebox streams. 
+
+Both are 128Kbps MP3 streams. 
+
+## eJukebox Hits
+
+<p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243/">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/eJukebox%20Hits_72dpi.png">
+</a></p>
+
+<!--Simplest syntax-->
+<audio src="https://listen.ejukebpx.net/one" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+## eJukebox Smooth
+
+<p align="left"><a href="https://www.iheart.com/live/ejukebox-smooth-9750/">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png">
+</a></p>
+
+<!--Simplest syntax-->
+<audio src="https://listen.ejukebpx.net/two" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
 ## Kiis 1065 - Sydney 128Kbps
 
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
@@ -25,7 +53,6 @@ These streams are also better than FM, as FM is analog and is the equivalent of 
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-[Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC)
 
 
 # Take streams with you
