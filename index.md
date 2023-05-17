@@ -14,6 +14,10 @@ So all the radio listen live streams are all listed here so that you can listen 
 
 These streams are also better than FM, as FM is analog and is the equivalent of 96Kbps in digital.
 
+<p align="center"><a href="https://www.iheart.com/live/ejukebox-hits-9243">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="400" src="/assets/img/shutterstock_204979480.jpg">
+</a></p>
+
 # eJukebox
 
 I have listed [eJukebox](https://ejukebox.com.au) here as the sponsor of this website. [eJukebox](https://ejukebox.com.au) is a leader of impressive sounding radio streams and really set the standard for good quality online radio. It's hard to beat the sound quality of these two eJukebox streams. 
