@@ -12,7 +12,7 @@ title: Australian Broadcasting Corporation
 
 Triple J - Sydney 128Kbps
 
-<media-controller audio>
+<media-controller audio1>
   <audio
     slot="media"
     src="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8"
@@ -32,7 +32,7 @@ Triple J - Sydney 128Kbps
 
 Double J - Sydney 128Kbps
 
-<media-controller audio>
+<media-controller audio2>
   <audio
     slot="media"
     src="https://mediaserviceslive.akamaized.net/hls/live/2038316/doublejnsw/masterhq.m3u8"
@@ -52,7 +52,7 @@ Double J - Sydney 128Kbps
 
 ABC Classic 1 - Sydney 128Kbps
 
-<media-controller audio>
+<media-controller audio3>
   <audio
     slot="media"
     src="https://mediaserviceslive.akamaized.net/hls/live/2038315/classicfmnsw/masterhq.m3u8"
@@ -73,7 +73,7 @@ ABC Classic 1 - Sydney 128Kbps
 
 ABC Classic 2 - Sydney 128Kbps
 
-<media-controller audio>
+<media-controller audio4>
   <audio
     slot="media"
     src="https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8"
