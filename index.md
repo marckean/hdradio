@@ -22,27 +22,29 @@ Both are 128Kbps MP3 streams.
 
 ## eJukebox Hits
 
-<p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243/">
+<p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/eJukebox%20Hits_72dpi.png">
 </a></p>
 
 <!--Simplest syntax-->
-<audio src="https://listen.ejukebpx.net/one" type="audio/mpeg" controls>
+<audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
 ## eJukebox Smooth
 
-<p align="left"><a href="https://www.iheart.com/live/ejukebox-smooth-9750/">
+<p align="left"><a href="https://www.iheart.com/live/ejukebox-smooth-9750">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png">
 </a></p>
 
 <!--Simplest syntax-->
-<audio src="https://listen.ejukebpx.net/two" type="audio/mpeg" controls>
+<audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-## Kiis 1065 - Sydney 128Kbps
+The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream
+
+## [KIIS 1065](https://www.kiis1065.com.au) - Sydney 128Kbps
 
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065.png">
