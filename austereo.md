@@ -31,3 +31,7 @@ layout: default
       });
     }
   </script>
+
+  <audio controls>
+    <source src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" type="application/x-mpegURL">
+  </audio>
