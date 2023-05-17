@@ -64,7 +64,7 @@ The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.k
 <media-controller audio>
   <audio
     slot="media"
-    src="http://27253.live.streamtheworld.com/ARN_KIIS1065AAC/HLS/playlist.m3u8"
+    src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
