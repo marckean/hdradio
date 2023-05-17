@@ -41,7 +41,7 @@ Double J - Sydney 128Kbps
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
-    <media-live-button></media-live-button>
+    <media-time-display></media-time-display>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
     <media-cast-button></media-cast-button>
