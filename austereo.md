@@ -3,7 +3,7 @@ layout: page
 title: Austereo
 ---
 
-## Triple M CLassic Rock Digital - Sydney 128Kbps
+## Triple M Classic Rock Digital - Sydney 128Kbps
 
 <!--Simplest syntax-->
 <audio src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" type="audio/mpeg" controls>
