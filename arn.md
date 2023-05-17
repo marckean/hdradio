@@ -56,7 +56,7 @@ Kiis 973 - Brisbane 128Kbps
 
 <!--Adelaide-->
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023_SC">
-<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/mix1023.png">
+<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="300" src="/assets/img/stations/mix1023.png">
 </a></p>
 
 Mix 1023 - Adelaide 128Kbps
