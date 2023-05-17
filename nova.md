@@ -30,7 +30,6 @@ title: Nova Entertainment
 
 [Stream URL](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC)
 
-
 ## Nova 100 - Melbourne 320Kbps
 
 <!--Simplest syntax-->
