@@ -59,7 +59,14 @@ ABC Classic 1 - Sydney 128Kbps
     src="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8"
   ></audio>
   <media-control-bar>
-    <media-play-button></media-play-button>
+    <media-play-button media-paused>
+  <span slot="play">Play</span>
+  <span slot="pause">Pause</span>
+</media-play-button>
+<media-play-button>
+  <span slot="play">Play</span>
+  <span slot="pause">Pause</span>
+</media-play-button>
     <media-time-display show-duration></media-time-display>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
