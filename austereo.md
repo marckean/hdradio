@@ -50,9 +50,6 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
   if (audio1.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio1.src = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
-    audio1.addEventListener('loadedmetadata', function() {
-      audio1.play(); // Start playback once metadata is loaded
-    });
 
     // Provide fallback sources and initialize more audio players as needed
   } else {
@@ -72,9 +69,6 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
   if (audio2.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio2.src = 'https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
-    audio2.addEventListener('loadedmetadata', function() {
-      audio2.play(); // Start playback once metadata is loaded
-    });
 
     // Provide fallback sources and initialize more audio players as needed
   } else {
@@ -94,9 +88,6 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
   if (audio3.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio3.src = 'https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
-    audio3.addEventListener('loadedmetadata', function() {
-      audio3.play(); // Start playback once metadata is loaded
-    });
 
     // Provide fallback sources and initialize more audio players as needed
   } else {
@@ -116,9 +107,6 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
   if (audio4.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio4.src = 'https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
-    audio4.addEventListener('loadedmetadata', function() {
-      audio4.play(); // Start playback once metadata is loaded
-    });
 
     // Provide fallback sources and initialize more audio players as needed
   } else {
