@@ -3,6 +3,8 @@ layout: page
 title: Australian Broadcasting Corporation
 ---
 
+<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
+
 <!--Sydney-->
 <p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8">
 <img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/triplej.png">
@@ -10,7 +12,6 @@ title: Australian Broadcasting Corporation
 
 Triple J - Sydney 128Kbps
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 <media-controller audio>
   <audio
     slot="media"
@@ -21,6 +22,7 @@ Triple J - Sydney 128Kbps
     <media-time-display show-duration></media-time-display>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
+    <media-cast-button></media-cast-button>
   </media-control-bar>
 </media-controller>
 
@@ -31,7 +33,6 @@ Triple J - Sydney 128Kbps
 
 Double J - Sydney 128Kbps
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 <media-controller audio>
   <audio
     slot="media"
@@ -42,6 +43,7 @@ Double J - Sydney 128Kbps
     <media-time-display show-duration></media-time-display>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
+    <media-cast-button></media-cast-button>
   </media-control-bar>
 </media-controller>
 
@@ -52,24 +54,17 @@ Double J - Sydney 128Kbps
 
 ABC Classic 1 - Sydney 128Kbps
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 <media-controller audio>
   <audio
     slot="media"
     src="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8"
   ></audio>
   <media-control-bar>
-    <media-play-button media-paused>
-  <span slot="play">Play</span>
-  <span slot="pause">Pause</span>
-</media-play-button>
-<media-play-button>
-  <span slot="play">Play</span>
-  <span slot="pause">Pause</span>
-</media-play-button>
+    <media-play-button></media-play-button>
     <media-time-display show-duration></media-time-display>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
+    <media-cast-button></media-cast-button>
   </media-control-bar>
 </media-controller>
 
@@ -81,7 +76,6 @@ ABC Classic 1 - Sydney 128Kbps
 
 ABC Classic 2 - Sydney 128Kbps
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 <media-controller audio>
   <audio
     slot="media"
@@ -92,6 +86,7 @@ ABC Classic 2 - Sydney 128Kbps
     <media-time-display show-duration></media-time-display>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
+    <media-cast-button></media-cast-button>
   </media-control-bar>
 </media-controller>
 
