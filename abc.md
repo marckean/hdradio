@@ -51,7 +51,7 @@ title: Australian Broadcasting Corporation
 
   <script>
     if (Hls.isSupported()) {
-      var audio2 = document.getElementById('audioPlayer2');
+      var audio2 = document.getElementById('audioPlayer3');
       // Initialize more audio variables as needed
 
       var hls2 = new Hls();
