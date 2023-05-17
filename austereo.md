@@ -5,9 +5,30 @@ title: Austereo
 
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
 
+## Triple M Classic Rock Digital - Sydney 128Kbps
+
+<audio id="2classicrock" controls></audio>
+
+## Triple M Classic Rock Digital - Melbourne 128Kbps
+
+<audio id="3classicrock" controls></audio>
+
+## Triple M Classic Rock Digital - Brisbane 128Kbps
+
+<audio id="4classicrock" controls></audio>
+
+## Triple M Classic Rock Digital - Perth 128Kbps
+
+<audio id="6classicrock" controls></audio>
+
+
+<!------------------------------------------->
+<!--SCRIPTS-->
+<!------------------------------------------->
+
 <script>
   if (Hls.isSupported()) {
-    var audio1 = document.getElementById('audioPlayer1');
+    var audio1 = document.getElementById('2classicrock');
           // Initialize more audio variables as needed
 
     var hls1 = new Hls();
@@ -20,7 +41,7 @@ title: Austereo
 
 <script>
   if (Hls.isSupported()) {
-    var audio1 = document.getElementById('audioPlayer2');
+    var audio1 = document.getElementById('3classicrock');
           // Initialize more audio variables as needed
 
     var hls1 = new Hls();
@@ -33,7 +54,7 @@ title: Austereo
 
 <script>
   if (Hls.isSupported()) {
-    var audio1 = document.getElementById('audioPlayer3');
+    var audio1 = document.getElementById('4classicrock');
           // Initialize more audio variables as needed
 
     var hls1 = new Hls();
@@ -46,7 +67,7 @@ title: Austereo
 
 <script>
   if (Hls.isSupported()) {
-    var audio1 = document.getElementById('audioPlayer4');
+    var audio1 = document.getElementById('6classicrock');
           // Initialize more audio variables as needed
 
     var hls1 = new Hls();
@@ -56,19 +77,3 @@ title: Austereo
     hls1.attachMedia(audio1);
   }
 </script>
-
-## Triple M Classic Rock Digital - Sydney 128Kbps
-
-<audio id="audioPlayer1" controls></audio>
-
-## Triple M Classic Rock Digital - Melbourne 128Kbps
-
-<audio id="audioPlayer2" controls></audio>
-
-## Triple M Classic Rock Digital - Brisbane 128Kbps
-
-<audio id="audioPlayer3" controls></audio>
-
-## Triple M Classic Rock Digital - Perth 128Kbps
-
-<audio id="audioPlayer4" controls></audio>

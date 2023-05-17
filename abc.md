@@ -12,7 +12,7 @@ title: Australian Broadcasting Corporation
 
 Triple J - Sydney 128Kbps
 
-<audio id="audioPlayer1" controls></audio> <!-- Create the first audio player -->
+<audio id="triplej" controls></audio> <!-- Create the first audio player -->
 
 <!--Sydney-->
 <p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8">
@@ -21,7 +21,7 @@ Triple J - Sydney 128Kbps
 
 ABC Classic 1 - Sydney 128Kbps
 
-<audio id="audioPlayer2" controls></audio>
+<audio id="abcclassic1" controls></audio>
 
 
 <!--Sydney-->
@@ -31,14 +31,15 @@ ABC Classic 1 - Sydney 128Kbps
 
 ABC Classic 2 - Sydney 128Kbps
 
-<audio id="audioPlayer3" controls></audio>
+<audio id="abcclassic2" controls></audio>
 
-
+<!------------------------------------------->
 <!--SCRIPTS-->
+<!------------------------------------------->
 
 <script>
   if (Hls.isSupported()) {
-    var audio1 = document.getElementById('audioPlayer1');
+    var audio1 = document.getElementById('triplej');
           // Initialize more audio variables as needed
 
     var hls1 = new Hls();
@@ -51,7 +52,7 @@ ABC Classic 2 - Sydney 128Kbps
 
 <script>
   if (Hls.isSupported()) {
-    var audio2 = document.getElementById('audioPlayer2');
+    var audio2 = document.getElementById('abcclassic1');
     // Initialize more audio variables as needed
 
     var hls2 = new Hls();
@@ -64,7 +65,7 @@ ABC Classic 2 - Sydney 128Kbps
 
 <script>
   if (Hls.isSupported()) {
-    var audio3 = document.getElementById('audioPlayer3');
+    var audio3 = document.getElementById('abcclassic2');
     // Initialize more audio variables as needed
 
     var hls3 = new Hls();
