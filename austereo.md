@@ -4,7 +4,6 @@ title: Austereo
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
