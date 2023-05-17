@@ -49,3 +49,18 @@ title: Australian Broadcasting Corporation
 
 [Stream URL](https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8)
 
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>HLS Demo</title>
+    <link rel="stylesheet" href="https://cdn.plyr.io/1.8.2/plyr.css">
+  </head>
+  <body>
+    <audio preload="true" id="player" controls crossorigin>
+    <script src="https://cdn.plyr.io/1.8.2/plyr.js"></script>
+    <script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>
+  </body>
+</html>
+
