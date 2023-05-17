@@ -19,10 +19,11 @@ Triple J - Sydney 128Kbps
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
-    <media-time-display show-duration></media-time-display>
+    <media-live-button></media-live-button>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
     <media-cast-button></media-cast-button>
+    <media-airplay-button></media-airplay-button>
   </media-control-bar>
 </media-controller>
 
@@ -40,10 +41,11 @@ Double J - Sydney 128Kbps
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
-    <media-time-display show-duration></media-time-display>
+    <media-live-button></media-live-button>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
     <media-cast-button></media-cast-button>
+    <media-airplay-button></media-airplay-button>
   </media-control-bar>
 </media-controller>
 
@@ -61,10 +63,11 @@ ABC Classic 1 - Sydney 128Kbps
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
-    <media-time-display show-duration></media-time-display>
+    <media-live-button></media-live-button>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
     <media-cast-button></media-cast-button>
+    <media-airplay-button></media-airplay-button>
   </media-control-bar>
 </media-controller>
 
@@ -83,10 +86,11 @@ ABC Classic 2 - Sydney 128Kbps
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
-    <media-time-display show-duration></media-time-display>
+    <media-live-button></media-live-button>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
     <media-cast-button></media-cast-button>
+    <media-airplay-button></media-airplay-button>
   </media-control-bar>
 </media-controller>
 
