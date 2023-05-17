@@ -3,8 +3,7 @@ layout: page
 title: Australian Broadcasting Corporation
 ---
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/hls-video-element@0.0"></script>
-<script type="module" src="../../../dist/index.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/hls-video-element@0.0.4/dist/hls-video-element.min.js"></script>
 
 <!--Sydney-->
 <p align="left"><a href="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8">
