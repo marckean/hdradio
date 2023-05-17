@@ -67,9 +67,11 @@ The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.k
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
-    <media-time-display show-duration></media-time-display>
+    <media-live-button></media-live-button>
     <media-mute-button></media-mute-button>
     <media-volume-range></media-volume-range>
+    <media-cast-button></media-cast-button>
+    <media-airplay-button></media-airplay-button>
   </media-control-bar>
 </media-controller>
 
