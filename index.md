@@ -48,6 +48,9 @@ You can also take the streams and listen to this on another device, as example *
 | Smooth 80s | Sydney | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC320_SC) |
 | Smooth Vintage | Sydney | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_AAC128_SC) |
 | Smooth Vintage | Sydney | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_AAC320.aac) |
+| Triple J | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8) |
+| ABC Classic 1 | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8) |
+| ABC Classic 2 | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8) |
 | Kiis 1011 | Melbourne | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC) |
 | Nova 100 | Melbourne | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC) |
 | Nova 100 | Melbourne | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320_SC) |
