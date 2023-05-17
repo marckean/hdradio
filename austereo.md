@@ -46,38 +46,37 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
 <script>
   var audio1 = document.getElementById('2classicrock');
+  var audioSrc1 = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8';
   // Initialize more audio variables as needed
 
   if (audio1.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
-    audio1.src = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+    audio1.src = audioSrc1;
 
-    // Provide fallback sources and initialize more audio players as needed
   } else {
     var hls1 = new Hls();
     // Initialize more Hls instances as needed
 
-    hls1.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls1.loadSource(audioSrc1); // Provide the path to the first .m3u8 file
     hls1.attachMedia(audio1);
     hls1.on(Hls.Events.MANIFEST_PARSED, function() {
           // Start playback when desired, e.g., on a button click
-          // audio1.play();
+          audio1.button
         });
   }
 </script>
 
 <script>
   var audio2 = document.getElementById('3classicrock');
-  // Initialize more audio variables as needed
+  var audioSrc2 = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8';
 
   if (audio2.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
-    audio2.src = 'https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+    audio2.src = audioSrc2;
 
-    // Provide fallback sources and initialize more audio players as needed
   } else {
     var hls2 = new Hls();
     // Initialize more Hls instances as needed
 
-    hls2.loadSource('https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls2.loadSource(audioSrc2); // Provide the path to the first .m3u8 file
     hls2.attachMedia(audio2);
     hls2.on(Hls.Events.MANIFEST_PARSED, function() {
           // Start playback when desired, e.g., on a button click
@@ -88,17 +87,16 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
 <script>
   var audio3 = document.getElementById('4classicrock');
-  // Initialize more audio variables as needed
+  var audioSrc3 = 'https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8';
 
   if (audio3.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
-    audio3.src = 'https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+    audio3.src = audioSrc3;
 
-    // Provide fallback sources and initialize more audio players as needed
   } else {
     var hls3 = new Hls();
     // Initialize more Hls instances as needed
 
-    hls3.loadSource('https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls3.loadSource(audioSrc3); // Provide the path to the first .m3u8 file
     hls3.attachMedia(audio3);
     hls3.on(Hls.Events.MANIFEST_PARSED, function() {
           // Start playback when desired, e.g., on a button click
@@ -109,17 +107,16 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
 <script>
   var audio4 = document.getElementById('6classicrock');
-  // Initialize more audio variables as needed
+  var audioSrc4 = 'https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8';
 
   if (audio4.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
-    audio4.src = 'https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+    audio4.src = audioSrc4; 
 
-    // Provide fallback sources and initialize more audio players as needed
   } else {
     var hls4 = new Hls();
     // Initialize more Hls instances as needed
 
-    hls4.loadSource('https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls4.loadSource(audioSrc4); // Provide the path to the first .m3u8 file
     hls4.attachMedia(audio4);
     hls4.on(Hls.Events.MANIFEST_PARSED, function() {
           // Start playback when desired, e.g., on a button click
