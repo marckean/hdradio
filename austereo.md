@@ -49,7 +49,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
   // Initialize more audio variables as needed
 
   if (audio1.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
-    audio1.src = 'path/to/audio1.m3u8'; // Provide the path to the first .m3u8 file
+    audio1.src = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
     audio1.addEventListener('loadedmetadata', function() {
       audio1.play(); // Start playback once metadata is loaded
     });
@@ -108,3 +108,30 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
 
 
+
+
+  <script>
+    var audio1 = document.getElementById('audioPlayer7');
+    // Initialize more audio variables as needed
+
+    if (audio1.canPlayType('application/vnd.apple.mpegurl')) {
+      audio1.src = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+      audio1.addEventListener('loadedmetadata', function() {
+        audio1.play(); // Start playback once metadata is loaded
+      });
+
+      // Provide fallback sources and initialize more audio players as needed
+    } else {
+      if (Hls.isSupported()) {
+        var hls1 = new Hls();
+         // Initialize more Hls instances as needed
+
+        hls1.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+        hls1.attachMedia(audio1);
+
+        // Load and initialize more audio players using HLS.js as needed
+      } else {
+        console.error('HLS playback is not supported.');
+      }
+    }
+  </script>
