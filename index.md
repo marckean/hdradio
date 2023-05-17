@@ -63,6 +63,20 @@ The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.k
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
+<script type="module" src="https://unpkg.com/media-chrome@0.6"></script>
+
+<media-controller audio>
+  <audio slot="media" src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"></audio>
+  <media-control-bar>
+    <media-play-button></media-play-button>
+    <media-time-display show-duration></media-time-display>
+    <media-time-range></media-time-range>
+    <media-playback-rate-button></media-playback-rate-button>
+    <media-mute-button></media-mute-button>
+    <media-volume-range></media-volume-range>
+  </media-control-bar>
+</media-controller>
+
 As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn).
 
 # Take streams with you
