@@ -57,9 +57,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Initialize more Hls instances as needed
 
     hls1.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
-    hls1.attachMedia(audio1);
-
-    // Load and initialize more audio players using HLS.js as needed
+    //hls1.attachMedia(audio1);
   }
 </script>
 
@@ -76,9 +74,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Initialize more Hls instances as needed
 
     hls2.loadSource('https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
-    hls2.attachMedia(audio2);
-
-    // Load and initialize more audio players using HLS.js as needed
+    //hls2.attachMedia(audio2);
   }
 </script>
 
@@ -95,9 +91,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Initialize more Hls instances as needed
 
     hls3.loadSource('https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
-    hls3.attachMedia(audio3);
-
-    // Load and initialize more audio players using HLS.js as needed
+    //hls3.attachMedia(audio3);
   }
 </script>
 
@@ -114,9 +108,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Initialize more Hls instances as needed
 
     hls4.loadSource('https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
-    hls4.attachMedia(audio4);
-
-    // Load and initialize more audio players using HLS.js as needed
+    //hls4.attachMedia(audio4);
   }
 </script>
 
