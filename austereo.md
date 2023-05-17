@@ -125,3 +125,17 @@ Triple M Classic Rock Digital - Perth 128Kbps
   }
 </script>
 
+<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
+
+<media-controller audio>
+  <audio
+    slot="media"
+    src="https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8"
+  ></audio>
+  <media-control-bar>
+    <media-play-button></media-play-button>
+    <media-time-display show-duration></media-time-display>
+    <media-mute-button></media-mute-button>
+    <media-volume-range></media-volume-range>
+  </media-control-bar>
+</media-controller>
