@@ -51,14 +51,14 @@ title: Australian Broadcasting Corporation
 
   <script>
     if (Hls.isSupported()) {
-      var audio2 = document.getElementById('audioPlayer3');
+      var audio3 = document.getElementById('audioPlayer3');
       // Initialize more audio variables as needed
 
-      var hls2 = new Hls();
+      var hls3 = new Hls();
       // Initialize more Hls instances as needed
 
-      hls2.loadSource('https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8'); // Provide the path to the second .m3u8 file
-      hls2.attachMedia(audio2);
+      hls3.loadSource('https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8'); // Provide the path to the second .m3u8 file
+      hls3.attachMedia(audio3);
     }
   </script>
 
