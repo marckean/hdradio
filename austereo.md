@@ -67,71 +67,68 @@ Triple M Classic Rock Digital - Perth 128Kbps
 </script>
 
 <script>
-  if (Hls.isSupported()) {
-    var audio2 = document.getElementById('3classicrock');
-          // Initialize more audio variables as needed
+  var audio2 = document.getElementById('3classicrock');
+  // Initialize more audio variables as needed
 
+  if (audio2.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio2.src = 'https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+    audio2.addEventListener('loadedmetadata', function() {
+      audio2.play(); // Start playback once metadata is loaded
+    });
+
+    // Provide fallback sources and initialize more audio players as needed
+  } else {
     var hls2 = new Hls();
     // Initialize more Hls instances as needed
 
     hls2.loadSource('https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
     hls2.attachMedia(audio2);
+
+    // Load and initialize more audio players using HLS.js as needed
   }
 </script>
 
 <script>
-  if (Hls.isSupported()) {
-    var audio3 = document.getElementById('4classicrock');
-          // Initialize more audio variables as needed
+  var audio3 = document.getElementById('4classicrock');
+  // Initialize more audio variables as needed
 
+  if (audio3.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio3.src = 'https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+    audio3.addEventListener('loadedmetadata', function() {
+      audio3.play(); // Start playback once metadata is loaded
+    });
+
+    // Provide fallback sources and initialize more audio players as needed
+  } else {
     var hls3 = new Hls();
     // Initialize more Hls instances as needed
 
     hls3.loadSource('https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
     hls3.attachMedia(audio3);
+
+    // Load and initialize more audio players using HLS.js as needed
   }
 </script>
 
 <script>
-  if (Hls.isSupported()) {
-    var audio1 = document.getElementById('6classicrock');
-          // Initialize more audio variables as needed
+  var audio4 = document.getElementById('6classicrock');
+  // Initialize more audio variables as needed
 
-    var hls1 = new Hls();
+  if (audio4.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio4.src = 'https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+    audio4.addEventListener('loadedmetadata', function() {
+      audio4.play(); // Start playback once metadata is loaded
+    });
+
+    // Provide fallback sources and initialize more audio players as needed
+  } else {
+    var hls4 = new Hls();
     // Initialize more Hls instances as needed
 
-    hls1.loadSource('https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
-    hls1.attachMedia(audio1);
+    hls4.loadSource('https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
+    hls4.attachMedia(audio4);
+
+    // Load and initialize more audio players using HLS.js as needed
   }
 </script>
 
-
-
-
-
-
-  <script>
-    var audio1 = document.getElementById('audioPlayer7');
-    // Initialize more audio variables as needed
-
-    if (audio1.canPlayType('application/vnd.apple.mpegurl')) {
-      audio1.src = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
-      audio1.addEventListener('loadedmetadata', function() {
-        audio1.play(); // Start playback once metadata is loaded
-      });
-
-      // Provide fallback sources and initialize more audio players as needed
-    } else {
-      if (Hls.isSupported()) {
-        var hls1 = new Hls();
-         // Initialize more Hls instances as needed
-
-        hls1.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to the first .m3u8 file
-        hls1.attachMedia(audio1);
-
-        // Load and initialize more audio players using HLS.js as needed
-      } else {
-        console.error('HLS playback is not supported.');
-      }
-    }
-  </script>
