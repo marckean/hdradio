@@ -18,7 +18,7 @@ These streams are also better than FM, as FM is analog and is the equivalent of 
 
 I have listed [eJukebox](https://ejukebox.com.au) here as the sponsor of this website. [eJukebox](https://ejukebox.com.au) is a leader of impressive sounding radio streams and really set the standard for good quality online radio. It's hard to beat the sound quality of these two eJukebox streams. 
 
-Both are 128Kbps MP3 streams. 
+Both are 128Kbps MP3 streams. To compare to the rest.
 
 ## eJukebox Hits
 
