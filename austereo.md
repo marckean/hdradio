@@ -5,19 +5,37 @@ title: Austereo
 
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script> <!-- Include the HLS.js library -->
 
-## Triple M Classic Rock Digital - Sydney 128Kbps
+
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
+</a></p>
+
+Triple M Classic Rock Digital - Sydney 128Kbps
 
 <audio id="2classicrock" controls></audio>
 
-## Triple M Classic Rock Digital - Melbourne 128Kbps
+
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
+</a></p>
+
+Triple M Classic Rock Digital - Melbourne 128Kbps
 
 <audio id="3classicrock" controls></audio>
 
-## Triple M Classic Rock Digital - Brisbane 128Kbps
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
+</a></p>
+
+Triple M Classic Rock Digital - Brisbane 128Kbps
 
 <audio id="4classicrock" controls></audio>
 
-## Triple M Classic Rock Digital - Perth 128Kbps
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
+</a></p>
+
+Triple M Classic Rock Digital - Perth 128Kbps
 
 <audio id="6classicrock" controls></audio>
 
