@@ -12,7 +12,7 @@ They think we're dumb, all thanks (or not thanks) to the audio codec HE-AAC (AAC
 
 So all the radio listen live streams are all listed here so that you can listen to radio online with all its glory, the way radio is meant to sound. 
 
-These streams are also better than FM, as FM is analog and it the equivalent of 96Kbps in digital.
+These streams are also better than FM, as FM is analog and is the equivalent of 96Kbps in digital.
 
 ## Kiis 1065 - Sydney 128Kbps
 
@@ -45,9 +45,9 @@ You can also take the streams and listen to this on another device, as example *
 | Smooth 80s | Sydney | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC320_SC) |
 | Smooth Vintage | Sydney | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_AAC128_SC) |
 | Smooth Vintage | Sydney | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_AAC320.aac) |
-| Triple J | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8) |
-| ABC Classic 1 | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8) |
-| ABC Classic 2 | Sydney | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8) |
+| Triple J | NSW/VIC/TAS/ACT | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8) |
+| ABC Classic 1 | NSW/VIC/TAS/ACT | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8) |
+| ABC Classic 2 | NSW/VIC/TAS/ACT | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8) |
 | Kiis 1011 | Melbourne | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC) |
 | Nova 100 | Melbourne | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC) |
 | Nova 100 | Melbourne | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320_SC) |
@@ -59,11 +59,19 @@ You can also take the streams and listen to this on another device, as example *
 | Nova 1069 | Brisbane | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128_SC) |
 | Nova 1069 | Brisbane | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC320_SC) |
 | Triple M Classic Rock | Brisbane | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8) |
+| Triple J | QLD | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8) |
+| ABC Classic 1 | QLD | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038352/classicfmqld/masterhq.m3u8) |
 | 96FM | Perth | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM_SC) |
 | Nova 937 | Perth | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128_SC) |
 | Nova 937 | Perth | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320_SC) |
 | Mix 1023 | Perth | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023_SC) |
 | Triple M Classic Rock | Perth | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8) |
+| Triple J | WA | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/masterhq.m3u8) |
+| ABC Classic 1 | WA | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038349/classicfmwa/masterhq.m3u8) |
 | Nova 919 | Adelaide | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128_SC) |
 | Nova 919 | Adelaide | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320_SC) |
+| Triple J | SA | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038346/triplejsa/masterhq.m3u8) |
+| ABC Classic 1 | SA | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8) |
 | Triple M Classic Rock | Adelaide | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/5classicrock_128.stream/playlist.m3u8) |
+| Triple J | NT | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038348/triplejnt/masterhq.m3u8) |
+| ABC Classic 1 | NT | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038323/classicfmnt/masterhq.m3u8) |
