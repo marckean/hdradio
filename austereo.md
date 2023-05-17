@@ -57,10 +57,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
     hls1.loadSource(audioSrc1); // Provide the path to the first .m3u8 file
     hls1.attachMedia(audio1);
-    hls1.on(Hls.Events.MANIFEST_PARSED, function() {
-          // Start playback when desired, e.g., on a button click
-          audio1.button
-        });
+    hls1.stopLoad (audioSrc1);
   }
 </script>
 
@@ -77,10 +74,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
     hls2.loadSource(audioSrc2); // Provide the path to the first .m3u8 file
     hls2.attachMedia(audio2);
-    hls2.on(Hls.Events.MANIFEST_PARSED, function() {
-          // Start playback when desired, e.g., on a button click
-          // audio1.play();
-        });
+    hls1.stopLoad (audioSrc2);
   }
 </script>
 
@@ -97,10 +91,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
     hls3.loadSource(audioSrc3); // Provide the path to the first .m3u8 file
     hls3.attachMedia(audio3);
-    hls3.on(Hls.Events.MANIFEST_PARSED, function() {
-          // Start playback when desired, e.g., on a button click
-          // audio1.play();
-        });
+    hls1.stopLoad (audioSrc3);
   }
 </script>
 
@@ -117,10 +108,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
     hls4.loadSource(audioSrc4); // Provide the path to the first .m3u8 file
     hls4.attachMedia(audio4);
-    hls4.on(Hls.Events.MANIFEST_PARSED, function() {
-          // Start playback when desired, e.g., on a button click
-          // audio1.play();
-        });
+    hls1.stopLoad (audioSrc4);
   }
 </script>
 
