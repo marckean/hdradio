@@ -125,17 +125,29 @@ Triple M Classic Rock Digital - Perth 128Kbps
 </script>
 
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
 
-<media-controller audio>
-  <audio
-    slot="media"
-    src="https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8"
-  ></audio>
-  <media-control-bar>
-    <media-play-button></media-play-button>
-    <media-time-display show-duration></media-time-display>
-    <media-mute-button></media-mute-button>
-    <media-volume-range></media-volume-range>
-  </media-control-bar>
-</media-controller>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/media-chrome@0.20/+esm"></script>
+
+
+<div id="player1"></div>
+<div id="player2"></div>
+<!-- Add more player divs as needed -->
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var player1 = new MediaChrome(document.getElementById('player1'));
+    var player2 = new MediaChrome(document.getElementById('player2'));
+    // Initialize more players as needed
+
+    player1.src = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'; // Provide the path to the first .m3u8 file
+    player1.controls = true;
+
+    player2.src = 'https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8'; // Provide the path to the second .m3u8 file
+    player2.controls = true;
+
+    // Set additional player properties and load more media files as needed
+  });
+</script>
