@@ -187,7 +187,7 @@ Smooth 91.5 - Melbourne 320Kbps
 <!--------Smooth 80s-------->
 <!------------------------------------------->
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC128_SC">
-<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/smooth915melbourne.png">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/smooth_80s_button.png">
 </a></p>
 
 Smooth 80s - Sydney 128Kbps
@@ -209,7 +209,7 @@ Smooth 80s - Sydney 320Kbps
 <!--------Smooth Vintage-------->
 <!------------------------------------------->
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128">
-<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/smooth915melbourne.png">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/smooth_vintage_button.png">
 </a></p>
 
 Smooth Vintage - Sydney 128Kbps
@@ -223,6 +223,6 @@ Smooth Vintage - Sydney 128Kbps
 Smooth Vintage - Sydney 320Kbps
 
 <!--Simplest syntax-->
-<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_AAC320_SC" type="audio/mpeg" controls>
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC320" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
