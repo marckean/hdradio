@@ -62,7 +62,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
         hls1.startLoad(); // Resume loading in case it was stopped
       } else {
         hls1.loadSource(audioSrc1); // Provide the path to your .m3u8 file
-        hls1.attachMedia(audio1);
+        // hls1.attachMedia(audio1);
         audio1.play();
       }
     });
