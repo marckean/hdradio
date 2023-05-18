@@ -62,7 +62,6 @@ Triple M Classic Rock Digital - Perth 128Kbps
         hls1.startLoad(); // Resume loading in case it was stopped
       } else {
         hls1.loadSource(audioSrc1); // Provide the path to your .m3u8 file
-        // hls1.attachMedia(audio1);
         audio1.play();
       }
     });
@@ -77,12 +76,18 @@ Triple M Classic Rock Digital - Perth 128Kbps
     audio2.src = audioSrc2;
 
   } else {
-    var hls2 = new Hls();
-    // Initialize more Hls instances as needed
 
-    hls2.loadSource(audioSrc2); // Provide the path to the first .m3u8 file
-    hls2.stopLoad();
-    hls2.attachMedia(audio2);
+      hls2.attachMedia(audio2);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio2.addEventListener('play', function() {
+      if (hls2.media && hls2.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls2.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls2.loadSource(audioSrc2); // Provide the path to your .m3u8 file
+        audio2.play();
+      }
+    });
   }
 </script>
 
@@ -94,12 +99,18 @@ Triple M Classic Rock Digital - Perth 128Kbps
     audio3.src = audioSrc3;
 
   } else {
-    var hls3 = new Hls();
-    // Initialize more Hls instances as needed
 
-    hls3.loadSource(audioSrc3); // Provide the path to the first .m3u8 file
-    hls3.stopLoad();
-    hls3.attachMedia(audio3);
+      hls3.attachMedia(audio3);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio3.addEventListener('play', function() {
+      if (hls3.media && hls3.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls3.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls3.loadSource(audioSrc3); // Provide the path to your .m3u8 file
+        audio3.play();
+      }
+    });
   }
 </script>
 
@@ -111,12 +122,18 @@ Triple M Classic Rock Digital - Perth 128Kbps
     audio4.src = audioSrc4; 
 
   } else {
-    var hls4 = new Hls();
-    // Initialize more Hls instances as needed
 
-    hls4.loadSource(audioSrc4); // Provide the path to the first .m3u8 file
-    hls4.stopLoad();
-    hls4.attachMedia(audio4);
+      hls4.attachMedia(audio4);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio4.addEventListener('play', function() {
+      if (hls4.media && hls4.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls4.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls4.loadSource(audioSrc4); // Provide the path to your .m3u8 file
+        audio4.play();
+      }
+    });
   }
 </script>
 
