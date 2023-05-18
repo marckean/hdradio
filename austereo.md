@@ -3,6 +3,8 @@ layout: page
 title: Austereo
 ---
 
+Listen live, listen online, high quality, high definition, radio stream URLs listed here:
+
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script> <!-- Include the HLS.js library -->
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8">

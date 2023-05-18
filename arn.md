@@ -5,6 +5,8 @@ title: Australian Radio Network
 
 [//]: # (margin:top right bottom left)
 
+Listen live, listen online, high quality, high definition, radio stream URLs listed here:
+
 # Kiis Network
 
 <p align="center"><a href="https://arn.com.au">

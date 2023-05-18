@@ -3,6 +3,8 @@ layout: page
 title: Australian Broadcasting Corporation
 ---
 
+Listen live, listen online, high quality, high definition, radio stream URLs listed here:
+
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script> <!-- Include the HLS.js library -->
 
 <!--Sydney-->

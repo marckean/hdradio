@@ -3,6 +3,8 @@ layout: page
 title: Nova Entertainment
 ---
 
+Listen live, listen online, high quality, high definition, radio stream URLs listed here:
+
 <p align="center"><a href="https://www.novaentertainment.com.au">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="400" src="/assets/img/stations/NOVA-ENT-RED-REV-LS-RGB.PNG">
 </a></p>
