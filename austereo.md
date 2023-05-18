@@ -71,6 +71,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
 <script>
   var audio2 = document.getElementById('3classicrock');
   var audioSrc2 = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8';
+  var hls2 = new Hls();
 
   if (audio2.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio2.src = audioSrc2;
@@ -94,6 +95,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
 <script>
   var audio3 = document.getElementById('4classicrock');
   var audioSrc3 = 'https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8';
+  var hls3 = new Hls();
 
   if (audio3.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio3.src = audioSrc3;
@@ -117,6 +119,7 @@ Triple M Classic Rock Digital - Perth 128Kbps
 <script>
   var audio4 = document.getElementById('6classicrock');
   var audioSrc4 = 'https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8';
+  var hls4 = new Hls();
 
   if (audio4.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio4.src = audioSrc4; 
