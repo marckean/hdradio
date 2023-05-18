@@ -3,13 +3,13 @@ layout: page
 title: Nova Entertainment
 ---
 
-<p align="left"><a href="https://www.novaentertainment.com.au">
+<p align="center"><a href="https://www.novaentertainment.com.au">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="400" src="/assets/img/stations/NOVA-ENT-RED-REV-LS-RGB.PNG">
 </a></p>
 
 # Nova Network
 
-<p align="left"><a href="https://www.novaentertainment.com.au">
+<p align="center"><a href="https://www.novaentertainment.com.au">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/nova.png">
 </a></p>
 
@@ -134,7 +134,7 @@ Nova 919 - Adelaide 320Kbps
 
 # Smooth Network
 
-<p align="left"><a href="https://www.novaentertainment.com.au">
+<p align="center"><a href="https://www.novaentertainment.com.au">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/smoothfm.png">
 </a></p>
 
