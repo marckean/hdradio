@@ -10,7 +10,7 @@ Listen live, listen online, high quality, high definition, radio stream URLs lis
 # Kiis Network
 
 <p align="center"><a href="https://arn.com.au">
-<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="400" src="/assets/img/stations/KIISNetwork.png">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/KIISNetwork.png">
 </a></p>
 
 <!--Sydney-->
@@ -72,7 +72,7 @@ Mix 1023 - Adelaide 128Kbps
 # PureGold Network
 
 <p align="center"><a href="https://arn.com.au">
-<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="400" src="/assets/img/stations/PUREGOLD.png">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/PUREGOLD.png">
 </a></p>
 
 <!--Sydney-->
