@@ -68,6 +68,10 @@ ABC Classic 2 - Sydney 128Kbps
         audio1.play();
       }
     });
+    // Stop loading the source when the audio is paused
+    audio1.addEventListener('pause', function() {
+      hls1.stopLoad(); // Stop loading the source
+    });
   }
 </script>
 
@@ -91,6 +95,10 @@ ABC Classic 2 - Sydney 128Kbps
         hls2.loadSource(audioSrc2); // Provide the path to your .m3u8 file
         audio2.play();
       }
+    });
+    // Stop loading the source when the audio is paused
+    audio2.addEventListener('pause', function() {
+      hls2.stopLoad(); // Stop loading the source
     });
   }
 </script>
