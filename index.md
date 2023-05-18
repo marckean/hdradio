@@ -8,9 +8,9 @@ subtitle: Giving you what you deserve
 
 This is a site listing all HD (High Definition) **listen live** radio streams that are not easily found or advertised. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/) or [Listnr](https://www.listnr.com/) as the radio stations are money hungry and like to save as much money as possible by packing as much audio into a tiny little stream to save on data. Similar to DAB+ digital radio, packing so much data (more stations) down limited pipes over the digital airwaves.
 
-They think we're dumb, all thanks (or not thanks) to the audio codec HE-AAC (AAC+), to the **average** ear, **48Kbps HE-AAC** is similar to **128Kbps MP3**, they think that you won't notice the difference of the reduction of quality, meanwhile saving dollars on data costs. However with great audio devices these days, there's a huge difference in quality. 
+They think we're dumb, all thanks (or not thanks) to the audio codec HE-AAC (AAC+), to the **average** ear, **48Kbps HE-AAC** is similar to **128Kbps MP3**, they think that you won't notice the difference of the reduction of quality, meanwhile saving dollars on data costs. However with great audio devices these days, there's a huge difference in quality and you can actually tell the difference. 
 
-So all the radio listen live streams are all listed here so that you can listen to radio online with all its glory, the way radio is meant to sound. 
+All the radio listen live streams are all listed here so that you can listen to radio online with all its glory, the way radio is meant to sound - high quality.
 
 These streams are also better than FM, as FM is analog and is the equivalent of 96Kbps in digital.
 
@@ -121,6 +121,7 @@ You can also take the streams and listen to this on another device, as example *
 | Mix 1023 | Adelaide | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023_SC) |
 | Nova 919 | Adelaide | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128_SC) |
 | Nova 919 | Adelaide | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320_SC) |
+| Cruise 1323 | Adelaide | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323_SC) |
 | Triple J | SA | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038346/triplejsa/masterhq.m3u8) |
 | ABC Classic 1 | SA | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8) |
 | Triple M Classic Rock | Adelaide | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/5classicrock_128.stream/playlist.m3u8) |
