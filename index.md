@@ -95,6 +95,8 @@ You can also take the streams and listen to this on another device, as example *
 | Smooth 80s | Sydney | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC320_SC) |
 | Smooth Vintage | Sydney | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128_SC) |
 | Smooth Vintage | Sydney | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC320_SC) |
+| Smooth Relax | Sydney | Easy Listening | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128_SC) |
+| Smooth Relax | Sydney | Easy Listening | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320_SC) |
 | Triple J | NSW/VIC/TAS/ACT | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8) |
 | Double J | NSW/VIC/TAS/ACT | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/masterhq.m3u8) |
 | ABC Classic 1 | NSW/VIC/TAS/ACT | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8) |

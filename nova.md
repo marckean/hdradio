@@ -210,14 +210,14 @@ Smooth 80s - Sydney 320Kbps
 <!------------------------------------------->
 <!--------Smooth Vintage-------->
 <!------------------------------------------->
-<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128">
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128_SC">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/smooth_vintage_button.png">
 </a></p>
 
 Smooth Vintage - Sydney 128Kbps
 
 <!--Simplest syntax-->
-<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128" type="audio/mpeg" controls>
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128_SC" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
@@ -225,6 +225,29 @@ Smooth Vintage - Sydney 128Kbps
 Smooth Vintage - Sydney 320Kbps
 
 <!--Simplest syntax-->
-<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC320" type="audio/mpeg" controls>
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC320_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+
+<!------------------------------------------->
+<!--------Smooth Relax-------->
+<!------------------------------------------->
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/smooth_relax_button.png">
+</a></p>
+
+Smooth Relax - Sydney 128Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+
+Smooth Relax - Sydney 320Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320_SC" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
