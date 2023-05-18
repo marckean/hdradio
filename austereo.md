@@ -53,11 +53,8 @@ Triple M Classic Rock Digital - Perth 128Kbps
     audio1.src = audioSrc1;
 
   } else {
-    
-    // Attach the media to the audio player when the HLS manifest is parsed
-    hls1.on(Hls.Events.MANIFEST_PARSED, function() {
+
       hls1.attachMedia(audio1);
-    });
 
     // When the play button is clicked, check if the source is loaded and start playback
     audio1.addEventListener('play', function() {
