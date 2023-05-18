@@ -65,6 +65,10 @@ Triple M Classic Rock Digital - Perth 128Kbps
         audio1.play();
       }
     });
+    // Stop loading the source when the audio is paused
+    audio1.addEventListener('pause', function() {
+      hls1.stopLoad(); // Stop loading the source
+    });
   }
 </script>
 
@@ -88,6 +92,10 @@ Triple M Classic Rock Digital - Perth 128Kbps
         hls2.loadSource(audioSrc2); // Provide the path to your .m3u8 file
         audio2.play();
       }
+    });
+    // Stop loading the source when the audio is paused
+    audio2.addEventListener('pause', function() {
+      hls2.stopLoad(); // Stop loading the source
     });
   }
 </script>
@@ -113,6 +121,10 @@ Triple M Classic Rock Digital - Perth 128Kbps
         audio3.play();
       }
     });
+    // Stop loading the source when the audio is paused
+    audio3.addEventListener('pause', function() {
+      hls3.stopLoad(); // Stop loading the source
+    });
   }
 </script>
 
@@ -136,6 +148,10 @@ Triple M Classic Rock Digital - Perth 128Kbps
         hls4.loadSource(audioSrc4); // Provide the path to your .m3u8 file
         audio4.play();
       }
+    });
+    // Stop loading the source when the audio is paused
+    audio4.addEventListener('pause', function() {
+      hls4.stopLoad(); // Stop loading the source
     });
   }
 </script>
