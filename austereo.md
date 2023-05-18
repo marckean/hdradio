@@ -56,8 +56,8 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Initialize more Hls instances as needed
 
     hls1.loadSource(audioSrc1); // Provide the path to the first .m3u8 file
-    hls1.attachMedia(audio1);
     hls1.stopLoad();
+    hls1.attachMedia(audio1);
   }
 </script>
 
@@ -73,8 +73,8 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Initialize more Hls instances as needed
 
     hls2.loadSource(audioSrc2); // Provide the path to the first .m3u8 file
-    hls2.attachMedia(audio2);
     hls2.stopLoad();
+    hls2.attachMedia(audio2);
   }
 </script>
 
@@ -90,8 +90,8 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Initialize more Hls instances as needed
 
     hls3.loadSource(audioSrc3); // Provide the path to the first .m3u8 file
-    hls3.attachMedia(audio3);
     hls3.stopLoad();
+    hls3.attachMedia(audio3);
   }
 </script>
 
@@ -107,8 +107,8 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Initialize more Hls instances as needed
 
     hls4.loadSource(audioSrc4); // Provide the path to the first .m3u8 file
-    hls4.attachMedia(audio4);
     hls4.stopLoad();
+    hls4.attachMedia(audio4);
   }
 </script>
 
