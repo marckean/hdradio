@@ -7,7 +7,9 @@ title: Australian Radio Network
 
 # Kiis Network
 
-This is a page of all HD (High Definition) streams that are not easily found. These streams are not typically used within the standard online radio platforms such as [iHeart radio](https://www.iheart.com/).
+<p align="center"><a href="https://arn.com.au">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="400" src="/assets/img/stations/KIISNetwork.png">
+</a></p>
 
 <!--Sydney-->
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
@@ -66,6 +68,10 @@ Mix 1023 - Adelaide 128Kbps
 </audio>
 
 # PureGold Network
+
+<p align="center"><a href="https://arn.com.au">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="400" src="/assets/img/stations/PUREGOLD.png">
+</a></p>
 
 <!--Sydney-->
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC">
