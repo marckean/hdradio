@@ -12,6 +12,7 @@ title: Austereo
 Triple M Classic Rock Digital - Sydney 128Kbps
 
 <audio id="2classicrock" controls></audio>
+<button id="2classicrock_playButton">Play</button> <!-- Create a button for manual play -->
 
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8">
@@ -45,19 +46,30 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
 <script>
   var audio1 = document.getElementById('2classicrock');
+  var playButton = document.getElementById('2classicrock_playButton'); // Get the play button element
   var audioSrc1 = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8';
+  var hls1 = new Hls();
   // Initialize more audio variables as needed
 
   if (audio1.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio1.src = audioSrc1;
 
   } else {
-    var hls1 = new Hls();
-    // Initialize more Hls instances as needed
+    
+    // Attach the media to the audio player when the HLS manifest is parsed
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+      hls.attachMedia(audio1);
+    })
 
-    hls1.loadSource(audioSrc1); // Provide the path to the first .m3u8 file
-    hls1.stopLoad();
-    hls1.attachMedia(audio1);
+    // Stop loading the source when the play button is clicked
+    playButton.addEventListener('click', function() {
+      hls.stopLoad(); // Stop loading the source
+
+      // Manually load the source and start playback
+      hls.loadSource(audioSrc1); // Provide the path to your .m3u8 file
+      hls.attachMedia(audio1);
+      audio1.play();
+    });
   }
 </script>
 
