@@ -7,11 +7,11 @@ title: Nova Entertainment
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Kiis 1065 | Sydney | CHR | <button id="playButton">Play</button><script>var audioSrc;function updateGlobalVariable() {audioSrc = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'}</script> |
+| Kiis 1065 | Sydney | CHR |  |
 | 2Day FM | Sydney | CHR |  |
 
 
-
+<button id="playButton">Play</button><script>var audioSrc;function updateGlobalVariable() {audioSrc = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'}</script>
 
 
 <script>
@@ -26,9 +26,7 @@ title: Nova Entertainment
 
   } else {
 
-    hls.on(Hls.Events.MANIFEST_PARSED, function() {
       hls.attachMedia(audio);
-    });
 
       //hls.stopLoad();
       //hls.attachMedia(audio);
