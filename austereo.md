@@ -63,6 +63,43 @@ Triple M - Sydney 128Kbps
 
 <audio id="2mmm" controls></audio>
 
+
+<p align="left"><a href="https://wz3liw.scahw.com.au/live/3mmm_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/3mmm-primary.png">
+</a></p>
+
+Triple M - Melbourne 128Kbps
+
+<audio id="3mmm" controls></audio>
+
+
+<p align="left"><a href="https://wz3liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/4mmm-primary.png">
+</a></p>
+
+Triple M - Brisbane 128Kbps
+
+<audio id="4mmm" controls></audio>
+
+
+<p align="left"><a href="https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/triplem929-perth.png">
+</a></p>
+
+Triple M - Perth 128Kbps
+
+<audio id="6ppm" controls></audio>
+
+
+<p align="left"><a href="https://wz5liw.scahw.com.au/live/5mmm_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/5mmm-primary.png">
+</a></p>
+
+Triple M - Adelaide 128Kbps
+
+<audio id="5mmm" controls></audio>
+
+
 <!------------------ Triple M Classic Rock ------------------>
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8">
