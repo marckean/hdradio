@@ -102,7 +102,7 @@ You can also take the streams and listen to this on another device, as example *
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Kiis 1065 | Sydney | CHR | [128Kbps]("{{ stations.arn.kiisnetwork.Kiis1065.StreamURL }}") |
+| Kiis 1065 | Sydney | CHR | [128Kbps](" {{ stations.arn.kiisnetwork.Kiis1065.StreamURL }} ") |
 | 2Day FM | Sydney | CHR | [128Kbps](https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8) |
 | Nova 969 | Sydney | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC) |
 | Nova 969 | Sydney | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320_SC) |
