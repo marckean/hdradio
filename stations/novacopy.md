@@ -28,6 +28,37 @@ title: Nova Entertainment
 
   } else {
 
+        var audio = new Audio(); // Create an audio element
+      audio.controls = true; // Enable controls for the audio player
+      // Attach the media to the audio player when the HLS manifest is parsed
+      hls.on(Hls.Events.MANIFEST_PARSED, function() {
+        hls.attachMedia(audio);
+        audio.play(); // Start playback after the source is loaded
+      });
+
+      if (Hls.isSupported()) {
+        hls.loadSource(url); // Provide the path to your .m3u8 file
+      } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+        audio.src = url; // Provide the path to your .m3u8 file
+      } else {
+        console.error('HLS playback is not supported.');
+      }
+  }})
+</script>
+
+
+<!-- <script>
+  var audio = document.getElementById('2classicrock');
+  var url = window.audioSrc
+  var hls = new Hls();
+  // Initialize more audio variables as needed
+    playButton.addEventListener('click', function() {
+
+  if (audio.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio.src = url;
+
+  } else {
+
       hls.attachMedia(audio);
 
       //hls.stopLoad();
@@ -36,4 +67,4 @@ title: Nova Entertainment
       audio.play();
     ;
   }})
-</script>
+</script> -->
