@@ -1,9 +1,0 @@
-{
-    "dependencies": {
-      "hls-video-element": "latest"
-    },
-    "main": "/index.js",
-    "devDependencies": {
-      "@babel/core": "7.2.0"
-    }
-  }
