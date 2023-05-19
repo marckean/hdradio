@@ -3,7 +3,7 @@ layout: page
 title: Nova Entertainment
 ---
 
-<audio id="2classicrock" controls></audio>
+
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
@@ -13,6 +13,8 @@ title: Nova Entertainment
 
 <button id="playButton">Play</button><script>var audioSrc;function updateGlobalVariable() {audioSrc = 'https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'}</script>
 
+
+<audio id="2classicrock" controls></audio>
 
 <script>
   var audio = document.getElementById('2classicrock');
@@ -30,7 +32,7 @@ title: Nova Entertainment
 
       //hls.stopLoad();
       //hls.attachMedia(audio);
-      hls.loadSource(audioSrc()); // Provide the path to your .m3u8 file
+      hls.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to your .m3u8 file
       audio.play();
     ;
   }})
