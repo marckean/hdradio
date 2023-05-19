@@ -7,7 +7,7 @@ title: Nova Entertainment
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Kiis 1065 | Sydney | CHR | <button id="playButton">Play</button><script>var audioSrc;function updateGlobalVariable() {audioSrc = '[Hello, world!](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8)';}</script> |
+| Kiis 1065 | Sydney | CHR | <button id="playButton">Play</button>;<script>var audioSrc;function updateGlobalVariable() {audioSrc = '[Hello, world!](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8)';}</script> |
 | 2Day FM | Sydney | CHR |  |
 
 
@@ -19,15 +19,21 @@ title: Nova Entertainment
   
   var hls = new Hls();
   // Initialize more audio variables as needed
-
+    playButton.addEventListener('click', function() {
+      
   if (audio.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio.src = audioSrc;
 
   } else {
-      playButton.addEventListener('click', function() {
+
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+      hls.attachMedia(audio);
+    });
+
+      hls.stopLoad();
       hls.attachMedia(audio);
       hls.loadSource(audioSrc()); // Provide the path to your .m3u8 file
       audio.play();
-    });
-  }
+    ;
+  }})
 </script>
