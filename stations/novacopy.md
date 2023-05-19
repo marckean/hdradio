@@ -18,13 +18,13 @@ title: Nova Entertainment
 
 <script>
   var audio = document.getElementById('2classicrock');
-  
+  var url = audioSrc()
   var hls = new Hls();
   // Initialize more audio variables as needed
     playButton.addEventListener('click', function() {
 
   if (audio.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
-    audio.src = audioSrc;
+    audio.src = url;
 
   } else {
 
@@ -32,7 +32,7 @@ title: Nova Entertainment
 
       //hls.stopLoad();
       //hls.attachMedia(audio);
-      hls.loadSource('https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8'); // Provide the path to your .m3u8 file
+      hls.loadSource(url); // Provide the path to your .m3u8 file
       audio.play();
     ;
   }})
