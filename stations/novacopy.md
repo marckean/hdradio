@@ -69,7 +69,7 @@ title: Nova Entertainment
 <script>
   var playButton = document.getElementById('playButton'); // Get the play button element
   var playButton1 = document.getElementById('playButton1'); // Get the play button element
-  var url = data-global-variable
+  var url = playButton.dataset.globalVariable
   var hls = new Hls(); // Create an instance of HLS.js
   var audio = new Audio(); // Create an audio element
 
