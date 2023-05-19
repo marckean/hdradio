@@ -17,7 +17,8 @@ title: Nova Entertainment
 <audio id="2classicrock" controls></audio>
 
 <script>
-  var audio = document.getElementById('2classicrock');
+  //var audio = document.getElementById('2classicrock');
+  var audio = new Audio(); // Create an audio element
   var url = window.audioSrc
   var hls = new Hls();
   // Initialize more audio variables as needed
@@ -26,9 +27,7 @@ title: Nova Entertainment
   if (audio.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio.src = url;
 
-  } else {
-
-        var audio = new Audio(); // Create an audio element
+  } else { 
       audio.controls = true; // Enable controls for the audio player
       // Attach the media to the audio player when the HLS manifest is parsed
       hls.on(Hls.Events.MANIFEST_PARSED, function() {
@@ -36,13 +35,8 @@ title: Nova Entertainment
         audio.play(); // Start playback after the source is loaded
       });
 
-      if (Hls.isSupported()) {
         hls.loadSource(url); // Provide the path to your .m3u8 file
-      } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
-        audio.src = url; // Provide the path to your .m3u8 file
-      } else {
-        console.error('HLS playback is not supported.');
-      }
+
   }})
 </script>
 
