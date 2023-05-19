@@ -7,8 +7,8 @@ title: Nova Entertainment
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Kiis 1065 | Sydney | CHR | <button id="playButton" url="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">Play</button> |
-| 2Day FM | Sydney | CHR | <button id="playButton" url="https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8">Play</button> |
+| Kiis 1065 | Sydney | CHR | <button id="playButton" data-global-attribute="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">Play</button> |
+| 2Day FM | Sydney | CHR | <button id="playButton" data-global-attribute="https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8">Play</button> |
 
 
 
@@ -69,7 +69,7 @@ title: Nova Entertainment
 <script>
   var playButton = document.getElementById('playButton'); // Get the play button element
   var playButton1 = document.getElementById('playButton1'); // Get the play button element
-  var url = playButton.getAttribute('url')
+  var url = playButton.getAttribute('data-global-attribute')
   var hls = new Hls(); // Create an instance of HLS.js
   var audio = new Audio(); // Create an audio element
 
