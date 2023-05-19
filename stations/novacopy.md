@@ -30,8 +30,8 @@ title: Nova Entertainment
       hls.attachMedia(audio);
     });
 
-      hls.stopLoad();
-      hls.attachMedia(audio);
+      //hls.stopLoad();
+      //hls.attachMedia(audio);
       hls.loadSource(audioSrc()); // Provide the path to your .m3u8 file
       audio.play();
     ;
