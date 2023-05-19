@@ -307,7 +307,7 @@ stations:
         location: 'Sydney'
         Format: 'CHR'
         Bitrate: '128Kbps'
-        StreamURL: 'https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC'
+        StreamURL: "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"
       Kiis1011: 
         name: 'Kiis 1011'
         location: 'Melbourne'
