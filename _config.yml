@@ -21,10 +21,10 @@ author: Marc
 
 navbar-links:
   Stations:
-    - ABC: "abc"
-    - Austereo: "austereo"
-    - ARN: "arn"
-    - Nova: "nova"
+    - ABC: "stations/abc"
+    - Austereo: "stations/austereo"
+    - ARN: "stations/arn"
+    - Nova: "stations/nova"
   eJukebox: "https://ejukebox.com.au"
 
 ################
