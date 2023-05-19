@@ -30,7 +30,7 @@ Fox FM - Melbourne 128Kbps
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/b105.png">
 </a></p>
 
-Fox FM - Brisbane 128Kbps
+B105 - Brisbane 128Kbps
 
 <audio id="4bbb" controls></audio>
 
