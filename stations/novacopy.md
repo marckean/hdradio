@@ -27,7 +27,7 @@ title: Nova Entertainment
   if (audio.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
     audio.src = url;
 
-  } else { 
+  } else {
       audio.controls = true; // Enable controls for the audio player
       // Attach the media to the audio player when the HLS manifest is parsed
       hls.on(Hls.Events.MANIFEST_PARSED, function() {
