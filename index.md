@@ -58,10 +58,10 @@ The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.k
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065.png">
 </a></p>
 
-<!-- <script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome/+esm"></script> -->
+<script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome/+esm"></script>
 <!--https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC-->
 <!--http://27253.live.streamtheworld.com/ARN_KIIS1065AAC/HLS/playlist.m3u8-->
-<!-- <media-controller audio>
+<media-controller audio>
   <audio
     slot="media"
     src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"
@@ -74,11 +74,9 @@ The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.k
     <media-cast-button></media-cast-button>
     <media-airplay-button></media-airplay-button>
   </media-control-bar>
-</media-controller> -->
+</media-controller>
 
-<p></p>
-
-<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
+<!-- <script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
 
 <media-controller audio>
   <hls-video
@@ -94,9 +92,7 @@ The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.k
     <media-cast-button></media-cast-button>
     <media-airplay-button></media-airplay-button>
   </media-control-bar>
-</media-controller>
-
-<p></p>
+</media-controller> -->
 
 As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn).
 
