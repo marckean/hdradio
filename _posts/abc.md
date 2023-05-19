@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Australian Broadcasting Corporation
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
 ---
 
 Listen live, listen online, high quality, high definition, radio stream URLs listed here:
