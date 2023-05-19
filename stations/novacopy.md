@@ -7,8 +7,8 @@ title: Nova Entertainment
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Kiis 1065 | Sydney | CHR | <button id="playButton">Play</button><script>window.audioSrc = 'https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC'</script> |
-| 2Day FM | Sydney | CHR | <button id="playButton">Play</button><script>window.audioSrc = 'https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8'</script> |
+| Kiis 1065 | Sydney | CHR | <script><button id="playButton">Play</button>window.audioSrc = 'https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC'</script> |
+| 2Day FM | Sydney | CHR | <script><button id="playButton">Play</button>window.audioSrc = 'https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8'</script> |
 
 
 
@@ -68,14 +68,17 @@ title: Nova Entertainment
 
 <script>
   var playButton = document.getElementById('playButton'); // Get the play button element
+  var playButton1 = document.getElementById('playButton1'); // Get the play button element
   var url = window.audioSrc
   var hls = new Hls(); // Create an instance of HLS.js
   var audio = new Audio(); // Create an audio element
 
+ hls.stopLoad(); // Stop loading the source
  hls.loadSource(url); // Provide the path to your .m3u8 file
  
   // When the play button is clicked, load the HLS source and start playback
   playButton.addEventListener('click', function() {
+    audio.stop(); 
     hls.attachMedia(audio); // Attach the media to the audio element
     audio.play(); // Start playback
   });
