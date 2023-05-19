@@ -7,8 +7,8 @@ title: Nova Entertainment
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Kiis 1065 | Sydney | CHR | <script><button id="playButton">Play</button>window.audioSrc = 'https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC'</script> |
-| 2Day FM | Sydney | CHR | <script><button id="playButton">Play</button>window.audioSrc = 'https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8'</script> |
+| Kiis 1065 | Sydney | CHR | <script><button id="playButton">Play</button>;window.audioSrc = 'https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC'</script> |
+| 2Day FM | Sydney | CHR | <script><button id="playButton">Play</button>;window.audioSrc = 'https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8'</script> |
 
 
 
