@@ -88,7 +88,8 @@ You can also take the streams and listen to this on another device, as example *
 | **2Day FM** | Sydney | CHR | [128Kbps](https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8) |
 | Nova 969 | Sydney | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC) |
 | Nova 969 | Sydney | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320_SC) |
-| **Dance Hits** | Sydney | Dance | [128Kbps](https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8?) |
+| **Dance Hits** | Sydney | Dance | [128Kbps](https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8) |
+| **Triple M** | Sydney | Rock | [128Kbps](https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8) |
 | Triple M Classic Rock | Sydney | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8) |
 | WSFM | Sydney | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC) |
 | Smooth 95.3 | Sydney | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC) |
@@ -108,6 +109,7 @@ You can also take the streams and listen to this on another device, as example *
 | **Fox FM** | Melbourne | CHR | [128Kbps](https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8) |
 | Nova 100 | Melbourne | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC) |
 | Nova 100 | Melbourne | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320_SC) |
+| **Triple M** | Melbourne | Rock | [128Kbps](https://wz3liw.scahw.com.au/live/3mmm_128.stream/playlist.m3u8) |
 | Triple M Classic Rock | Melbourne | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8) |
 | Gold 1043 | Melbourne | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043_SC) |
 | Smooth 91.5 | Melbourne | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC) |
@@ -121,8 +123,10 @@ You can also take the streams and listen to this on another device, as example *
 | Triple J | QLD | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8) |
 | ABC Classic 1 | QLD | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038352/classicfmqld/masterhq.m3u8) |
 | 96FM | Perth | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM_SC) |
+| **Mix 94.5** | Brisbane | CHR | [128Kbps](https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8) |
 | Nova 937 | Perth | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128_SC) |
 | Nova 937 | Perth | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320_SC) |
+| **Triple M** | Perth | Rock | [128Kbps](https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8) |
 | Triple M Classic Rock | Perth | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8) |
 | Triple J | WA | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/masterhq.m3u8) |
 | ABC Classic 1 | WA | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038349/classicfmwa/masterhq.m3u8) |
@@ -130,6 +134,7 @@ You can also take the streams and listen to this on another device, as example *
 | **SAFM** | Adelaide | CHR | [128Kbps](https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8) |
 | Nova 919 | Adelaide | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128_SC) |
 | Nova 919 | Adelaide | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320_SC) |
+| **Triple M** | Adelaide | Rock | [128Kbps](https://wz5liw.scahw.com.au/live/5mmm_128.stream/playlist.m3u8) |
 | Cruise 1323 | Adelaide | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323_SC) |
 | Triple J | SA | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038346/triplejsa/masterhq.m3u8) |
 | ABC Classic 1 | SA | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8) |
