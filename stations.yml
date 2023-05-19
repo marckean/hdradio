@@ -1,0 +1,28 @@
+######################################
+# --- Stations --- #
+######################################
+
+abc:
+arn:
+  kiisnetwork:
+    Kiis1065: 
+      name: Kiis 1065
+      location: Sydney
+      Format: CHR
+      Bitrate: 128Kbps
+      StreamURL: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC
+    Kiis1011: 
+      name: Kiis 1011
+      location: Melbourne
+      Format: CHR
+      Bitrate: 128Kbps
+      StreamURL: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC
+  puregoldnetwork:
+    wsfm:
+      name: WSFM
+      location: Sydney
+      Format: AC
+      Bitrate: 128Kbps
+      StreamURL: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC
+austereo:
+nova:
