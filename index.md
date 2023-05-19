@@ -76,6 +76,22 @@ The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.k
   </media-control-bar>
 </media-controller>
 
+<media-controller audio>
+  <hls-video
+    src="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8"
+    slot="media"
+    crossorigin
+  ></hls-video>
+  <media-control-bar>
+    <media-play-button></media-play-button>
+    <media-live-button></media-live-button>
+    <media-mute-button></media-mute-button>
+    <media-volume-range></media-volume-range>
+    <media-cast-button></media-cast-button>
+    <media-airplay-button></media-airplay-button>
+  </media-control-bar>
+</media-controller>
+
 As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn).
 
 # Take streams with you
