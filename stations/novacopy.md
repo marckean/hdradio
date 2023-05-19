@@ -3,7 +3,7 @@ layout: page
 title: Nova Entertainment
 ---
 
-
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script> <!-- Include the HLS.js library -->
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
