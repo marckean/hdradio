@@ -7,8 +7,8 @@ title: Nova Entertainment
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Kiis 1065 | Sydney | CHR | <button id="playButton" data-global-attribute="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">Play</button> |
-| 2Day FM | Sydney | CHR | <button id="playButton" data-global-attribute="https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8">Play</button> |
+| Kiis 1065 | Sydney | CHR | <button id="playButton1" data-global-attribute="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">Play</button> |
+| 2Day FM | Sydney | CHR | <button id="playButton2" data-global-attribute="https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8">Play</button> |
 
 
 
@@ -67,20 +67,21 @@ title: Nova Entertainment
 
 
 <script>
-  var playButton = document.getElementById('playButton'); // Get the play button element
   var playButton1 = document.getElementById('playButton1'); // Get the play button element
-  var url = playButton.getAttribute('data-global-attribute')
-  var hls = new Hls(); // Create an instance of HLS.js
-  var audio = new Audio(); // Create an audio element
+  var playButton2 = document.getElementById('playButton2'); // Get the play button element
+  var url1 = playButton1.getAttribute('data-global-attribute')
 
- hls.stopLoad(); // Stop loading the source
- hls.loadSource(url); // Provide the path to your .m3u8 file
+  var hls1 = new Hls(); // Create an instance of HLS.js
+  var audio1 = new Audio(); // Create an audio element
+
+ hls1.stopLoad(); // Stop loading the source
+ hls1.loadSource(url); // Provide the path to your .m3u8 file
  
   // When the play button is clicked, load the HLS source and start playback
-  playButton.addEventListener('click', function() {
-    audio.stop(); 
-    hls.attachMedia(audio); // Attach the media to the audio element
-    audio.play(); // Start playback
+  playButton1.addEventListener('click', function() {
+    audio1.stop(); 
+    hls1.attachMedia(audio1); // Attach the media to the audio element
+    audio1.play(); // Start playback
   });
 </script>
 
