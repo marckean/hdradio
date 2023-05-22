@@ -75,7 +75,7 @@ title: Nova Entertainment
   var audio1 = new Audio(); // Create an audio element
 
  hls1.stopLoad(); // Stop loading the source
- hls1.loadSource(url); // Provide the path to your .m3u8 file
+ hls1.loadSource(url1); // Provide the path to your .m3u8 file
  
   // When the play button is clicked, load the HLS source and start playback
   playButton1.addEventListener('click', function() {
