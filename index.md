@@ -1,6 +1,6 @@
 ---
 layout: home
-title: HD Streams
+title: High Quality Radio, Listen Live Online
 subtitle: Giving you what you deserve
 ---
 
