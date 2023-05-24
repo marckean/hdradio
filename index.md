@@ -57,7 +57,10 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 ## [KIIS 1065](https://www.kiis1065.com.au) - Sydney 128Kbps
 
-The Number one hit radio station in Sydney, here's the [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream:
+Just like the many other radio stations listed on this site, you can listen live to **Kiis 1065 Sydney** in high quality. We're using Kiis 1065 as an example because it's one of the most popular radio stations in Australia.
+
+The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream:
+
 
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065.png">
@@ -89,7 +92,7 @@ As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you 
 
 # Take streams with you
 
-You can also take the streams and listen to this on another device, as example **Sonos** or other mobile phone app. 
+Below is the complete list of all the stations included on this website at a glance. You can take the streams with you (copy/paste) and listen to these on another device or in another app. As example, the **Sonos** system supports adding custom streams, or other mobile phone app such as the **Broadcasts** app on [iOS](https://apps.apple.com/au/app/broadcasts/id1469995354). With the **Broadcasts** app, you can manually add custom streams as well, and then the **Broadcasts** app also works across the phone itself or Apple Watch.
 
 | Station | Location | Format | Stream URL |
 |:-------------|:------------------|:------|
