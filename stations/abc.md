@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Australian Broadcasting Corporation
 subtitle: High Quality Radio, Listen Live Online
 ---
