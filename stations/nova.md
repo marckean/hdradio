@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nova Entertainment
+subtitle: High Quality Radio, Listen Live Online
 ---
 
 Listen live, listen online, high quality, high definition, radio stream URLs listed here:

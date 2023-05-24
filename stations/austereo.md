@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Austereo
+subtitle: High Quality Radio, Listen Live Online
 ---
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script> <!-- Include the HLS.js library -->
 

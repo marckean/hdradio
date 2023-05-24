@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Australian Radio Network
+subtitle: High Quality Radio, Listen Live Online
 ---
 
 [//]: # (margin:top right bottom left)
