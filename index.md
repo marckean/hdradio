@@ -37,7 +37,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| <p align="left"><a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"> | <p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="100" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"> |
+| <a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"> | <a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="100" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"> |
 
 
 <!--Simplest syntax-->
@@ -64,7 +64,7 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 | 128Kbps MP3 | 48Kbps AAC+ v2 |
 |:-------------|:---------------|
-| <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065128.png"></a></p><audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis106548.png"></a></p><audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> |
+| <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065128.png"></a><audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis106548.png"></a><audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> |
 
 I recently contacted Kiis for comment, this was there response:
 
