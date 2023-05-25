@@ -51,6 +51,10 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 |:-------------|:---------------|
 | <p align="left"><a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"> | <p align="left"><a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="100" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"> |
 
+[![](assets/img/stations/eJukebox%20Smooth_72dpi.png)](https://listen.ejukebox.net/two)
+
+[![](assets/img/iHeart_radio_eJukeboxSmooth.jpg)](https://www.iheart.com/live/ejukebox-smooth-9750)
+
 <!--Simplest syntax-->
 <audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
@@ -64,7 +68,9 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 | 128Kbps MP3 | 48Kbps AAC+ v2 |
 |:-------------|:---------------|
-| <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065128.png"></a><audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis106548.png"></a> |
+| [![](assets/img/stations/kiis1065128.png)](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC)<p><audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | [![](assets/img/stations/kiis106548.png)](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC) |
+
+[![](assets/img/stations/kiis1065128.png)](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC)
 
 I recently contacted Kiis for comment, this was there response:
 
@@ -78,7 +84,7 @@ It's bullshit, as
 
 <media-controller audio>
   <hls-video
-    src="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8"
+    src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"
     slot="media"
     crossorigin
   ></hls-video>
