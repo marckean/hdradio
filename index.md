@@ -70,23 +70,10 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio>
 
+-----------------------------------------------------------
+
 <p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a></p>
 
-
-
-<media-controller audio><hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video><media-control-bar><media-play-button></media-play-button><media-live-button></media-live-button><media-mute-button></media-mute-button><media-volume-range></media-volume-range><media-cast-button></media-cast-button><media-airplay-button></media-airplay-button></media-control-bar></media-controller> |
-
-<media-controller audio>
-    <hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video>
-    <media-control-bar>
-        <media-play-button></media-play-button>
-        <media-live-button></media-live-button>
-        <media-mute-button></media-mute-button>
-        <media-volume-range></media-volume-range>
-        <media-cast-button></media-cast-button>
-        <media-airplay-button></media-airplay-button>
-    </media-control-bar>
-</media-controller>
 
 <media-controller audio>
   <audio
