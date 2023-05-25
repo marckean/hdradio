@@ -4,7 +4,8 @@ title: High Quality Radio, Listen Live Online
 subtitle: Giving you what you deserve
 ---
 
-<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
+<!--<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>-->
+<script type="module" src="https://unpkg.com/media-chrome@0.6"></script>
 
 # Intro to HD Radio (high quality streams)
 
