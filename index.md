@@ -78,7 +78,7 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 <media-controller audio>
   <audio
     slot="media"
-    src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"
+    src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC.m3u8"
   ></audio>
   <media-control-bar>
     <media-play-button></media-play-button>
@@ -99,6 +99,8 @@ I recently contacted Kiis for comment, this was there response:
 </p>
 
 It's bullshit, as eJukebox is listed on iHeart radio with two stations and are streaming at 128Kbps.
+
+http://27253.live.streamtheworld.com/ARN_KIIS1065AAC/HLS/playlist.m3u8
 
 <script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
 
