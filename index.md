@@ -74,7 +74,7 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 ---------------------------------------
 
-<p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a></p>
+<p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC.m3u8"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a></p>
 
 
 <media-controller audio>
