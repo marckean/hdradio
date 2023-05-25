@@ -50,7 +50,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| <a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="350" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"></a> |
+| <a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"></a> |
 
 
 <!--Simplest syntax-->
@@ -75,7 +75,7 @@ As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you 
 I recently contacted Kiis for comment, this was there response:
 
 <p align="center">
-<img style="vertical-align:left;margin:0px 0px 0px 0px" width="550" src="/assets/img/KiisContact.png">
+<img style="vertical-align:left;margin:0px 0px 0px 0px" width="600" src="/assets/img/KiisContact.png">
 </p>
 
 It's bullshit, as eJukebox is listed on iHeart radio with two stations and are streaming at 128Kbps.
