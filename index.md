@@ -4,6 +4,8 @@ title: High Quality Radio, Listen Live Online
 subtitle: Giving you what you deserve
 ---
 
+<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
+
 # Intro to HD Radio (high quality streams)
 
 Prepare yourself for a captivating revelation that will leave you awe-struck. Nestled within the digital realm lies a trove of extraordinary, High Quality, High Definition (HD) **listen live** radio stream URLs, concealed from the mainstream and rarely acknowledged. These hidden gems remain elusive, not due to malice, but rather as a result of certain radio stations' budget constraints and technical limitations.
@@ -37,7 +39,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| <a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="350" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"></a> |
+| <a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:5px 0px 5px 0px" height="140" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:5px 0px 5px 0px" height="140" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"></a> |
 
 <!--Simplest syntax-->
 <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls>
@@ -65,7 +67,7 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 | 128Kbps MP3 | 48Kbps AAC+ v2 |
 |:-------------|:---------------|
 | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="300" src="/assets/img/stations/kiis1065128.png"></a> | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a> |
-| <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | <script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script><media-controller audio><hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video><media-control-bar><media-play-button></media-play-button><media-live-button></media-live-button><media-mute-button></media-mute-button><media-volume-range></media-volume-range><media-cast-button></media-cast-button><media-airplay-button></media-airplay-button></media-control-bar></media-controller> |
+| <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | <media-controller audio><hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video><media-control-bar><media-play-button></media-play-button><media-live-button></media-live-button><media-mute-button></media-mute-button><media-volume-range></media-volume-range><media-cast-button></media-cast-button><media-airplay-button></media-airplay-button></media-control-bar></media-controller> |
 
 
 As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn).
