@@ -55,11 +55,11 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-## [KIIS 1065](https://www.kiis1065.com.au) - Sydney 128Kbps
+## [KIIS 1065](https://www.kiis1065.com.au) - Sydney
 
 Just like the many other radio stations listed on this site, you can listen live to **Kiis 1065 Sydney** in high quality. We're using Kiis 1065 as an example because it's one of the most popular radio stations in Australia.
 
-The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream:
+The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream and alternative lower bitrate stream where you can easily tell the difference side by side:
 
 | 128Kbps MP3 | 48Kbps AAC+ v2 |
 |:-------------|:---------------|
