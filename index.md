@@ -39,7 +39,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| <a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:5px 0px 5px 0px" height="140" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:5px 0px 5px 0px" height="140" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"></a> |
+| <a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"></a> |
 
 <!--Simplest syntax-->
 <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls>
@@ -50,7 +50,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| <a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="350" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"></a> |
+| <a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="350" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"></a> |
 
 
 <!--Simplest syntax-->
@@ -66,7 +66,7 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 | 128Kbps MP3 | 48Kbps AAC+ v2 |
 |:-------------|:---------------|
-| <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="300" src="/assets/img/stations/kiis1065128.png"></a> | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a> |
+| <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis1065128.png"></a> | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a> |
 | <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | <media-controller audio><hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video><media-control-bar><media-play-button></media-play-button><media-live-button></media-live-button><media-mute-button></media-mute-button><media-volume-range></media-volume-range><media-cast-button></media-cast-button><media-airplay-button></media-airplay-button></media-control-bar></media-controller> |
 
 
@@ -75,7 +75,7 @@ As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you 
 I recently contacted Kiis for comment, this was there response:
 
 <p align="center">
-<img style="vertical-align:left;margin:5px 0px 5px 0px" width="550" src="/assets/img/KiisContact.png">
+<img style="vertical-align:left;margin:0px 0px 0px 0px" width="550" src="/assets/img/KiisContact.png">
 </p>
 
 It's bullshit, as eJukebox is listed on iHeart radio with two stations and are streaming at 128Kbps.
