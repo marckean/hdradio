@@ -22,7 +22,7 @@ Best consumed with a pair of high quality headphones or speakers, these **stream
 
 
 <p align="center">
-<img style="vertical-align:left;margin:5px 0px 5px 0px" width="450" src="/assets/img/shutterstock_204979480.jpg">
+<img style="vertical-align:left;margin:0px 0px 0px 0px" width="450" src="/assets/img/shutterstock_204979480.jpg">
 </p>
 
 # eJukebox
@@ -32,7 +32,7 @@ I am proud to present [eJukebox](https://ejukebox.com.au) as the esteemed sponso
 Within their illustrious repertoire, two extraordinary eJukebox streams reign supreme, both boasting a sublime 128Kbps MP3 audio format. In comparison to other radio stations, these streams effortlessly surpass the competition, offering an auditory feast that is simply unparalleled.
 
 <p align="center">
-<img style="vertical-align:left;margin:5px 0px 5px 0px" width="450" src="/assets/img/hire-dance1.jpg">
+<img style="vertical-align:left;margin:0px 0px 0px 0px" width="450" src="/assets/img/hire-dance1.jpg">
 </p>
 
 ## eJukebox Hits
