@@ -63,11 +63,15 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 Just like the many other radio stations listed on this site, you can listen live to **Kiis 1065 Sydney** in high quality. We're using Kiis 1065 as an example because it's one of the most popular radio stations in Australia.
 
 The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream and alternative lower bitrate stream where you can easily tell the difference side by side:
+<p align="center">
 
-| 128Kbps MP3 | 48Kbps AAC+ v2 |
-|:-------------|:---------------|
-| <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis1065128.png"></a> | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a> |
-| <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | <media-controller audio><hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video><media-control-bar><media-play-button></media-play-button><media-live-button></media-live-button><media-mute-button></media-mute-button><media-volume-range></media-volume-range><media-cast-button></media-cast-button><media-airplay-button></media-airplay-button></media-control-bar></media-controller> |
+<a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis1065128.png"></a>
+
+<a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a>
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio>
+
+<media-controller audio><hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video><media-control-bar><media-play-button></media-play-button><media-live-button></media-live-button><media-mute-button></media-mute-button><media-volume-range></media-volume-range><media-cast-button></media-cast-button><media-airplay-button></media-airplay-button></media-control-bar></media-controller> |
 
 <media-controller audio>
     <hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video>
@@ -79,6 +83,21 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
         <media-cast-button></media-cast-button>
         <media-airplay-button></media-airplay-button>
     </media-control-bar>
+</media-controller>
+
+<media-controller audio>
+  <audio
+    slot="media"
+    src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"
+  ></audio>
+  <media-control-bar>
+    <media-play-button></media-play-button>
+    <media-live-button></media-live-button>
+    <media-mute-button></media-mute-button>
+    <media-volume-range></media-volume-range>
+    <media-cast-button></media-cast-button>
+    <media-airplay-button></media-airplay-button>
+  </media-control-bar>
 </media-controller>
 
 As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn).
