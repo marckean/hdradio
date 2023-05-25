@@ -69,7 +69,9 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
-</audio> | <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC">
+</audio> |
+
+| <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="175" src="/assets/img/stations/kiis106548.png">
 </a></p>
 
@@ -77,6 +79,13 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio> |
 
+I recently contacted Kiis for comment, this was there response:
+
+<p align="left">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/KiisContact.png">
+</p>
+
+It's bullshit, as 
 
 <!-- <script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
 
