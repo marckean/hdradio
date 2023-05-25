@@ -37,7 +37,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| <p align="left"><a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"> | <p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"> |
+| <p align="left"><a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"> | <p align="left"><a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="100" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"> |
 
 
 <!--Simplest syntax-->
@@ -49,7 +49,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| <p align="left"><a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"> | <p align="left"><a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"> |
+| <p align="left"><a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="150" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"> | <p align="left"><a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="100" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"> |
 
 <!--Simplest syntax-->
 <audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls>
