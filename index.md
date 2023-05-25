@@ -37,7 +37,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| [![](assets/img/stations/eJukebox%20Smooth_72dpi.png)](https://listen.ejukebox.net/one) | [![](assets/img/iHeart_radio_eJukeboxHits.jpg)](https://www.iheart.com/live/ejukebox-smooth-9750) |
+| [![](assets/img/stations/eJukebox%20Smooth_72dpi.png)](https://listen.ejukebox.net/one) | [![](assets/img/iHeart_radio_eJukeboxHits.jpg)](https://www.iheart.com/live/ejukebox-hits-9243) |
 
 
 
