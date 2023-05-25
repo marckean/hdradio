@@ -38,7 +38,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 ## eJukebox Hits
 
-| Direct | iHeart Radio |
+| Direct Stream | iHeart Radio Stream |
 |:-------------|:---------------|
 | <a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"></a> |
 
@@ -49,7 +49,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 ## eJukebox Smooth
 
-| Direct | iHeart Radio |
+| Direct Stream | iHeart Radio Stream |
 |:-------------|:---------------|
 | <a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"></a> |
 
