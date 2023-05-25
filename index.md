@@ -61,14 +61,22 @@ Just like the many other radio stations listed on this site, you can listen live
 
 The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream:
 
-
-<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
-<img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis1065.png">
+| 128Kbps MP3 | 48Kbps AAC+ v2 |
+|:-------------|:---------------|
+| <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="175" src="/assets/img/stations/kiis1065128.png">
 </a></p>
 
 <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
-</audio>
+</audio> | <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="175" src="/assets/img/stations/kiis106548.png">
+</a></p>
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio> |
+
 
 <!-- <script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
 
@@ -95,7 +103,7 @@ As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you 
 Below is the complete list of all the stations included on this website at a glance. You can take the streams with you (copy/paste) and listen to these on another device or in another app. As example, the **Sonos** system supports adding custom streams, or other mobile phone app such as the **Broadcasts** app on [iOS](https://apps.apple.com/au/app/broadcasts/id1469995354). With the **Broadcasts** app, you can manually add custom streams as well, and then the **Broadcasts** app also works across the phone itself or Apple Watch.
 
 | Station | Location | Format | Stream URL |
-|:-------------|:------------------|:------|
+|:-------------|:------------------|:------|:------|
 | Kiis 1065 | Sydney | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC) |
 | 2Day FM | Sydney | CHR | [128Kbps](https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8) |
 | Nova 969 | Sydney | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC) |
