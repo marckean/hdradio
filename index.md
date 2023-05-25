@@ -65,20 +65,8 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 | 128Kbps MP3 | 48Kbps AAC+ v2 |
 |:-------------|:---------------|
 | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="300" src="/assets/img/stations/kiis1065128.png"></a> | <a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a> |
-| <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | |
-
-
-As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn).
-
-I recently contacted Kiis for comment, this was there response:
-
-<p align="center">
-<img style="vertical-align:left;margin:5px 0px 5px 0px" width="550" src="/assets/img/KiisContact.png">
-</p>
-
-It's bullshit, as eJukebox is listed on iHeart radio with two stations and are streaming at 128Kbps.
-
-<!-- <script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
+| <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> |
+<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
 
 <media-controller audio>
   <hls-video
@@ -94,7 +82,36 @@ It's bullshit, as eJukebox is listed on iHeart radio with two stations and are s
     <media-cast-button></media-cast-button>
     <media-airplay-button></media-airplay-button>
   </media-control-bar>
-</media-controller> -->
+</media-controller> |
+
+
+As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn).
+
+I recently contacted Kiis for comment, this was there response:
+
+<p align="center">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="550" src="/assets/img/KiisContact.png">
+</p>
+
+It's bullshit, as eJukebox is listed on iHeart radio with two stations and are streaming at 128Kbps.
+
+<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
+
+<media-controller audio>
+  <hls-video
+    src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"
+    slot="media"
+    crossorigin
+  ></hls-video>
+  <media-control-bar>
+    <media-play-button></media-play-button>
+    <media-live-button></media-live-button>
+    <media-mute-button></media-mute-button>
+    <media-volume-range></media-volume-range>
+    <media-cast-button></media-cast-button>
+    <media-airplay-button></media-airplay-button>
+  </media-control-bar>
+</media-controller>
 
 # Take streams with you
 
