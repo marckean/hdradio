@@ -64,13 +64,15 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 Just like the many other radio stations listed on this site, you can listen live to **Kiis 1065 Sydney** in high quality. We're using Kiis 1065 as an example because it's one of the most popular radio stations in Australia.
 
 The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](https://www.kiis1065.com.au) **listen live** stream and alternative lower bitrate stream where you can easily tell the difference side by side:
-<p align="center">
 
-<a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis1065128.png"></a>
 
-<a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a>
+<p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis1065128.png"></a></p>
 
 <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio>
+
+<p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a></p>
+
+
 
 <media-controller audio><hls-video src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" slot="media" crossorigin></hls-video><media-control-bar><media-play-button></media-play-button><media-live-button></media-live-button><media-mute-button></media-mute-button><media-volume-range></media-volume-range><media-cast-button></media-cast-button><media-airplay-button></media-airplay-button></media-control-bar></media-controller> |
 
