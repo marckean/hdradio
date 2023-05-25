@@ -74,7 +74,7 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 I recently contacted Kiis for comment, this was there response:
 
 <p align="center">
-<img style="vertical-align:left;margin:5px 0px 5px 0px" width="350" src="/assets/img/KiisContact.png">
+<img style="vertical-align:left;margin:5px 0px 5px 0px" width="450" src="/assets/img/KiisContact.png">
 </p>
 
 It's bullshit, as eJukebox is listed on iHeart radio with two stations and are streaming at 128Kbps.
