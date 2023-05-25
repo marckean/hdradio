@@ -50,7 +50,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct | iHeart Radio |
 |:-------------|:---------------|
-| [![](assets/img/stations/eJukebox%20Smooth_72dpi.png)](https://listen.ejukebox.net/two) | [![](assets/img/iHeart_radio_eJukeboxSmooth.jpg)](https://www.iheart.com/live/ejukebox-smooth-9750) |
+| <a href="https://listen.ejukebox.net/two"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-smooth-9750"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="300" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"></a> |
 
 
 <!--Simplest syntax-->
