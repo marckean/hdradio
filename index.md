@@ -66,12 +66,14 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 | 128Kbps MP3 | 48Kbps AAC+ v2 |
 |:-------------|:---------------|
-| [![](assets/img/stations/kiis1065128.png)](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC)<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | [![](assets/img/stations/kiis106548.png)](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC) |
+| [![](assets/img/stations/kiis1065128.png)](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC)<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio> | <p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC"><img style="vertical-align:left;margin:5px 0px 5px 0px" width="200" src="/assets/img/stations/kiis106548.png"></a></p> |
+
+
 
 
 I recently contacted Kiis for comment, this was there response:
 
-<p align="left">
+<p align="center">
 <img style="vertical-align:left;margin:5px 0px 5px 0px" width="350" src="/assets/img/KiisContact.png">
 </p>
 
