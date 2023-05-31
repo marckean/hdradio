@@ -181,7 +181,7 @@ Triple M Country - Sydney 128Kbps
 <!-- Triple M 80s - Sydney -->
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8">
-<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/mmmcountry.png">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/mmm-80s.png">
 </a></p>
 
 Triple M 80s - Sydney 128Kbps
