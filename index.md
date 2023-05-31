@@ -76,7 +76,7 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 <p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC.aac"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a></p>
 
-<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio>
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" type="audio/aac" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio>
 
 
 <!-- <media-controller audio>
