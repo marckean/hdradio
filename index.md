@@ -4,8 +4,8 @@ title: High Quality Radio, Listen Live Online
 subtitle: Giving you what you deserve
 ---
 
-<!--<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>-->
-<script type="module" src="https://unpkg.com/media-chrome@0.6"></script>
+<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
+<!-- <script type="module" src="https://unpkg.com/media-chrome@0.6"></script> -->
 
 # Intro to HD Radio (high quality streams)
 
@@ -104,9 +104,8 @@ I recently contacted Kiis for comment, this was there response:
 
 It's bullshit, as eJukebox is listed on iHeart radio with two stations and are streaming at 128Kbps.
 
-http://27253.live.streamtheworld.com/ARN_KIIS1065AAC/HLS/playlist.m3u8
 
-<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
+<!-- <script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script> -->
 
 <!-- <media-controller audio>
   <hls-video
