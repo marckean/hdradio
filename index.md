@@ -4,7 +4,7 @@ title: High Quality Radio, Listen Live Online
 subtitle: Giving you what you deserve
 ---
 
-<script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script>
+<!-- <script type="module" src="https://data.jsdelivr.com/v1/package/npm/hls-video-element@latest"></script> -->
 <!-- <script type="module" src="https://unpkg.com/media-chrome@0.6"></script> -->
 
 # Intro to HD Radio (high quality streams)
@@ -74,10 +74,12 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
 
 ---------------------------------------
 
-<p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC.m3u8"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a></p>
+<p align="center"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC.aac"><img style="vertical-align:left;margin:0px 0px 0px 0px" width="300" src="/assets/img/stations/kiis106548.png"></a></p>
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC" type="audio/mpeg" controls>  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.</audio>
 
 
-<media-controller audio>
+<!-- <media-controller audio>
   <audio
     slot="media"
     src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC.m3u8"
@@ -90,7 +92,7 @@ The Number one hit radio station in Sydney, here's the high quality [KIIS 1065](
     <media-cast-button></media-cast-button>
     <media-airplay-button></media-airplay-button>
   </media-control-bar>
-</media-controller>
+</media-controller> -->
 
 As Kiis 1065 is part of the [Australian Radio Network](https://arn.com.au), you can listen to the rest of ARN radio stations [here](arn).
 
@@ -143,8 +145,9 @@ Listen live in high quality to the following radio stations in:
 | **Dance Hits** | Dance | [128Kbps](https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8) |
 | Triple M | Rock | [128Kbps](https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8) |
 | Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8) |
-| **Triple M Country** | Country | [128Kbps](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8) |
+| **Triple M Country** | Country | [128Kbps](https://wz2liw.scahw.com.au/live/2country_128.stream/playlist.m3u8) |
 | **Triple M Tradie Radio** | Modern Rock | [128Kbps](https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8) |
+| **Triple M 80s** | Rock | [128Kbps](https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8) |
 | WSFM | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC) |
 | Smooth 95.3 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC) |
 | Smooth 95.3 | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320_SC) |
@@ -221,7 +224,16 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|:------|
-| Hot 100 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100) |
-| Mix 104.9 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049) |
-| Triple J | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038348/triplejnt/masterhq.m3u8) |
-| ABC Classic 1 | AC | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038323/classicfmnt/masterhq.m3u8) |
+| Hot 100 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100_SC) |
+| Mix 104.9 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049_SC) |
+| Triple J | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038348/triplejnt/masterhq.m3u8) |
+| ABC Classic 1 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038323/classicfmnt/masterhq.m3u8) |
+
+## Hobart / Tasmania
+
+Listen live in high quality to the following radio stations in Darwin / Northern Territory:
+
+| Station | Format | Stream URL |
+|:-------------|:------------------|:------|:------|
+| Hot 100 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO_SC) |
+| Hit 100.9 | AC | [128Kbps](https://wz7liw.scahw.com.au/live/7ttt_128.stream/playlist.m3u8) |

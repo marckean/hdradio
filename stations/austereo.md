@@ -9,6 +9,8 @@ Listen live, listen online, high quality, high definition, radio stream URLs lis
 
 <!------------------ Hit Network ------------------>
 
+<!-- 2Day FM - Sydney -->
+
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/2day.png">
 </a></p>
@@ -17,6 +19,7 @@ Listen live, listen online, high quality, high definition, radio stream URLs lis
 
 <audio id="2day" controls></audio>
 
+<!-- Fox FM - Melbourne -->
 
 <p align="left"><a href="https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/fox.png">
@@ -26,6 +29,7 @@ Fox FM - Melbourne 128Kbps
 
 <audio id="3fox" controls></audio>
 
+<!-- B105 - Brisbane -->
 
 <p align="left"><a href="https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/b105.png">
@@ -35,6 +39,7 @@ B105 - Brisbane 128Kbps
 
 <audio id="4bbb" controls></audio>
 
+<!-- Mix 94.5 - Perth -->
 
 <p align="left"><a href="https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/Mix94.5.png">
@@ -44,6 +49,7 @@ Mix 94.5 - Perth 128Kbps
 
 <audio id="6mix" controls></audio>
 
+<!-- SAFM - Adelaide -->
 
 <p align="left"><a href="https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/safm.png">
@@ -53,8 +59,20 @@ SAFM - Adelaide 128Kbps
 
 <audio id="5ssa" controls></audio>
 
+<!-- Hit 100.9 - Hobart -->
+
+<p align="left"><a href="https://wz7liw.scahw.com.au/live/7ttt_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/Hit-hobart-1009.png">
+</a></p>
+
+Hit 100.9 - Hobart 128Kbps
+
+<audio id="7ttt" controls></audio>
+
 
 <!------------------ Triple M Network ------------------>
+
+<!-- Triple M - Sydney -->
 
 <p align="left"><a href="https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/2mmm.png">
@@ -64,6 +82,7 @@ Triple M - Sydney 128Kbps
 
 <audio id="2mmm" controls></audio>
 
+<!-- Triple M - Melbourne -->
 
 <p align="left"><a href="https://wz3liw.scahw.com.au/live/3mmm_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/3mmm-primary.png">
@@ -73,6 +92,7 @@ Triple M - Melbourne 128Kbps
 
 <audio id="3mmm" controls></audio>
 
+<!-- Triple M - Brisbane -->
 
 <p align="left"><a href="https://wz3liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/4mmm-primary.png">
@@ -82,6 +102,7 @@ Triple M - Brisbane 128Kbps
 
 <audio id="4mmm" controls></audio>
 
+<!-- Triple M - Perth -->
 
 <p align="left"><a href="https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/triplem929-perth.png">
@@ -91,6 +112,7 @@ Triple M - Perth 128Kbps
 
 <audio id="6ppm" controls></audio>
 
+<!-- Triple M - Adelaide -->
 
 <p align="left"><a href="https://wz5liw.scahw.com.au/live/5mmm_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/5mmm-primary.png">
@@ -103,6 +125,8 @@ Triple M - Adelaide 128Kbps
 
 <!------------------ Triple M Classic Rock ------------------>
 
+<!-- Triple M Classic Rock Digital - Sydney -->
+
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
 </a></p>
@@ -111,6 +135,7 @@ Triple M Classic Rock Digital - Sydney 128Kbps
 
 <audio id="2classicrock" controls></audio>
 
+<!-- Triple M Classic Rock Digital - Melbourne -->
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
@@ -120,6 +145,8 @@ Triple M Classic Rock Digital - Melbourne 128Kbps
 
 <audio id="3classicrock" controls></audio>
 
+<!-- Triple M Classic Rock Digital - Brisbane -->
+
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
 </a></p>
@@ -127,6 +154,8 @@ Triple M Classic Rock Digital - Melbourne 128Kbps
 Triple M Classic Rock Digital - Brisbane 128Kbps
 
 <audio id="4classicrock" controls></audio>
+
+<!-- Triple M Classic Rock Digital - Perth -->
 
 <p align="left"><a href="https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png">
@@ -136,6 +165,38 @@ Triple M Classic Rock Digital - Perth 128Kbps
 
 <audio id="6classicrock" controls></audio>
 
+
+<!------------------ Triple M Digital ------------------>
+
+<!-- Triple M Country - Sydney -->
+
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/2country_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/mmmcountry.png">
+</a></p>
+
+Triple M Country - Sydney 128Kbps
+
+<audio id="2country" controls></audio>
+
+<!-- Triple M 80s - Sydney -->
+
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/mmmcountry.png">
+</a></p>
+
+Triple M 80s - Sydney 128Kbps
+
+<audio id="280s" controls></audio>
+
+<!-- Triple M Tradie Radio - Sydney -->
+
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/TRADIE_RADIO_SHOW_IMAGE_3000x3000.jpg">
+</a></p>
+
+Triple M Tradie Radio - Sydney 128Kbps
+
+<audio id="290s" controls></audio>
 
 <!------------------------------------------->
 <!--------SCRIPTS-------->
@@ -592,6 +653,34 @@ Triple M Classic Rock Digital - Perth 128Kbps
     // Stop loading the source when the audio is paused
     audio15.addEventListener('pause', function() {
       hls15.stopLoad(); // Stop loading the source
+    });
+  }
+</script>
+
+<script>
+  var audio16 = document.getElementById('7ttt');
+  var audioSrc16 = 'https://wz7liw.scahw.com.au/live/7ttt_128.stream/playlist.m3u8';
+  var hls16 = new Hls();
+
+  if (audio16.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio16.src = audioSrc16; 
+
+  } else {
+
+      hls16.attachMedia(audio16);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio16.addEventListener('play', function() {
+      if (hls16.media && hls16.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls16.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls16.loadSource(audioSrc16); // Provide the path to your .m3u8 file
+        audio16.play();
+      }
+    });
+    // Stop loading the source when the audio is paused
+    audio16.addEventListener('pause', function() {
+      hls16.stopLoad(); // Stop loading the source
     });
   }
 </script>

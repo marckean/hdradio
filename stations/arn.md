@@ -71,13 +71,24 @@ Mix 1023 - Adelaide 128Kbps
 </audio>
 
 <!--Darwin-->
-<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100">
-<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/mix1023.png">
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/Hot100.png">
 </a></p>
 
 Hot 100 - Darwin 128Kbps
 
-<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100" type="audio/mpeg" controls>
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+<!--Hobart-->
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/7HOFM.png">
+</a></p>
+
+7HOFM - Hobart 128Kbps
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO_SC" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
@@ -118,6 +129,17 @@ Gold 1043 - Melbourne 128Kbps
 Cruise 1323 - Sydney 128Kbps
 
 <audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+<!--Darwin-->
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/cruise1323.png">
+</a></p>
+
+Mix 104.9 - Darwin 128Kbps
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049_SC" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
