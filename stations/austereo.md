@@ -198,6 +198,16 @@ Triple M Tradie Radio - Sydney 128Kbps
 
 <audio id="290s" controls></audio>
 
+<!-- Triple M 2000s - Sydney -->
+
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/22000s_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/mmm2000s.png">
+</a></p>
+
+Triple M 2000s - Sydney 128Kbps
+
+<audio id="22000s" controls></audio>
+
 <!------------------------------------------->
 <!--------SCRIPTS-------->
 <!------------------------------------------->
@@ -681,6 +691,118 @@ Triple M Tradie Radio - Sydney 128Kbps
     // Stop loading the source when the audio is paused
     audio16.addEventListener('pause', function() {
       hls16.stopLoad(); // Stop loading the source
+    });
+  }
+</script>
+
+<script>
+  var audio17 = document.getElementById('2country');
+  var audioSrc17 = 'https://wz2liw.scahw.com.au/live/2country_128.stream/playlist.m3u8';
+  var hls17 = new Hls();
+
+  if (audio17.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio17.src = audioSrc17; 
+
+  } else {
+
+      hls17.attachMedia(audio17);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio17.addEventListener('play', function() {
+      if (hls17.media && hls17.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls17.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls17.loadSource(audioSrc17); // Provide the path to your .m3u8 file
+        audio17.play();
+      }
+    });
+    // Stop loading the source when the audio is paused
+    audio17.addEventListener('pause', function() {
+      hls17.stopLoad(); // Stop loading the source
+    });
+  }
+</script>
+
+<script>
+  var audio18 = document.getElementById('280s');
+  var audioSrc18 = 'https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8';
+  var hls18 = new Hls();
+
+  if (audio18.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio18.src = audioSrc18; 
+
+  } else {
+
+      hls18.attachMedia(audio18);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio18.addEventListener('play', function() {
+      if (hls18.media && hls18.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls18.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls18.loadSource(audioSrc18); // Provide the path to your .m3u8 file
+        audio18.play();
+      }
+    });
+    // Stop loading the source when the audio is paused
+    audio18.addEventListener('pause', function() {
+      hls18.stopLoad(); // Stop loading the source
+    });
+  }
+</script>
+
+<script>
+  var audio19 = document.getElementById('290s');
+  var audioSrc19 = 'https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8';
+  var hls19 = new Hls();
+
+  if (audio19.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio19.src = audioSrc19; 
+
+  } else {
+
+      hls19.attachMedia(audio19);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio19.addEventListener('play', function() {
+      if (hls19.media && hls19.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls19.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls19.loadSource(audioSrc19); // Provide the path to your .m3u8 file
+        audio19.play();
+      }
+    });
+    // Stop loading the source when the audio is paused
+    audio19.addEventListener('pause', function() {
+      hls19.stopLoad(); // Stop loading the source
+    });
+  }
+</script>
+
+<script>
+  var audio20 = document.getElementById('22000s');
+  var audioSrc20 = 'https://wz2liw.scahw.com.au/live/22000s_128.stream/playlist.m3u8';
+  var hls20 = new Hls();
+
+  if (audio20.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio20.src = audioSrc20; 
+
+  } else {
+
+      hls20.attachMedia(audio20);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio20.addEventListener('play', function() {
+      if (hls20.media && hls20.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls20.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls20.loadSource(audioSrc20); // Provide the path to your .m3u8 file
+        audio20.play();
+      }
+    });
+    // Stop loading the source when the audio is paused
+    audio20.addEventListener('pause', function() {
+      hls20.stopLoad(); // Stop loading the source
     });
   }
 </script>

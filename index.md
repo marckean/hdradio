@@ -145,9 +145,10 @@ Listen live in high quality to the following radio stations in:
 | **Dance Hits** | Dance | [128Kbps](https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8) |
 | Triple M | Rock | [128Kbps](https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8) |
 | Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8) |
-| **Triple M Country** | Country | [128Kbps](https://wz2liw.scahw.com.au/live/2country_128.stream/playlist.m3u8) |
-| **Triple M Tradie Radio** | Modern Rock | [128Kbps](https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8) |
-| **Triple M 80s** | Rock | [128Kbps](https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8) |
+| Triple M Country | Country | [128Kbps](https://wz2liw.scahw.com.au/live/2country_128.stream/playlist.m3u8) |
+| Triple M 80s | Rock | [128Kbps](https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8) |
+| Triple M Tradie Radio | Modern Rock | [128Kbps](https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8) |
+| Triple M 2000s | Rock | [128Kbps](https://wz2liw.scahw.com.au/live/22000s_128.stream/playlist.m3u8) |
 | WSFM | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC) |
 | Smooth 95.3 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC) |
 | Smooth 95.3 | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320_SC) |
