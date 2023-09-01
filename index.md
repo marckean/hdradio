@@ -187,8 +187,12 @@ Listen live in high quality to the following radio stations in Brisbane / Queens
 | Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8) |
 | Triple J | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8) |
 | ABC Classic 1 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038352/classicfmqld/masterhq.m3u8) |
-| 96FM | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM_SC) |
-| Mix 94.5 | CHR | [128Kbps](https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8) |
+| Sea FM | CHR | [128Kbps](https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8) |
+| Hot Tomato | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC) |
+| Hot Tomato | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC) |
+| Hot Tomato GOLD | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTGOLD_SC) |
+| Hot Tomato RIPE | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTRIPE_SC) |
+| River 949 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949_SC) |
 
 ## Perth / Western Australia
 
@@ -196,6 +200,8 @@ Listen live in high quality to the following radio stations in Perth / Western A
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|:------|
+| 96FM | Hot AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM_SC) |
+| Mix 94.5 | CHR | [128Kbps](https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8) |
 | Nova 937 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128_SC) |
 | Nova 937 | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320_SC) |
 | Triple M | Rock | [128Kbps](https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8) |
