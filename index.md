@@ -250,7 +250,6 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Multi-format Audio Player</title>
