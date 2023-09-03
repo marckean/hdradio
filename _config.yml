@@ -20,6 +20,7 @@ author: Marc
 ###############################################
 
 navbar-links:
+  Mobile Player: "MobilePlayer"
   Stations:
     - ABC: "stations/abc"
     - Austereo: "stations/austereo"
