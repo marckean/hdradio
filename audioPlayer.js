@@ -1,25 +1,36 @@
 document.addEventListener("DOMContentLoaded", function() {
-    let audioElement = document.getElementById("myAudio");
+    const audio = document.getElementById('myAudio');
+    const hls = new Hls();
 
-    let links = document.querySelectorAll("#audioMenu a");
-    links.forEach(link => {
-        link.addEventListener("click", function(e) {
-            e.preventDefault();
-            let audioSrc = this.getAttribute("data-audio-src");
-            let audioType = this.getAttribute("data-audio-type");
-
-            if (audioType === 'm3u8' && Hls.isSupported()) {
-                let hls = new Hls();
-                hls.loadSource(audioSrc);
-                hls.attachMedia(audioElement);
-            } else if (audioType === 'mp3') {
-                audioElement.src = audioSrc;
+    document.getElementById('audioMenu').addEventListener('click', function(e) {
+        e.preventDefault();
+        
+        const newAudioSrc = e.target.getAttribute('data-audio-src');
+        const audioType = e.target.getAttribute('data-audio-type');
+        
+        if (newAudioSrc) {
+            if (audioType === 'm3u8') {
+                if (Hls.isSupported()) {
+                    hls.loadSource(newAudioSrc);
+                    hls.attachMedia(audio);
+                    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                        audio.play();
+                    });
+                } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+                    audio.src = newAudioSrc;
+                    audio.addEventListener('loadedmetadata', function() {
+                        audio.play();
+                    });
+                }
+            } else {
+                audio.src = newAudioSrc;
+                audio.type = `audio/${audioType}`;
+                audio.play();
             }
-
-            audioElement.play();
-        });
+        }
     });
 });
+
 
 // document.addEventListener("DOMContentLoaded", function() {
 //     const audioElement = document.getElementById("myAudio");
