@@ -4,33 +4,49 @@ document.addEventListener("DOMContentLoaded", function() {
 
     document.getElementById('audioMenu').addEventListener('click', function(e) {
         e.preventDefault();
-        
-        console.log("Link clicked"); // Debug line
 
-        const newAudioSrc = e.target.getAttribute('data-audio-src');
-        const audioType = e.target.getAttribute('data-audio-type');
+        // Log the actual target element clicked
+        console.log('Element clicked:', e.target);
         
-        console.log("New audio src: ", newAudioSrc); // Debug line
-        console.log("Audio type: ", audioType); // Debug line
+        // Find the nearest parent anchor element
+        let target = e.target;
+        while (target && target.tagName !== 'A') {
+            target = target.parentElement;
+        }
 
-        if (newAudioSrc) {
-            if (audioType === 'm3u8') {
-                if (Hls.isSupported()) {
-                    hls.loadSource(newAudioSrc);
-                    hls.attachMedia(audio);
-                    hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                        audio.play();
-                    });
-                } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+        // Log the resulting anchor element
+        console.log('Nearest parent anchor element:', target);
+        
+        if (target) {
+            const newAudioSrc = target.getAttribute('data-audio-src');
+            const audioType = target.getAttribute('data-audio-type');
+
+            // Log the audio source and type
+            console.log('New audio source:', newAudioSrc);
+            console.log('New audio type:', audioType);
+        
+            if (newAudioSrc) {
+                if (audioType === 'm3u8') {
+                    if (Hls.isSupported()) {
+                        hls.loadSource(newAudioSrc);
+                        hls.attachMedia(audio);
+                        hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                            audio.play();
+                            console.log('Playing m3u8 audio');
+                        });
+                    } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+                        audio.src = newAudioSrc;
+                        audio.addEventListener('loadedmetadata', function() {
+                            audio.play();
+                            console.log('Playing m3u8 audio through native support');
+                        });
+                    }
+                } else {
                     audio.src = newAudioSrc;
-                    audio.addEventListener('loadedmetadata', function() {
-                        audio.play();
-                    });
+                    audio.type = `audio/${audioType}`;
+                    audio.play();
+                    console.log(`Playing ${audioType} audio`);
                 }
-            } else {
-                audio.src = newAudioSrc;
-                audio.type = `audio/${audioType}`;
-                audio.play();
             }
         }
     });
