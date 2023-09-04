@@ -1,4 +1,4 @@
-Station Name,State,URL,Logo,Aidio Type
+Station Name,State,URL,Logo,Audio Type
 Kiis FM,NSW,https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC,/assets/img/stations/KIISNetwork.png,mp3
 Triple M Classic Rock,National,https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8,/assets/img/stations/triplemclassicrock.png,m3u8
 Nova 969,NSW,https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC,/assets/img/stations/Brand+Tile-N969.png,mp3

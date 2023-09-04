@@ -4,37 +4,25 @@ title: Mobile Player
 subtitle: High Quality Radio, Listen Live Online
 ---
 
-<html lang="en">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Add viewport for mobile responsiveness -->
-    <title>Multi-format Audio Player</title>
-    <style>
-        /* Style for the grid layout */
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr); /* 3 columns */
-            gap: 10px;
-        }
-        /* Style for each grid item */
-        .grid-item {
-            padding: 10px;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
+{% assign stations = site.data.StreamDatabase %}
+<div id="audioMenu" class="grid-container">
 
-    <audio id="myAudio" controls>
-        Your browser does not support the audio element.
-    </audio>
+{% for station in stations %}
+  {% if forloop.index0 | modulo: 3 == 0 %}
+  <!-- Beginning of a new row -->
+  | 
+  {% endif %}
 
-    <div id="audioMenu" class="grid-container">
-        <!-- Logos will be dynamically added here -->
-    </div>
+  [![{{ station.Station Name }}]({{ station.Logo }})]({{ station.URL }}) |
+  
+  {% if forloop.index0 | modulo: 3 == 2 or forloop.last %}
+  <!-- End of the row -->
+  |
+  {% endif %}
 
-    <!-- Add hls.min.js library -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script src="./audioPlayer.js"></script>
+{% endfor %}
 
-</body>
-</html>
+</div>
+
+{% include audio_player_script.html %}
+
