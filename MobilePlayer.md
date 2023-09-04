@@ -53,7 +53,8 @@ subtitle: High Quality Radio, Listen Live Online
         <a href="#" data-audio-src="https://wz3liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/4mmm-primary.png"></a> <br>
 
         <a href="#" data-audio-src="https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/seasfm_150x100.png"></a>
-        <a href="#" data-audio-src="https://wz4liw.scahw.com.au/live/4gld_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplem925_150x100.png"></a> <br><br>
+        <a href="#" data-audio-src="https://wz4liw.scahw.com.au/live/4gld_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplem925_150x100.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTGOLD_SC" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/HotTomatoGold_150x100.png"></a> <br><br>
 
         National (NSW timezone) <br><br>
 
