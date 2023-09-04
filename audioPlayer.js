@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const hls = new Hls();
     const currentStationElement = document.getElementById('currentStation');  // New line
     let currentStationIndex = null;
+    const stations = Array.from(document.querySelectorAll('[data-audio-src]'));
 
     document.getElementById('audioMenu').addEventListener('click', function(e) {
         e.preventDefault();
