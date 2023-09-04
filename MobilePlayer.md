@@ -17,9 +17,12 @@ subtitle: High Quality Radio, Listen Live Online
     </audio>
 
     <div id="audioMenu">
+        <a href="#" data-audio-src="https://listen.ejukebox.net/one" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"></a>
+        <a href="#" data-audio-src="https://listen.ejukebox.net/two" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/iHeart_radio_eJukeboxSmooth.jpg"></a> <br>
+  
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/kiis1065.png"></a>
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/Brand+Tile-N969.png"></a>
-        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/2day.png"></a> <br>
+        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/2day.png"></a> <br>
 
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplemclassicrock.png"></a>
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/mmm-80s.png"></a>
@@ -32,6 +35,12 @@ subtitle: High Quality Radio, Listen Live Online
 
 </body>
 </html>
+
+
+
+### Speed
+
+Some stations play and load faster than others, this is not this website which is causing this, as it's the individual ratio station which is causing this. It's the way that they have configured (or not configured) their stream server.
 
 
 ### Commercials
