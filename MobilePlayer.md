@@ -16,8 +16,8 @@ subtitle: High Quality Radio, Listen Live Online
     </audio>
 
     <div id="audioMenu">
-        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" data-audio-type="mp3">Kiis FM - Sydney</a> |
-        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" data-audio-type="m3u8">Triple M Classic Rock</a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/kiis1065.png"></a> <br>
+        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/triplemclassicrock.png"></a>
     </div>
 
     <!-- Add hls.min.js library -->
