@@ -64,7 +64,7 @@ subtitle: High Quality Radio, Listen Live Online
 
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplemclassicrock.png"></a>
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/mmm-80s.png"></a>
-        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/easy-80s.png"></a> <br>
+        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/TRADIE_RADIO_SHOW_IMAGE_3000x3000.jpg"></a> <br>
 
         <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplej.png"></a>
         <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/abcclassic1.png"></a>
@@ -76,10 +76,11 @@ subtitle: High Quality Radio, Listen Live Online
 
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smooth_80s_button.png"></a>
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smooth_vintage_button.png"></a>
-        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smooth_relax_button.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smooth_relax_button.png"></a> <br>
 
-
-
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT9_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/WS-The80s_150x100.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/GOLD1043-The80s_150x100.png"></a>
+        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/easy-80s.png"></a> 
 
     </div>
 
