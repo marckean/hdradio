@@ -4,25 +4,29 @@ title: Mobile Player
 subtitle: High Quality Radio, Listen Live Online
 ---
 
-{% assign stations = site.data.StreamDatabase %}
-<div id="audioMenu" class="grid-container">
 
-{% for station in stations %}
-  {% if forloop.index0 | modulo: 3 == 0 %}
-  <!-- Beginning of a new row -->
-  | 
-  {% endif %}
+<html lang="en">
+<head>
+    <title>Multi-format Audio Player</title>
+</head>
+<body>
 
-  [![{{ station.Station Name }}]({{ station.Logo }})]({{ station.URL }}) |
-  
-  {% if forloop.index0 | modulo: 3 == 2 or forloop.last %}
-  <!-- End of the row -->
-  |
-  {% endif %}
+    <audio id="myAudio" controls>
+        Your browser does not support the audio element.
+    </audio>
 
-{% endfor %}
+    <div id="audioMenu">
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC" data-audio-type="mp3">Kiis FM - Sydney</a> |
+        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" data-audio-type="m3u8">Triple M Classic Rock</a>
+    </div>
 
-</div>
+    <!-- Add hls.min.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script src="./audioPlayer.js"></script>
 
-{% include audio_player_script.html %}
+</body>
+</html>
+
+
+
 
