@@ -48,13 +48,17 @@ subtitle: High Quality Radio, Listen Live Online
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/Brand+Tile-N1069.png"></a>
         <a href="#" data-audio-src="https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/b105.png"></a> <br>
 
-        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/Hot-Tomato-Logo-150x100.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/973FM-The80s_150x100.png"></a>
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smoothbrisbane.png"></a>
         <a href="#" data-audio-src="https://wz3liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/4mmm-primary.png"></a> <br>
 
         <a href="#" data-audio-src="https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/seasfm_150x100.png"></a>
         <a href="#" data-audio-src="https://wz4liw.scahw.com.au/live/4gld_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplem925_150x100.png"></a>
-        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTGOLD_SC" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/HotTomatoGold_150x100.png"></a> <br><br>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/Hot-Tomato-Logo-150x100.png"></a> <br>
+
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTGOLD_SC" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/HotTomatoGold_150x100.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTRIPE_SC" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/HotTomatoRipe_150x100.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949_SC" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/river-949-logo-300x150-1.png"></a> <br><br>
 
         National (NSW timezone) <br><br>
 
