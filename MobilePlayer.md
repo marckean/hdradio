@@ -12,19 +12,23 @@ subtitle: High Quality Radio, Listen Live Online
 </head>
 <body>
 
-    <audio id="myAudio" controls>
-        Your browser does not support the audio element.
-    </audio>
+        <div class="custom-audio-player">
+        <!-- Hidden actual audio element -->
+        <audio id="myAudio">
+            Your browser does not support the audio element.
+        </audio>
+    
+        <!-- Custom Controls -->
+        <button id="prevTrack">&#9664; Prev</button>
+        <button id="playPause">Play</button>
+        <button id="nextTrack">Next &#9654;</button>
+      </div>
+    
+          <div id="currentStation">
+        <!-- Content will be updated dynamically -->
+          </div>
 
-    <!-- Add Previous and Next buttons here -->
-    <button id="prevTrack">Previous</button>
-    <button id="nextTrack">Next</button>
-
-    <div id="currentStation">
-    <!-- Content will be updated dynamically -->
-    </div>
-
-    <div id="audioMenu">
+        <div id="audioMenu">
         <br><b>eJukebox (Online only, commercial free)</b> <br><br>
         
         <a href="#" data-audio-src="https://listen.ejukebox.net/one" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/eJukebox%20Hits_72dpi.png"></a>
