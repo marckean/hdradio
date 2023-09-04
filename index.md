@@ -40,7 +40,7 @@ Within their illustrious repertoire, two extraordinary eJukebox streams reign su
 
 | Direct Stream | iHeart Radio Stream |
 |:-------------|:---------------|
-| <a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"></a> |
+| <a href="https://listen.ejukebox.net/one"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/stations/eJukebox%20Hits_72dpi.png"></a> | <a href="https://www.iheart.com/live/ejukebox-hits-9243"><img style="vertical-align:left;margin:0px 0px 0px 0px" height="140" src="/assets/img/iHeart_radio_eJukeboxHits.jpg"></a> |
 
 <!--Simplest syntax-->
 <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls>
