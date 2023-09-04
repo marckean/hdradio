@@ -5,9 +5,14 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('audioMenu').addEventListener('click', function(e) {
         e.preventDefault();
         
+        console.log("Link clicked"); // Debug line
+
         const newAudioSrc = e.target.getAttribute('data-audio-src');
         const audioType = e.target.getAttribute('data-audio-type');
         
+        console.log("New audio src: ", newAudioSrc); // Debug line
+        console.log("Audio type: ", audioType); // Debug line
+
         if (newAudioSrc) {
             if (audioType === 'm3u8') {
                 if (Hls.isSupported()) {
@@ -30,4 +35,3 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 });
-
