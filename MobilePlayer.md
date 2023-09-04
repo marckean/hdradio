@@ -32,7 +32,9 @@ subtitle: High Quality Radio, Listen Live Online
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/mmm-80s.png"></a>
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/easy-80s.png"></a> <br>
 
-        <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8"" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplej.png"></a> <br>
+        <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8"" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplej.png"></a>
+        <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8"" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/abcclassic1.png"></a>
+        <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8"" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/abcclassic2.png"></a>
     </div>
 
     <!-- Add hls.min.js library -->
