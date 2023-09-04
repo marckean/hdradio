@@ -16,6 +16,10 @@ subtitle: High Quality Radio, Listen Live Online
         Your browser does not support the audio element.
     </audio>
 
+    <div id="currentStation">
+    <!-- Content will be updated dynamically -->
+    </div>
+
     <div id="audioMenu">
         <br><br> eJukebox (Online only, commercial free) <br><br>
         

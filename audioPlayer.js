@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const audio = document.getElementById('myAudio');
     const hls = new Hls();
+    const currentStationElement = document.getElementById('currentStation');  // New line
 
     document.getElementById('audioMenu').addEventListener('click', function(e) {
         e.preventDefault();
@@ -21,11 +22,17 @@ document.addEventListener("DOMContentLoaded", function() {
             const newAudioSrc = target.getAttribute('data-audio-src');
             const audioType = target.getAttribute('data-audio-type');
 
+            // Get the image source URL to display as current station (New line)
+            const currentStationImage = target.querySelector('img').src;
+
             // Log the audio source and type
             console.log('New audio source:', newAudioSrc);
             console.log('New audio type:', audioType);
         
             if (newAudioSrc) {
+                // Update current station display (New line)
+                currentStationElement.innerHTML = `<img src="${currentStationImage}" width="100" style="vertical-align:middle;margin:0px 0px 0px 0px" />`;
+
                 if (audioType === 'm3u8') {
                     if (Hls.isSupported()) {
                         hls.loadSource(newAudioSrc);
