@@ -90,9 +90,10 @@ subtitle: High Quality Radio, Listen Live Online
 
     <!-- Add hls.min.js library -->
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script src="../audioPlayer.js"></script>
+    <script src="../audioPlayer.js">
     <button id="prevTrack">Previous</button>
     <button id="nextTrack">Next</button>
+    </script>
 
 
 </body>
