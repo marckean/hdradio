@@ -16,6 +16,10 @@ subtitle: High Quality Radio, Listen Live Online
         Your browser does not support the audio element.
     </audio>
 
+    <!-- Add Previous and Next buttons here -->
+    <button id="prevTrack">Previous</button>
+    <button id="nextTrack">Next</button>
+
     <div id="currentStation">
     <!-- Content will be updated dynamically -->
     </div>
@@ -90,10 +94,7 @@ subtitle: High Quality Radio, Listen Live Online
 
     <!-- Add hls.min.js library -->
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script src="../audioPlayer.js">
-    <button id="prevTrack">Previous</button>
-    <button id="nextTrack">Next</button>
-    </script>
+    <script src="../audioPlayer.js"></script>
 
 
 </body>
