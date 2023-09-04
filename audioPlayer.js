@@ -35,12 +35,18 @@ document.addEventListener("DOMContentLoaded", function() {
 
     document.getElementById('audioMenu').addEventListener('click', function(e) {
         e.preventDefault();
+
+        // Log the actual target element clicked
+         console.log('Element clicked:', e.target);
         
         // Find the nearest parent anchor element
         let target = e.target;
         while (target && target.tagName !== 'A') {
             target = target.parentElement;
         }
+
+        // Log the resulting anchor element
+         console.log('Nearest parent anchor element:', target);
 
         if (target) {
             const newAudioSrc = target.getAttribute('data-audio-src');
@@ -49,6 +55,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
             // Get the image source URL to display as current station
             const currentStationImage = target.querySelector('img').src;
+
+            Log the audio source and type
+             console.log('New audio source:', newAudioSrc);
+             console.log('New audio type:', audioType);
 
             if (newAudioSrc) {
                 // Update current station display
@@ -61,12 +71,14 @@ document.addEventListener("DOMContentLoaded", function() {
                         hls.on(Hls.Events.MANIFEST_PARSED, function() {
                             audio.play();
                             playPauseButton.textContent = 'Pause'; // Update the Play/Pause button
+                            console.log('Playing m3u8 audio');
                         });
                     } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
                         audio.src = newAudioSrc;
                         audio.addEventListener('loadedmetadata', function() {
                             audio.play();
                             playPauseButton.textContent = 'Pause'; // Update the Play/Pause button
+                            console.log('Playing m3u8 audio through native support');
                         });
                     }
                 } else {
@@ -74,6 +86,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     audio.type = `audio/${audioType}`;
                     audio.play();
                     playPauseButton.textContent = 'Pause'; // Update the Play/Pause button
+                    console.log(`Playing ${audioType} audio`);
                 }
             }
         }
