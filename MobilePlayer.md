@@ -42,11 +42,25 @@ subtitle: High Quality Radio, Listen Live Online
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smooth915melbourne.png"></a>
         <a href="#" data-audio-src="https://wz3liw.scahw.com.au/live/3mmm_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/3mmm-primary.png"></a> <br><br>
 
+        Queensland <br><br>
+  
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/kiis973.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/Brand+Tile-N1069.png"></a>
+        <a href="#" data-audio-src="https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/b105.png"></a> <br>
+
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/Hot-Tomato-Logo-150x100.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smoothbrisbane.png"></a>
+        <a href="#" data-audio-src="https://wz3liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/4mmm-primary.png"></a> <br><br>
+
         National (NSW timezone) <br><br>
 
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplemclassicrock.png"></a>
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/mmm-80s.png"></a>
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/easy-80s.png"></a> <br>
+
+        <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplej.png"></a>
+        <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/abcclassic1.png"></a>
+        <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/abcclassic2.png"></a> <br>
 
         <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplej.png"></a>
         <a href="#" data-audio-src="https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/abcclassic1.png"></a>
