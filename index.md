@@ -142,7 +142,7 @@ Listen live in high quality to the following radio stations in:
 | 2Day FM | CHR | [128Kbps](https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8) |
 | Nova 969 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC) |
 | Nova 969 | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320_SC) |
-| Cada | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA_SC) |
+| Cada | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA_SC) |
 | Dance Hits | Dance | [128Kbps](https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8) |
 | Triple M | Rock | [128Kbps](https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8) |
 | Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8) |
