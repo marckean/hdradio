@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const audio = document.getElementById('myAudio');
     const hls = new Hls();
     const currentStationElement = document.getElementById('currentStation');  // New line
+    let currentStationIndex = null;
 
     document.getElementById('audioMenu').addEventListener('click', function(e) {
         e.preventDefault();
@@ -21,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (target) {
             const newAudioSrc = target.getAttribute('data-audio-src');
             const audioType = target.getAttribute('data-audio-type');
+            currentStationIndex = stations.indexOf(target);
 
             // Get the image source URL to display as current station (New line)
             const currentStationImage = target.querySelector('img').src;
@@ -55,6 +57,25 @@ document.addEventListener("DOMContentLoaded", function() {
                     console.log(`Playing ${audioType} audio`);
                 }
             }
+        }
+    });
+    document.getElementById('nextTrack').addEventListener('click', function() {
+        if (currentStationIndex !== null && currentStationIndex < stations.length - 1) {
+            // Trigger a click event on the next station
+            stations[currentStationIndex + 1].click();
+        }
+    });
+
+    document.getElementById('audioMenu').addEventListener('click', function(e) {
+        // ... existing code ...
+
+        if (target) {
+            // ... existing code ...
+
+            // Update the current station index
+            currentStationIndex = stations.indexOf(target);
+
+            // ... existing code ...
         }
     });
 });
