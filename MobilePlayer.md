@@ -32,6 +32,16 @@ subtitle: High Quality Radio, Listen Live Online
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smooth953sydney.png"></a>
         <a href="#" data-audio-src="https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/2mmm.png"></a> <br><br>
 
+        Victoria <br><br>
+  
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/kiis1011.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/Brand+Tile-N100.png"></a>
+        <a href="#" data-audio-src="https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/fox.png"></a> <br>
+
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/gold1043.png"></a>
+        <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smooth915melbourne.png"></a>
+        <a href="#" data-audio-src="https://wz3liw.scahw.com.au/live/3mmm_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/3mmm-primary.png"></a> <br><br>
+
         National (NSW timezone) <br><br>
 
         <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/triplemclassicrock.png"></a>
