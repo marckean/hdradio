@@ -21,7 +21,7 @@ subtitle: High Quality Radio, Listen Live Online
     </div>
 
     <div id="audioMenu">
-        <br><br> eJukebox (Online only, commercial free) <br><br>
+        <br>eJukebox (Online only, commercial free) <br><br>
         
         <a href="#" data-audio-src="https://listen.ejukebox.net/one" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/eJukebox%20Hits_72dpi.png"></a>
         <a href="#" data-audio-src="https://listen.ejukebox.net/two" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/eJukebox%20Smooth_72dpi.png"></a> <br><br>
