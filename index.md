@@ -190,7 +190,7 @@ Listen live in high quality to the following radio stations in Brisbane / Queens
 | ABC Classic 1 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038352/classicfmqld/masterhq.m3u8) |
 | Sea FM | CHR | [128Kbps](https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8) |
 | Hot Tomato | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC) |
-| Hot Tomato | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC) |
+| Triple M 92.5 | Rock | [128Kbps](https://wz4liw.scahw.com.au/live/4gld_128.stream/playlist.m3u8) |
 | Hot Tomato GOLD | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTGOLD_SC) |
 | Hot Tomato RIPE | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTRIPE_SC) |
 | River 949 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949_SC) |
