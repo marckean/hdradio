@@ -39,6 +39,16 @@ B105 - Brisbane 128Kbps
 
 <audio id="4bbb" controls></audio>
 
+<!-- Sea FM - Gold Coast -->
+
+<p align="left"><a href="https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/seasfm_150x100.png">
+</a></p>
+
+Sea FM - Gold Coast 128Kbps
+
+<audio id="4sea" controls></audio>
+
 <!-- Mix 94.5 - Perth -->
 
 <p align="left"><a href="https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8">
@@ -841,6 +851,34 @@ Triple M 2000s - Sydney 128Kbps
     // Stop loading the source when the audio is paused
     audio21.addEventListener('pause', function() {
       hls21.stopLoad(); // Stop loading the source
+    });
+  }
+</script>
+
+<script>
+  var audio22 = document.getElementById('4sea');
+  var audioSrc22 = 'https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8';
+  var hls22 = new Hls();
+
+  if (audio22.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio22.src = audioSrc22; 
+
+  } else {
+
+      hls22.attachMedia(audio22);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio22.addEventListener('play', function() {
+      if (hls22.media && hls22.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls22.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls22.loadSource(audioSrc22); // Provide the path to your .m3u8 file
+        audio22.play();
+      }
+    });
+    // Stop loading the source when the audio is paused
+    audio22.addEventListener('pause', function() {
+      hls22.stopLoad(); // Stop loading the source
     });
   }
 </script>
