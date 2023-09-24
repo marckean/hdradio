@@ -13,42 +13,6 @@ http://195.24.89.82/VH1_SD/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zAFt893.png" tvg-name="GO-RTV" group-title="Music",GO-RTV
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w54eVy.png" tvg-name="Video Rola" group-title="Music",Video Rola
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pxBYNNS/channels4-profile-1.jpg" tvg-name="NevoMusic" group-title="Music",NevoMusic
-https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s2KcWnr.png" tvg-name="Eurolatina TV" group-title="Music, Culture",Eurolatina TV
-https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CM2Z9lg.png" tvg-name="PowerTurk En Iyiler" group-title="Music",PowerTurk En Iyiler
-https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eiAeFmC.png" tvg-name="Senal Urbana" group-title="Music",Senal Urbana
-https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" tvg-name="Vevo '70s" group-title="Music",Vevo '70s
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N6tKUZv.png" tvg-name="Sana Plus" group-title="Music",Sana Plus
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png" tvg-name="EnerGeek Radio" group-title="Music",EnerGeek Radio
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9oEaZ9Y.png" tvg-name="IFM TV" group-title="Music",IFM TV
-https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" tvg-name="M6 Music" group-title="Music",M6 Music
-http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yO18FLo.png" tvg-name="Isai Aruvi" group-title="Music",Isai Aruvi
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nrWNyLc.jpg" tvg-name="Ocko Gold" group-title="Music",Ocko Gold
-https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7HUU7V.png" tvg-name="RU.TV" group-title="Music",RU.TV
-https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" tvg-name="Cadena Elite" group-title="Music",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dfnl0nf.png" tvg-name="Pop Musik" group-title="Music",Pop Musik
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1iOAl2j.png" tvg-name="TMA" group-title="Music",TMA
-http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik OKK Serbia" group-title="Music",Muzzik OKK Serbia
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJf2ajf.png" tvg-name="Trace Urban" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbrDIbZ.png" tvg-name="Atomic Academy TV" group-title="Music",Atomic Academy TV
