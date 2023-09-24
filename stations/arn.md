@@ -48,6 +48,18 @@ Kiis 973 - Brisbane 128Kbps
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
+<!--Gold Coast-->
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/Hot-Tomato-Logo-150x100.png">
+</a></p>
+
+Hot Tomato - Gold Coast 128Kbps
+
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
 <!--Perth-->
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM_SC">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/96fm.png">
