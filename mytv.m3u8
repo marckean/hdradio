@@ -16,7 +16,7 @@ http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJf2ajf.png" tvg-name="Trace Urban" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-nsw" tvg-id="mjh-abc-nsw" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Sydney" , ABC TV
+#EXTINF:-1 tvg-id="mjh-abc-nsw" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Sydney" , ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-id="ADHTV.au",ADH TV (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
@@ -24,7 +24,7 @@ https://ythls.onrender.com/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 #EXTINF:-1 tvg-id="Channel9.au",Channel 9 (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-#EXTINF:-1 channel-id="mjh-10-nsw" tvg-id="mjh-10-nsw" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" group-title="Sydney" , 10
+#EXTINF:-1 tvg-id="mjh-10-nsw" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" group-title="Sydney" , 10
 https://i.mjh.nz/10-nsw.m3u8
 
 #EXTINF:-1 tvg-id="7two.au",7two [Geo-blocked]
