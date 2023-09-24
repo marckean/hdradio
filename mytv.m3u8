@@ -27,12 +27,21 @@ https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
 #EXTINF:-1 channel-id="mjh-10-nsw" tvg-id="mjh-10-nsw" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Sydney" , 10
 https://i.mjh.nz/10-nsw.m3u8
 
+#EXTINF:-1 tvg-id="7two.au",7two [Geo-blocked]
+https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
+#EXTINF:-1 tvg-id="7mate.au",7mate [Geo-blocked]
+https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
+#EXTINF:-1 tvg-id="7flix.au",7flix [Geo-blocked]
+https://npc.cdn.7livecloud.io/hls/live/MEL6/master.m3u8
+
 #EXTINF:-1 tvg-id="9Gem.au",9Gem (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 #EXTINF:-1 tvg-id="9Go.au",9Go! (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="9Life.au",9Life (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 tvg-id="9Rush.au",9Rush (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 
 #EXTINF:-1 tvg-id="GuidanceTVAustralia.au",Guidance TV Australia (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UC81VkX0QeICZw7o2jMwGThg.m3u8
@@ -40,11 +49,5 @@ https://ythls.onrender.com/channel/UC81VkX0QeICZw7o2jMwGThg.m3u8
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelAustralia.au",Hope Channel Australia (1080p)
 https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
-#EXTINF:-1 tvg-id="9Rush.au",9Rush (720p) [Geo-blocked]
-https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 tvg-id="7two.au",7two [Geo-blocked]
-https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
-#EXTINF:-1 tvg-id="7mate.au",7mate [Geo-blocked]
-https://npc.cdn.7livecloud.io/hls/live/MEL3/master.m3u8
-#EXTINF:-1 tvg-id="7flix.au",7flix [Geo-blocked]
-https://npc.cdn.7livecloud.io/hls/live/MEL6/master.m3u8
+
+
