@@ -137,7 +137,7 @@ Listen live in high quality to the following radio stations in:
 - Australian Capital Territory:
 
 | Station | Format | Stream URL |
-|:-------------|:------------------|:------|:------|
+|:-------------|:------------------|:------|
 | Kiis 1065 | CHR | [128Kbps][Kiis 1065 NSW 128Kbps] |
 | 2Day FM | CHR | [128Kbps][2Day FM NSW 128Kbps] |
 | Nova 969 | CHR | [128Kbps][Nova 969 NSW 128Kbps] |
@@ -181,7 +181,7 @@ Listen live in high quality to the following radio stations in:
 Listen live in high quality to the following radio stations in Brisbane / Queensland:
 
 | Station | Format | Stream URL |
-|:-------------|:------------------|:------|:------|
+|:-------------|:------------------|:------|
 | Kiis 973 | CHR | [128Kbps][Kiis 973 QLD 128Kbps] |
 | B105 | CHR | [128Kbps][B105 QLD 128Kbps] |
 | Nova 1069 | CHR | [128Kbps][Nova 1069 QLD 128Kbps] |
@@ -202,7 +202,7 @@ Listen live in high quality to the following radio stations in Brisbane / Queens
 Listen live in high quality to the following radio stations in Perth / Western Australia:
 
 | Station | Format | Stream URL |
-|:-------------|:------------------|:------|:------|
+|:-------------|:------------------|:------|
 | 96FM | Hot AC | [128Kbps][96FM WA 128Kbps] |
 | Mix 94.5 | CHR | [128Kbps][Mix 94.5 WA 128Kbps] |
 | Nova 937 | CHR | [128Kbps][Nova 937 WA 128Kbps] |
@@ -217,7 +217,7 @@ Listen live in high quality to the following radio stations in Perth / Western A
 Listen live in high quality to the following radio stations in Adelaide / South Australia:
 
 | Station | Format | Stream URL |
-|:-------------|:------------------|:------|:------|
+|:-------------|:------------------|:------|
 | Mix 1023 | CHR | [128Kbps][Mix 1023 SA 128Kbps] |
 | SAFM | CHR | [128Kbps][SAFM SA 128Kbps] |
 | Nova 919 | CHR | [128Kbps][Nova 919 SA 128Kbps] |
@@ -233,19 +233,18 @@ Listen live in high quality to the following radio stations in Adelaide / South 
 Listen live in high quality to the following radio stations in Darwin / Northern Territory:
 
 | Station | Format | Stream URL |
-|:-------------|:------------------|:------|:------|
+|:-------------|:------------------|:------|
 | Hot 100 | CHR | [128Kbps][Hot 100 NT 128Kbps] |
 | Mix 104.9 | AC | [128Kbps][Mix 104.9 NT 128Kbps] |
 | Triple J | Alternative | [128Kbps][Triple J NT 128Kbps] |
 | ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 NT 128Kbps] |
-
 
 ## Hobart / Tasmania
 
 Listen live in high quality to the following radio stations in Darwin / Northern Territory:
 
 | Station | Format | Stream URL |
-|:-------------|:------------------|:------|:------|
+|:-------------|:------------------|:------|
 | Hot 100 | CHR | [128Kbps][Hot 100 TAS 128Kbps] |
 | Hit 100.9 | AC | [128Kbps][Hit 100.9 TAS 128Kbps] |
 
