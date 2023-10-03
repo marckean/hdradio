@@ -138,41 +138,43 @@ Listen live in high quality to the following radio stations in:
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|:------|
-| Kiis 1065 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC) |
-| 2Day FM | CHR | [128Kbps](https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8) |
-| Nova 969 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC) |
-| Nova 969 | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320_SC) |
-| Cada | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA_SC) |
-| Dance Hits | Dance | [128Kbps](https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8) |
-| Triple M | Rock | [128Kbps](https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8) |
-| Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8) |
-| Triple M Country | Country | [128Kbps](https://wz2liw.scahw.com.au/live/2country_128.stream/playlist.m3u8) |
-| Triple M 80s | Rock | [128Kbps](https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8) |
-| Triple M Tradie Radio | Modern Rock | [128Kbps](https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8) |
-| Triple M 2000s | Rock | [128Kbps](https://wz2liw.scahw.com.au/live/22000s_128.stream/playlist.m3u8) |
-| WSFM | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC) |
-| Smooth 95.3 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC) |
-| Smooth 95.3 | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320_SC) |
-| Easy 80s Hits | AC | [128Kbps](https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8) |
-| Smooth 80s | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC128_SC) |
-| Smooth 80s | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC320_SC) |
-| Smooth Vintage | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128_SC) |
-| Smooth Vintage | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC320_SC) |
-| Smooth Relax | Easy Listening | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128_SC) |
-| Smooth Relax | Easy Listening | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320_SC) |
-| Triple J | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8) |
-| Double J | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/masterhq.m3u8) |
-| ABC Classic 1 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8) |
-| ABC Classic 2 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8) |
-| Kiis 1011 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC) |
-| Fox FM | CHR | [128Kbps](https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8) |
-| Nova 100 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC) |
-| Nova 100 | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320_SC) |
-| Triple M | Rock | [128Kbps](https://wz3liw.scahw.com.au/live/3mmm_128.stream/playlist.m3u8) |
-| Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8) |
-| Gold 1043 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043_SC) |
-| Smooth 91.5 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC) |
-| Smooth 91.5 | AC | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320_SC) |
+| Kiis 1065 | CHR | [128Kbps][Kiis 1065 NSW 128Kbps] |
+| 2Day FM | CHR | [128Kbps][2Day FM NSW 128Kbps] |
+| Nova 969 | CHR | [128Kbps][Nova 969 NSW 128Kbps] |
+| Nova 969 | CHR | [320Kbps][Nova 969 NSW 320Kbps] |
+| Cada | CHR | [128Kbps][Cada NSW 128Kbps] |
+| Dance Hits | Dance | [128Kbps][Dance Hits NSW 128Kbps] |
+| Triple M | Rock | [128Kbps][Triple M NSW 128Kbps] |
+| Triple M Classic Rock | Classic Rock | [128Kbps][Triple M Classic Rock NSW 128Kbps] |
+| Triple M Country | Country | [128Kbps][Triple M Country NSW 128Kbps] |
+| Triple M 80s | Rock | [128Kbps][Triple M 80s NSW 128Kbps] |
+| Triple M Tradie Radio | Modern Rock | [128Kbps][Triple M Tradie Radio NSW 128Kbps] |
+| Triple M 2000s | Rock | [128Kbps][Triple M 2000s NSW 128Kbps] |
+| WSFM | AC | [128Kbps][WSFM NSW 128Kbps] |
+| WSFM 80s | AC | [128Kbps][WSFM 80s NSW 128Kbps] |
+| Smooth 95.3 | AC | [128Kbps][Smooth 95.3 NSW 128Kbps] |
+| Smooth 95.3 | AC | [320Kbps][Smooth 95.3 NSW 320Kbps] |
+| Easy 80s Hits | AC | [128Kbps][Easy 80s Hits NSW 128Kbps] |
+| Smooth 80s | AC | [128Kbps][Smooth 80s NSW 128Kbps] |
+| Smooth 80s | AC | [320Kbps][Smooth 80s NSW 320Kbps] |
+| Smooth Vintage | AC | [128Kbps][Smooth Vintage NSW 128Kbps] |
+| Smooth Vintage | AC | [320Kbps][Smooth Vintage NSW 320Kbps] |
+| Smooth Relax | Easy Listening | [128Kbps][Smooth Relax NSW 128Kbps] |
+| Smooth Relax | Easy Listening | [320Kbps][Smooth Relax NSW 320Kbps] |
+| Triple J | Alternative | [128Kbps][Triple J NSW 128Kbps] |
+| Double J | Alternative | [128Kbps][Double J NSW 128Kbps] |
+| ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 NSW 128Kbps] |
+| ABC Classic 2 | Classical | [128Kbps][ABC Classic 2 NSW 128Kbps] |
+| Kiis 1011 | CHR | [128Kbps][Kiis 1011 VIC 128Kbps] |
+| Fox FM | CHR | [128Kbps][Fox FM VIC 128Kbps] |
+| Nova 100 | CHR | [128Kbps][Nova 100 VIC 128Kbps] |
+| Nova 100 | CHR | [320Kbps][Nova 100 VIC 320Kbps] |
+| Triple M | Rock | [128Kbps][Triple M VIC 128Kbps] |
+| Triple M Classic Rock | Classic Rock | [128Kbps][Triple M Classic Rock VIC 128Kbps] |
+| Gold 1043 | AC | [128Kbps][Gold 1043 VIC 128Kbps] |
+| Gold 80s | AC | [128Kbps][Gold 80s VIC 128Kbps] |
+| Smooth 91.5 | AC | [128Kbps][Smooth 91.5 VIC 128Kbps] |
+| Smooth 91.5 | AC | [320Kbps][Smooth 91.5 VIC 320Kbps] |
 
 ## Brisbane / Queensland
 
@@ -180,20 +182,20 @@ Listen live in high quality to the following radio stations in Brisbane / Queens
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|:------|
-| Kiis 973 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC) |
-| B105 | CHR | [128Kbps](https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8) |
-| Nova 1069 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128_SC) |
-| Nova 1069 | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC320_SC) |
-| Triple M | Rock | [128Kbps](https://wz4liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8) |
-| Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8) |
-| Triple J | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8) |
-| ABC Classic 1 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038352/classicfmqld/masterhq.m3u8) |
-| Sea FM | CHR | [128Kbps](https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8) |
-| Hot Tomato | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC) |
-| Triple M 92.5 | Rock | [128Kbps](https://wz4liw.scahw.com.au/live/4gld_128.stream/playlist.m3u8) |
-| Hot Tomato GOLD | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTGOLD_SC) |
-| Hot Tomato RIPE | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTRIPE_SC) |
-| River 949 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949_SC) |
+| Kiis 973 | CHR | [128Kbps][Kiis 973 QLD 128Kbps] |
+| B105 | CHR | [128Kbps][B105 QLD 128Kbps] |
+| Nova 1069 | CHR | [128Kbps][Nova 1069 QLD 128Kbps] |
+| Nova 1069 | CHR | [320Kbps][Nova 1069 QLD 320Kbps] |
+| Triple M | Rock | [128Kbps][Triple M QLD 128Kbps] |
+| Triple M Classic Rock | Classic Rock | [128Kbps][Triple M Classic Rock QLD 128Kbps] |
+| Triple J | Alternative | [128Kbps][Triple J QLD 128Kbps] |
+| ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 QLD 128Kbps] |
+| Sea FM | CHR | [128Kbps][Sea FM QLD 128Kbps] |
+| Hot Tomato | CHR | [128Kbps][Hot Tomato QLD 128Kbps] |
+| Triple M 92.5 | Rock | [128Kbps][Triple M 92.5 QLD 128Kbps] |
+| Hot Tomato GOLD | AC | [128Kbps][Hot Tomato GOLD QLD 128Kbps] |
+| Hot Tomato RIPE | CHR | [128Kbps][Hot Tomato RIPE QLD 128Kbps] |
+| River 949 | AC | [128Kbps][River 949 QLD 128Kbps] |
 
 ## Perth / Western Australia
 
@@ -201,13 +203,14 @@ Listen live in high quality to the following radio stations in Perth / Western A
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|:------|
-| 96FM | Hot AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM_SC) |
-| Mix 94.5 | CHR | [128Kbps](https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8) |
-| Nova 937 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128_SC) |
-| Nova 937 | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320_SC) |
-| Triple M | Rock | [128Kbps](https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8) |
-| Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8) |
-| Triple J | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/masterhq.m3u8) |
+| 96FM | Hot AC | [128Kbps][96FM WA 128Kbps] |
+| Mix 94.5 | CHR | [128Kbps][Mix 94.5 WA 128Kbps] |
+| Nova 937 | CHR | [128Kbps][Nova 937 WA 128Kbps] |
+| Nova 937 | CHR | [320Kbps][Nova 937 WA 320Kbps] |
+| Triple M | Rock | [128Kbps][Triple M WA 128Kbps] |
+| Triple M Classic Rock | Classic Rock | [128Kbps][Triple M Classic Rock WA 128Kbps] |
+| Triple J | Alternative | [128Kbps][Triple J WA 128Kbps] |
+| ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 WA 128Kbps] |
 
 ## Adelaide / South Australia
 
@@ -215,16 +218,16 @@ Listen live in high quality to the following radio stations in Adelaide / South 
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|:------|
-| ABC Classic 1 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038349/classicfmwa/masterhq.m3u8) |
-| Mix 1023 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023_SC) |
-| SAFM | CHR | [128Kbps](https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8) |
-| Nova 919 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128_SC) |
-| Nova 919 | CHR | [320Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320_SC) |
-| Triple M | Rock | [128Kbps](https://wz5liw.scahw.com.au/live/5mmm_128.stream/playlist.m3u8) |
-| Cruise 1323 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323_SC) |
-| Triple J | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038346/triplejsa/masterhq.m3u8) |
-| ABC Classic 1 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8) |
-| Triple M Classic Rock | Classic Rock | [128Kbps](https://wz2liw.scahw.com.au/live/5classicrock_128.stream/playlist.m3u8) |
+| Mix 1023 | CHR | [128Kbps][Mix 1023 SA 128Kbps] |
+| SAFM | CHR | [128Kbps][SAFM SA 128Kbps] |
+| Nova 919 | CHR | [128Kbps][Nova 919 SA 128Kbps] |
+| Nova 919 | CHR | [320Kbps][Nova 919 SA 320Kbps] |
+| Triple M | Rock | [128Kbps][Triple M SA 128Kbps] |
+| Cruise 1323 | AC | [128Kbps][Cruise 1323 SA 128Kbps] |
+| Triple J | Alternative | [128Kbps][Triple J SA 128Kbps] |
+| ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 SA 128Kbps] |
+| Triple M Classic Rock | Classic Rock | [128Kbps][Triple M Classic Rock SA 128Kbps] |
+
 
 ## Darwin / Northern Territory
 
@@ -232,10 +235,11 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|:------|
-| Hot 100 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100_SC) |
-| Mix 104.9 | AC | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049_SC) |
-| Triple J | Alternative | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038348/triplejnt/masterhq.m3u8) |
-| ABC Classic 1 | Classical | [128Kbps](https://mediaserviceslive.akamaized.net/hls/live/2038323/classicfmnt/masterhq.m3u8) |
+| Hot 100 | CHR | [128Kbps][Hot 100 NT 128Kbps] |
+| Mix 104.9 | AC | [128Kbps][Mix 104.9 NT 128Kbps] |
+| Triple J | Alternative | [128Kbps][Triple J NT 128Kbps] |
+| ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 NT 128Kbps] |
+
 
 ## Hobart / Tasmania
 
@@ -243,6 +247,82 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|:------|
-| Hot 100 | CHR | [128Kbps](https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO_SC) |
-| Hit 100.9 | AC | [128Kbps](https://wz7liw.scahw.com.au/live/7ttt_128.stream/playlist.m3u8) |
+| Hot 100 | CHR | [128Kbps][Hot 100 TAS 128Kbps] |
+| Hit 100.9 | AC | [128Kbps][Hit 100.9 TAS 128Kbps] |
+
+[//]: <> (Tools links)
+[Kiis 1065 NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065_SC
+[2Day FM NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8
+[Nova 969 NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC
+[Nova 969 NSW 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320_SC
+[Cada NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA_SC
+[Dance Hits NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8
+[Triple M NSW 128Kbps]: https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8
+[Triple M Classic Rock NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8
+[Triple M Country NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2country_128.stream/playlist.m3u8
+[Triple M 80s NSW 128Kbps]: https://wz2liw.scahw.com.au/live/280s_128.stream/playlist.m3u8
+[Triple M Tradie Radio NSW 128Kbps]: https://wz2liw.scahw.com.au/live/290s_128.stream/playlist.m3u8
+[Triple M 2000s NSW 128Kbps]: https://wz2liw.scahw.com.au/live/22000s_128.stream/playlist.m3u8
+[WSFM NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC
+[WSFM 80s NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT9_SC
+[Smooth 95.3 NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC
+[Smooth 95.3 NSW 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320_SC
+[Easy 80s Hits NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8
+[Smooth 80s NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC128_SC
+[Smooth 80s NSW 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC320_SC
+[Smooth Vintage NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128_SC
+[Smooth Vintage NSW 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC320_SC
+[Smooth Relax NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128_SC
+[Smooth Relax NSW 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320_SC
+[Triple J NSW 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8
+[Double J NSW 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/masterhq.m3u8
+[ABC Classic 1 NSW 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8
+[ABC Classic 2 NSW 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8
+[Kiis 1011 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC
+[Fox FM VIC 128Kbps]: https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8
+[Nova 100 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC
+[Nova 100 VIC 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320_SC
+[Triple M VIC 128Kbps]: https://wz3liw.scahw.com.au/live/3mmm_128.stream/playlist.m3u8
+[Triple M Classic Rock VIC 128Kbps]: https://wz2liw.scahw.com.au/live/3classicrock_128.stream/playlist.m3u8
+[Gold 1043 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043_SC
+[Gold 80s VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8_SC
+[Smooth 91.5 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC
+[Smooth 91.5 VIC 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320_SC
+[Kiis 973 QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC
+[B105 QLD 128Kbps]: https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8
+[Nova 1069 QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128_SC
+[Nova 1069 QLD 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC320_SC
+[Triple M QLD 128Kbps]: https://wz4liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8
+[Triple M Classic Rock QLD 128Kbps]: https://wz2liw.scahw.com.au/live/4classicrock_128.stream/playlist.m3u8
+[Triple J QLD 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8
+[ABC Classic 1 QLD 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038352/classicfmqld/masterhq.m3u8
+[Sea FM QLD 128Kbps]: https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8
+[Hot Tomato QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC
+[Triple M 92.5 QLD 128Kbps]: https://wz4liw.scahw.com.au/live/4gld_128.stream/playlist.m3u8
+[Hot Tomato GOLD QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTGOLD_SC
+[Hot Tomato RIPE QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTRIPE_SC
+[River 949 QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949_SC
+[96FM WA 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM_SC
+[Mix 94.5 WA 128Kbps]: https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8
+[Nova 937 WA 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128_SC
+[Nova 937 WA 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320_SC
+[Triple M WA 128Kbps]: https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8
+[Triple M Classic Rock WA 128Kbps]: https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8
+[Triple J WA 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/masterhq.m3u8
+[ABC Classic 1 WA 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038349/classicfmwa/masterhq.m3u8
+[Mix 1023 SA 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023_SC
+[SAFM SA 128Kbps]: https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8
+[Nova 919 SA 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128_SC
+[Nova 919 SA 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320_SC
+[Triple M SA 128Kbps]: https://wz5liw.scahw.com.au/live/5mmm_128.stream/playlist.m3u8
+[Cruise 1323 SA 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323_SC
+[Triple J SA 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038346/triplejsa/masterhq.m3u8
+[ABC Classic 1 SA 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8
+[Triple M Classic Rock SA 128Kbps]: https://wz2liw.scahw.com.au/live/5classicrock_128.stream/playlist.m3u8
+[Hot 100 NT 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100_SC
+[Mix 104.9 NT 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049_SC
+[Triple J NT 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038348/triplejnt/masterhq.m3u8
+[ABC Classic 1 NT 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038323/classicfmnt/masterhq.m3u8
+[Hot 100 TAS 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO_SC
+[Hit 100.9 TAS 128Kbps]: https://wz7liw.scahw.com.au/live/7ttt_128.stream/playlist.m3u8
 
