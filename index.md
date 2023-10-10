@@ -247,7 +247,7 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Hot 100 | CHR | [128Kbps][Hot 100 TAS 128Kbps] |
+| Hot 100 | CHR | [128Kbps][HO FM TAS 128Kbps] |
 | Hit 100.9 | AC | [128Kbps][Hit 100.9 TAS 128Kbps] |
 
 [//]: <> (Tools links)
@@ -325,6 +325,6 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [Mix 104.9 NT 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049_SC
 [Triple J NT 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038348/triplejnt/masterhq.m3u8
 [ABC Classic 1 NT 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038323/classicfmnt/masterhq.m3u8
-[Hot 100 TAS 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO_SC
+[HO FM TAS 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO_SC
 [Hit 100.9 TAS 128Kbps]: https://wz7liw.scahw.com.au/live/7ttt_128.stream/playlist.m3u8
 
