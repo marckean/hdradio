@@ -161,6 +161,7 @@ Listen live in high quality to the following radio stations in:
 | Smooth Vintage | AC | [320Kbps][Smooth Vintage NSW 320Kbps] |
 | Smooth Relax | Easy Listening | [128Kbps][Smooth Relax NSW 128Kbps] |
 | Smooth Relax | Easy Listening | [320Kbps][Smooth Relax NSW 320Kbps] |
+| Hard & Heavy | Heavy Metal | [128Kbps][Hard & Heavy NSW 128Kbps] |
 | Triple J | Alternative | [128Kbps][Triple J NSW 128Kbps] |
 | Double J | Alternative | [128Kbps][Double J NSW 128Kbps] |
 | ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 NSW 128Kbps] |
@@ -290,6 +291,7 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [Gold 80s VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8_SC
 [Smooth 91.5 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128_SC
 [Smooth 91.5 VIC 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320_SC
+[Hard & Heavy NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2hardnheavy_128.stream/playlist.m3u8
 [Kiis 973 QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM_SC
 [B105 QLD 128Kbps]: https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8
 [Nova 1069 QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128_SC
