@@ -36,6 +36,9 @@ subtitle: High Quality Radio, Listen Live Online
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/smooth953sydney.png"></a>
         <a href="#" data-audio-src="https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/2mmm.png"></a> <br><br>
 
+        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2xxx_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/hit 0021-newcastle-1069.png"></a>
+        <a href="#" data-audio-src="https://wz2liw.scahw.com.au/live/2kko_128.stream/playlist.m3u8" data-audio-type="m3u8"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/0013-triplem-newcastle-1029e.png"></a> <br><br>
+
         <b>Victoria</b> <br><br>
   
         <a href="#" data-audio-src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC" data-audio-type="mp3"><img style="vertical-align:middle;margin:0px 0px 0px 0px" width="100" src="/assets/img/stations/kiis1011.png"></a>

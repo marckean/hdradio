@@ -165,6 +165,8 @@ Listen live in high quality to the following radio stations in:
 | Double J | Alternative | [128Kbps][Double J NSW 128Kbps] |
 | ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 NSW 128Kbps] |
 | ABC Classic 2 | Classical | [128Kbps][ABC Classic 2 NSW 128Kbps] |
+| Hit 106.9 (NXFM) Newcastle | CHR | [128Kbps][Hit 106.9 NSW 128Kbps] |
+| Triple M (KOFM) Newcastle | Rock | [128Kbps][Triple M 102.9 NSW 128Kbps] |
 | Kiis 1011 | CHR | [128Kbps][Kiis 1011 VIC 128Kbps] |
 | Fox FM | CHR | [128Kbps][Fox FM VIC 128Kbps] |
 | Nova 100 | CHR | [128Kbps][Nova 100 VIC 128Kbps] |
@@ -276,6 +278,8 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [Double J NSW 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/masterhq.m3u8
 [ABC Classic 1 NSW 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8
 [ABC Classic 2 NSW 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8
+[Hit 106.9 NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2xxx_128.stream/playlist.m3u8
+[Triple M 102.9 NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2kko_128.stream/playlist.m3u8
 [Kiis 1011 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC
 [Fox FM VIC 128Kbps]: https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8
 [Nova 100 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC
