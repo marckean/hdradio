@@ -144,6 +144,7 @@ Listen live in high quality to the following radio stations in:
 | Nova 969 | CHR | [320Kbps][Nova 969 NSW 320Kbps] |
 | Cada | CHR | [128Kbps][Cada NSW 128Kbps] |
 | Dance Hits | Dance | [128Kbps][Dance Hits NSW 128Kbps] |
+| iHeart Radio Dance | Dance | [128Kbps][[iHeart Radio Dance 128Kbps]] |
 | Triple M | Rock | [128Kbps][Triple M NSW 128Kbps] |
 | Triple M Classic Rock | Classic Rock | [128Kbps][Triple M Classic Rock NSW 128Kbps] |
 | Triple M Country | Country | [128Kbps][Triple M Country NSW 128Kbps] |
@@ -258,6 +259,7 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [Nova 969 NSW 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320_SC
 [Cada NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA_SC
 [Dance Hits NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8
+[iHeart Radio Dance 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7_SC
 [Triple M NSW 128Kbps]: https://wz3liw.scahw.com.au/live/2mmm_128.stream/playlist.m3u8
 [Triple M Classic Rock NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8
 [Triple M Country NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2country_128.stream/playlist.m3u8
