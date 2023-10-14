@@ -144,7 +144,7 @@ Listen live in high quality to the following radio stations in:
 | Nova 969 | CHR | [320Kbps][Nova 969 NSW 320Kbps] |
 | Cada | CHR | [128Kbps][Cada NSW 128Kbps] |
 | Dance Hits | Dance | [128Kbps][Dance Hits NSW 128Kbps] |
-| iHeart Radio Dance | Dance | [128Kbps][[iHeart Radio Dance 128Kbps]] |
+| iHeart Radio Dance | Dance | [128Kbps][iHeart Radio Dance 128Kbps] |
 | Triple M | Rock | [128Kbps][Triple M NSW 128Kbps] |
 | Triple M Classic Rock | Classic Rock | [128Kbps][Triple M Classic Rock NSW 128Kbps] |
 | Triple M Country | Country | [128Kbps][Triple M Country NSW 128Kbps] |
