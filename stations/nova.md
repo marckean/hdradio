@@ -133,6 +133,28 @@ Nova 919 - Adelaide 320Kbps
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
+<!------------------------------------------->
+<!--------Nova Nation-------->
+<!------------------------------------------->
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC128_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/novanation-trimmed-landscape-colour3.svg">
+</a></p>
+
+Nova Nation 128Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC128_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+
+
+Nova Nation 320Kbps
+
+<!--Simplest syntax-->
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC320_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
 
 
 # Smooth Network

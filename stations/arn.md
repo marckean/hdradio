@@ -104,6 +104,17 @@ Hot 100 - Darwin 128Kbps
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
+<!--National-->
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/iHeartRadioDance.webp">
+</a></p>
+
+iHeart Radio Dance Hits 128Kbps
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
 # PureGold Network
 
 <p align="center"><a href="https://arn.com.au">
