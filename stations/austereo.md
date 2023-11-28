@@ -80,6 +80,16 @@ Hit 100.9 - Hobart 128Kbps
 <audio id="7ttt" controls></audio>
 
 
+<!-- Dance Hits -->
+
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/dancehits.png">
+</a></p>
+
+Dance Hits 128Kbps
+
+<audio id="2dance" controls></audio>
+
 <!------------------ Triple M Network ------------------>
 
 <!-- Triple M - Sydney -->
@@ -879,6 +889,34 @@ Triple M 2000s - Sydney 128Kbps
     // Stop loading the source when the audio is paused
     audio22.addEventListener('pause', function() {
       hls22.stopLoad(); // Stop loading the source
+    });
+  }
+</script>
+
+<script>
+  var audio23 = document.getElementById('2dance');
+  var audioSrc23 = 'https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8';
+  var hls23 = new Hls();
+
+  if (audio23.canPlayType('application/vnd.apple.mpegurl') || (typeof window.Hls === 'undefined')) {
+    audio23.src = audioSrc23; 
+
+  } else {
+
+      hls23.attachMedia(audio23);
+
+    // When the play button is clicked, check if the source is loaded and start playback
+    audio23.addEventListener('play', function() {
+      if (hls23.media && hls23.media.readyState === 4) { // Check if the source is loaded (readyState 4 means loaded)
+        hls23.startLoad(); // Resume loading in case it was stopped
+      } else {
+        hls23.loadSource(audioSrc23); // Provide the path to your .m3u8 file
+        audio23.play();
+      }
+    });
+    // Stop loading the source when the audio is paused
+    audio23.addEventListener('pause', function() {
+      hls23.stopLoad(); // Stop loading the source
     });
   }
 </script>
