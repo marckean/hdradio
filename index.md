@@ -171,6 +171,8 @@ Listen live in high quality to the following radio stations in:
 | ABC Classic 2 | Classical | [128Kbps][ABC Classic 2 NSW 128Kbps] |
 | Hit 106.9 (NXFM) Newcastle | CHR | [128Kbps][Hit 106.9 NSW 128Kbps] |
 | Triple M (KOFM) Newcastle | Rock | [128Kbps][Triple M 102.9 NSW 128Kbps] |
+| FM104.7 Canberra | Rock | [128Kbps][FM104.7 ACT 128Kbps] |
+| Mix 106.3 Canberra | AC | [128Kbps][Mix 106.3 ACT 128Kbps] |
 | Kiis 1011 | CHR | [128Kbps][Kiis 1011 VIC 128Kbps] |
 | Fox FM | CHR | [128Kbps][Fox FM VIC 128Kbps] |
 | Nova 100 | CHR | [128Kbps][Nova 100 VIC 128Kbps] |
@@ -197,6 +199,7 @@ Listen live in high quality to the following radio stations in Brisbane / Queens
 | Triple J | Alternative | [128Kbps][Triple J QLD 128Kbps] |
 | ABC Classic 1 | Classical | [128Kbps][ABC Classic 1 QLD 128Kbps] |
 | Sea FM | CHR | [128Kbps][Sea FM QLD 128Kbps] |
+| Triple M Gold | Rock | [128Kbps][Triple M Gold QLD 128Kbps] |
 | Hot Tomato | CHR | [128Kbps][Hot Tomato QLD 128Kbps] |
 | Triple M 92.5 | Rock | [128Kbps][Triple M 92.5 QLD 128Kbps] |
 | Hot Tomato GOLD | AC | [128Kbps][Hot Tomato GOLD QLD 128Kbps] |
@@ -287,6 +290,8 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [ABC Classic 2 NSW 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/masterhq.m3u8
 [Hit 106.9 NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2xxx_128.stream/playlist.m3u8
 [Triple M 102.9 NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2kko_128.stream/playlist.m3u8
+[FM104.7 ACT 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HIT_SC
+[Mix 106.3 ACT 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063_SC
 [Kiis 1011 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011_SC
 [Fox FM VIC 128Kbps]: https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8
 [Nova 100 VIC 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128_SC
@@ -307,6 +312,7 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [Triple J QLD 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8
 [ABC Classic 1 QLD 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038352/classicfmqld/masterhq.m3u8
 [Sea FM QLD 128Kbps]: https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8
+[Triple M Gold QLD 128Kbps]: https://wz4liw.scahw.com.au/live/4gld_128.stream/playlist.m3u8
 [Hot Tomato QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC
 [Triple M 92.5 QLD 128Kbps]: https://wz4liw.scahw.com.au/live/4gld_128.stream/playlist.m3u8
 [Hot Tomato GOLD QLD 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HTGOLD_SC

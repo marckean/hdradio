@@ -48,6 +48,18 @@ Kiis 973 - Brisbane 128Kbps
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
+<!--Canberra-->
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HIT_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/Hit104.7.webp">
+</a></p>
+
+FM 104.7 - Canberra 128Kbps
+
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HIT_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
 <!--Gold Coast-->
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC">
 <img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/Hot-Tomato-Logo-150x100.png">
@@ -143,6 +155,17 @@ Gold 1043 - Melbourne 128Kbps
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
+<!--Canberra-->
+<p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063_SC">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/Mix106.3.webp">
+</a></p>
+
+Mix 106.3 - Canberra 128Kbps
+
+
+<audio src="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063_SC" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
 
 <!--Adelaide-->
 <p align="left"><a href="https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323_SC">
