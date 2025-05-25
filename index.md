@@ -143,6 +143,7 @@ Listen live in high quality to the following radio stations in:
 | Nova 969 | CHR | [128Kbps][Nova 969 NSW 128Kbps] |
 | Nova 969 | CHR | [320Kbps][Nova 969 NSW 320Kbps] |
 | Cada | CHR | [128Kbps][Cada NSW 128Kbps] |
+| Blender Beats | CHR | [128Kbps][Blender Beats NSW 128Kbps] |
 | Dance Hits | Dance | [128Kbps][Dance Hits NSW 128Kbps] |
 | iHeart Radio Dance | Dance | [128Kbps][iHeart Radio Dance 128Kbps] |
 | Nova Nation | Dance | [128Kbps][Nova Nation 128Kbps] |
@@ -263,6 +264,7 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [Nova 969 NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC
 [Nova 969 NSW 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320_SC
 [Cada NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA_SC
+[Blenda Beats NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2blenderbeats_128.stream/playlist.m3u8
 [Dance Hits NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8
 [iHeart Radio Dance 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7_SC
 [Nova Nation 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC128_SC

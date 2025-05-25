@@ -90,6 +90,16 @@ Dance Hits 128Kbps
 
 <audio id="2dance" controls></audio>
 
+<!-- Blender Beats -->
+
+<p align="left"><a href="https://wz2liw.scahw.com.au/live/2blenderbeats_128.stream/playlist.m3u8">
+<img style="vertical-align:middle;margin:0px 0px 0px 0px" width="200" src="/assets/img/stations/hit-blender-beats-v2.jpg">
+</a></p>
+
+Blender Beats 128Kbps
+
+<audio id="2blenderbeats" controls></audio>
+
 <!------------------ Triple M Network ------------------>
 
 <!-- Triple M - Sydney -->
