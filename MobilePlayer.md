@@ -4,7 +4,6 @@ title: Mobile Player
 subtitle: High Quality Radio, Listen Live Online
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
