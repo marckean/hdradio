@@ -264,7 +264,7 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [Nova 969 NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128_SC
 [Nova 969 NSW 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320_SC
 [Cada NSW 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA_SC
-[Blenda Beats NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2blenderbeats_128.stream/playlist.m3u8
+[Blender Beats NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2blenderbeats_128.stream/playlist.m3u8
 [Dance Hits NSW 128Kbps]: https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8
 [iHeart Radio Dance 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7_SC
 [Nova Nation 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC128_SC
