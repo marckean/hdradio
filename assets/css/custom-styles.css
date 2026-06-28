@@ -268,8 +268,17 @@ audio.is-playing {
   box-shadow: var(--shadow);
   font-size: 1rem;
 }
+/* Override Beautiful Jekyll's white rows + gray cell borders */
+[role="main"] table tr,
+[role="main"] table thead tr,
+[role="main"] table tbody tr {
+  background-color: transparent;
+  border: none;
+  transition: background .15s ease;
+}
 [role="main"] table thead th {
-  background: linear-gradient(120deg, rgba(255,60,172,.32), rgba(177,75,255,.32) 50%, rgba(45,212,255,.32));
+  background-color: #1a1326;           /* solid base under the gradient */
+  background-image: linear-gradient(120deg, rgba(255,60,172,.35), rgba(177,75,255,.35) 50%, rgba(45,212,255,.35));
   color: #ffffff;
   font-weight: 700;
   text-transform: uppercase;
@@ -277,17 +286,19 @@ audio.is-playing {
   font-size: 0.82rem;
   padding: 0.85rem 1.1rem;
   text-align: left;
+  border: none;
   border-bottom: 1px solid var(--border-2);
 }
-[role="main"] table td {
+[role="main"] table tbody td {
   padding: 0.7rem 1.1rem;
+  border: none;
   border-top: 1px solid var(--border);
+  background-color: transparent;       /* let the dark table show through */
   color: #f1f1f8;                      /* high-contrast cell text */
   vertical-align: middle;
 }
-[role="main"] table tbody tr:nth-child(even) td { background: rgba(255, 255, 255, 0.025); }
-[role="main"] table tbody tr { transition: background .15s ease; }
-[role="main"] table tbody tr:hover td { background: rgba(177, 75, 255, 0.14); }
+[role="main"] table tbody tr:nth-child(even) td { background-color: rgba(255, 255, 255, 0.035); }
+[role="main"] table tbody tr:hover td { background-color: rgba(177, 75, 255, 0.16); }
 
 /* Turn the bitrate reference links in the Stream URL column into pills */
 [role="main"] table td a {
