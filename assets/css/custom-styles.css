@@ -106,8 +106,8 @@ blockquote {
 
 .navbar-custom {
   background: rgba(12, 12, 22, 0.55) !important;
-  backdrop-filter: saturate(160%) blur(14px);
   -webkit-backdrop-filter: saturate(160%) blur(14px);
+  backdrop-filter: saturate(160%) blur(14px);
   border-bottom: 1px solid var(--border);
   box-shadow: 0 6px 30px -12px rgba(0, 0, 0, 0.8);
 }
@@ -148,8 +148,8 @@ blockquote {
 
 .navbar-custom .dropdown-menu {
   background: rgba(16, 16, 28, 0.92);
-  backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   box-shadow: var(--shadow);
@@ -259,33 +259,65 @@ audio.is-playing {
 
 [role="main"] table {
   width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
+  border-collapse: collapse;
   margin: 1.5rem 0 2.5rem;
-  background: var(--surface);
+  background: #14141f;                 /* solid so text is always legible */
   border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
   box-shadow: var(--shadow);
+  font-size: 1rem;
 }
-[role="main"] table th {
-  background: var(--grad-soft);
-  color: #fff;
+[role="main"] table thead th {
+  background: linear-gradient(120deg, rgba(255,60,172,.32), rgba(177,75,255,.32) 50%, rgba(45,212,255,.32));
+  color: #ffffff;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   font-size: 0.82rem;
-  padding: 0.85rem 1rem;
+  padding: 0.85rem 1.1rem;
+  text-align: left;
   border-bottom: 1px solid var(--border-2);
 }
 [role="main"] table td {
-  padding: 0.7rem 1rem;
-  border-bottom: 1px solid var(--border);
-  color: var(--text);
+  padding: 0.7rem 1.1rem;
+  border-top: 1px solid var(--border);
+  color: #f1f1f8;                      /* high-contrast cell text */
+  vertical-align: middle;
 }
-[role="main"] table tr:last-child td { border-bottom: none; }
+[role="main"] table tbody tr:nth-child(even) td { background: rgba(255, 255, 255, 0.025); }
 [role="main"] table tbody tr { transition: background .15s ease; }
-[role="main"] table tbody tr:hover { background: var(--surface-2); }
+[role="main"] table tbody tr:hover td { background: rgba(177, 75, 255, 0.14); }
+
+/* Turn the bitrate reference links in the Stream URL column into pills */
+[role="main"] table td a {
+  display: inline-block;
+  padding: 0.28rem 0.85rem;
+  border-radius: 30px;
+  background: var(--grad);
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  box-shadow: 0 6px 18px -8px rgba(177, 75, 255, 0.7);
+  transition: transform .15s ease, filter .15s ease;
+}
+[role="main"] table td a:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.1);
+}
+/* ...but never pill-wrap a link that holds a logo image (eJukebox/iHeart) */
+[role="main"] table td a:has(img) {
+  display: inline;
+  padding: 0;
+  background: none;
+  box-shadow: none;
+}
+
+/* Keep wide tables usable on small screens */
+@media (max-width: 576px) {
+  [role="main"] table { display: block; overflow-x: auto; }
+}
 
 /* --- Buttons / pills -------------------------------------------------- */
 
@@ -326,8 +358,8 @@ code { padding: 0.12rem 0.4rem; }
 
 footer {
   background: rgba(8, 8, 15, 0.85) !important;
-  backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
   border-top: 1px solid var(--border);
   color: var(--text-muted) !important;
 }
@@ -342,18 +374,8 @@ footer .social-network-links a:hover { color: var(--accent) !important; }
   box-shadow: var(--shadow);
 }
 
-/* --- Reveal-on-scroll (progressive enhancement via JS) --------------- */
-
-.reveal {
-  opacity: 0;
-  transform: translateY(18px);
-  transition: opacity .6s ease, transform .6s ease;
-}
-.reveal.in-view { opacity: 1; transform: none; }
-
 /* --- Motion / accessibility ------------------------------------------ */
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
-  .reveal { opacity: 1; transform: none; }
 }
