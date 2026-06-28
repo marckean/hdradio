@@ -277,6 +277,77 @@ subtitle: High Quality Radio, Listen Live Online
             .station-card img { width: 70px; height: 70px; }
             .station-logo { width: 60px; height: 60px; }
         }
+
+        /* ===== Facelift overrides - dark "premium audio" theme ========= */
+        /* Reuses the palette vars from custom-styles.css; falls back if absent. */
+        body {
+            background: transparent;
+            color: var(--text, #e9e9f2);
+        }
+        .player-header { color: #fff; }
+        .player-header h1 {
+            background: var(--grad, linear-gradient(120deg,#ff3cac,#b14bff 50%,#2dd4ff));
+            -webkit-background-clip: text; background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 8px 40px rgba(177,75,255,.3);
+        }
+        .player-header p { color: var(--text-muted, #a2a2b8); opacity: 1; }
+
+        .audio-player,
+        .stations-grid {
+            background: var(--surface, rgba(255,255,255,.05));
+            border: 1px solid var(--border, rgba(255,255,255,.1));
+            backdrop-filter: saturate(160%) blur(14px);
+            -webkit-backdrop-filter: saturate(160%) blur(14px);
+            box-shadow: 0 18px 50px -18px rgba(0,0,0,.75);
+        }
+        .station-info h3 { color: #fff; }
+        .station-info p,
+        .status-indicator { color: var(--text-muted, #a2a2b8); }
+        .status-indicator { background: rgba(255,255,255,.05); }
+
+        .station-logo { border-color: var(--border-2, rgba(255,255,255,.16)); background: #fff; }
+
+        .play-pause-btn {
+            background: var(--grad, linear-gradient(120deg,#ff3cac,#b14bff 50%,#2dd4ff));
+            box-shadow: 0 10px 30px -8px rgba(177,75,255,.55);
+        }
+        .play-pause-btn:hover { transform: scale(1.1); filter: brightness(1.08); }
+
+        .volume-slider { background: rgba(255,255,255,.18); }
+        .volume-slider::-webkit-slider-thumb { background: var(--accent, #b14bff); }
+        .volume-slider::-moz-range-thumb { background: var(--accent, #b14bff); border: none; }
+
+        .section-title {
+            color: #fff;
+            border-bottom: 3px solid transparent;
+            border-image: var(--grad, linear-gradient(120deg,#ff3cac,#b14bff 50%,#2dd4ff)) 1;
+        }
+
+        .station-card {
+            background: var(--surface-2, rgba(255,255,255,.07));
+            border: 1px solid var(--border, rgba(255,255,255,.1));
+        }
+        .station-card:hover {
+            transform: translateY(-8px);
+            background: var(--surface-2, rgba(255,255,255,.09));
+            border-color: var(--accent, #b14bff);
+            box-shadow: 0 14px 34px -8px rgba(177,75,255,.55);
+        }
+        .station-card.playing {
+            border-color: var(--accent-3, #2dd4ff);
+            background: linear-gradient(135deg, rgba(45,212,255,.16), rgba(177,75,255,.16));
+        }
+        .station-card.playing::after { content: "♪"; color: var(--accent-3, #2dd4ff); }
+        .station-card img { background: #fff; border-color: var(--border-2, rgba(255,255,255,.16)); }
+        .station-card:hover img { border-color: var(--accent, #b14bff); }
+        .station-card h4 { color: var(--text, #e9e9f2); }
+
+        .error-message {
+            background: rgba(255, 60, 172, .12);
+            color: #ff9ed4;
+            border-left: 5px solid var(--accent-2, #ff3cac);
+        }
     </style>
 </head>
 <body>
