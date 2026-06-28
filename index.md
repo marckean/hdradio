@@ -228,7 +228,7 @@ Listen live in high quality to the following radio stations in Adelaide / South 
 
 | Station | Format | Stream URL |
 |:-------------|:------------------|:------|
-| Mix 1023 | CHR | [128Kbps][Mix 1023 SA 128Kbps] |
+| Kiis 1023 | CHR | [128Kbps][Kiis 1023 SA 128Kbps] |
 | SAFM | CHR | [128Kbps][SAFM SA 128Kbps] |
 | Nova 919 | CHR | [128Kbps][Nova 919 SA 128Kbps] |
 | Nova 919 | CHR | [320Kbps][Nova 919 SA 320Kbps] |
@@ -328,7 +328,7 @@ Listen live in high quality to the following radio stations in Darwin / Northern
 [Triple M Classic Rock WA 128Kbps]: https://wz2liw.scahw.com.au/live/6classicrock_128.stream/playlist.m3u8
 [Triple J WA 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/masterhq.m3u8
 [ABC Classic 1 WA 128Kbps]: https://mediaserviceslive.akamaized.net/hls/live/2038349/classicfmwa/masterhq.m3u8
-[Mix 1023 SA 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023_SC
+[Kiis 1023 SA 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023_SC
 [SAFM SA 128Kbps]: https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8
 [Nova 919 SA 128Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128_SC
 [Nova 919 SA 320Kbps]: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320_SC
