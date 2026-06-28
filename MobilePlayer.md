@@ -281,7 +281,12 @@ subtitle: High Quality Radio, Listen Live Online
         /* ===== Facelift overrides - dark "premium audio" theme ========= */
         /* Reuses the palette vars from custom-styles.css; falls back if absent. */
         body {
-            background: transparent;
+            background-color: var(--bg-1, #0d0d18);
+            background-image:
+                radial-gradient(48rem 48rem at 12% -8%, rgba(255,60,172,.16), transparent 60%),
+                radial-gradient(46rem 46rem at 98% 4%, rgba(45,212,255,.14), transparent 58%),
+                radial-gradient(60rem 60rem at 50% 120%, rgba(177,75,255,.18), transparent 60%);
+            background-attachment: fixed;
             color: var(--text, #e9e9f2);
         }
         .player-header { color: #fff; }
